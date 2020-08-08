@@ -89,11 +89,11 @@ start_unix = DateToUnix(start_date)
 end_unix = DateToUnix(end_date)
 
 # Load finnhub codes for multiple investment universes
-hong_kong = pd.read_excel('./Final_Data/investment_universe.xlsx',sheet_name="HK")
-united_kingdom = pd.read_excel('./Final_Data/investment_universe.xlsx',sheet_name="GB")
-denmark = pd.read_excel('./Final_Data/investment_universe.xlsx',sheet_name="DK")
-italy = pd.read_excel('./Final_Data/investment_universe.xlsx',sheet_name="IT")
-united_states = pd.read_excel('./Final_Data/investment_universe.xlsx',sheet_name="US")
+hong_kong = pd.read_excel('investment_universe.xlsx',sheet_name="HK")
+united_kingdom = pd.read_excel('investment_universe.xlsx',sheet_name="GB")
+denmark = pd.read_excel('investment_universe.xlsx',sheet_name="DK")
+italy = pd.read_excel('investment_universe.xlsx',sheet_name="IT")
+united_states = pd.read_excel('investment_universe.xlsx',sheet_name="US")
 
 # Group by country
 markets = {}
