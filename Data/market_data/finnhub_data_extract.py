@@ -26,6 +26,11 @@ def MergeStatementDF(statement_df_list):
     output = output.set_index('period')
     return output
 
+def SaveOutput(filename_prefix,**kwargs):
+    for df_name, df in kwargs.items():
+        filename = filename_prefix + '_' + df_name + '.csv'
+        df.to_csv(filename)
+
 def FinnHubCode(ticker,market):
     return ticker + '.' + market
 
@@ -112,10 +117,10 @@ for market, universe in markets.items():
     ticker_no_price_data = [] # Reconciliation
     ticker_no_financial_data = [] # Reconciliation
     
-    ### Debug
-    # if market == 'HK' or market == 'L' or market == 'CO' or market == 'MI':
-    #     continue
-    ###
+    ## Debug
+    if market == 'HK'or market == 'L': #  or market == 'CO' or market == 'MI'
+        continue
+    ##
     
     # Get list of stocks
     ticker_list = list(universe.finnhub)
@@ -139,7 +144,7 @@ for market, universe in markets.items():
             stock_financial_data['ticker'] = ticker
             stock_financial_data['market'] = market
             # Add to master data DF
-            master_financial_data = master_price_data.append(stock_financial_data)
+            master_financial_data = master_financial_data.append(stock_financial_data)
         else:
             ticker_no_financial_data.append(ticker)
             
@@ -153,7 +158,12 @@ for market, universe in markets.items():
     failed_company_data = failed_company_data.append(GetFailedCompanies(ticker_no_price_data,universe,"price"))
     failed_company_data = failed_company_data.append(GetFailedCompanies(ticker_no_financial_data,universe,"financials"))
     
+    # Save price data as excel
+    print("\n\nSaving Checkpoint...")
+    filename = 'checkpoint_' + market
+    SaveOutput(filename,price_data = master_price_data, financial_data = master_financial_data)
+    time.sleep(60)
+    
 # Save price data as excel
 print("\n\nSaving data...")
-master_price_data.to_csv('master_price_data.csv')
-master_financial_data.to_csv('master_financial_data.csv')
+SaveOutput('master',price_data = master_price_data, financial_data = master_financial_data)
