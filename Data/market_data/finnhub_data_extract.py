@@ -60,12 +60,13 @@ def GetFinancials(client,ticker,frequency,backtest_start_date):
             return date_to_check >= date_window
         
         index = 0
-        while True:
+        while index < len(statement_df):
             statement_date = statement_df.iloc[index][0]['period']
             if CheckDate(statement_date,backtest_start_date):
                 index += 1
             else:
                 return index + 1 # Include first statement out of period
+        return index
     
     statement_type_list = ['bs','ic','cf']
     statement_df_list = []
@@ -118,7 +119,7 @@ for market, universe in markets.items():
     ticker_no_financial_data = [] # Reconciliation
     
     ## Debug
-    if market == 'HK'or market == 'L': #  or market == 'CO' or market == 'MI'
+    if market == 'HK'or market == 'L' or market == 'CO' or market == 'MI': #  
         continue
     ##
     
@@ -157,13 +158,19 @@ for market, universe in markets.items():
     # Save companies that failed to download for price and financials
     failed_company_data = failed_company_data.append(GetFailedCompanies(ticker_no_price_data,universe,"price"))
     failed_company_data = failed_company_data.append(GetFailedCompanies(ticker_no_financial_data,universe,"financials"))
+    SaveOutput(market,failed_company_data = failed_company_data)
+    
     
     # Save price data as excel
     print("\n\nSaving Checkpoint...")
     filename = 'checkpoint_' + market
-    SaveOutput(filename,price_data = master_price_data, financial_data = master_financial_data)
+    SaveOutput(filename,
+               price_data = master_price_data,
+               financial_data = master_financial_data)
     time.sleep(60)
     
 # Save price data as excel
 print("\n\nSaving data...")
-SaveOutput('master',price_data = master_price_data, financial_data = master_financial_data)
+SaveOutput('master',
+           price_data = master_price_data,
+           financial_data = master_financial_data)

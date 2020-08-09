@@ -44,26 +44,47 @@ Shareholder-friendly management:
  - Share Buybacks
 """
 
+def FinnHubFinancials(financials_df):
+    return {'net_income' : financials_df['netIncome'],
+            'total_assets' : financials_df['totalAssets'],
+            'total_debt' : financials_df['totalDebt'],
+            'shareholder_equity' : financials_df['totalAssets'] - financials_df['totalDebt'],
+            'operating_cash_flow' : financials_df['cashfromOperatingActivities'],
+            'ebitda' : financials_df['netIncomeBeforeTaxes']
+            }
+
 def EquityQuality(net_income,
                   shareholder_equity,
                   operating_cash_flow,
                   total_assets,
                   # accruals,
                   ebitda,
-                  total_debt,
-                  share_buybacks):
-    # Calculate every metric in a dictionary
+                  total_debt):
     metrics = {'return_on_equity' : net_income / shareholder_equity,
                'cash_flow_to_assets' : operating_cash_flow / total_assets,
                #'accruals' : 
                'debt_to_earnings' : total_debt / ebitda,
-               'asset_leverage' : total_debt / total_assets,
-               'share_buybacks' : share_buybacks
+               'asset_leverage' : total_debt / total_assets
+               # 'share_buybacks' : share_buybacks
+               }
+    return pd.DataFrame(metrics)
+
+def EquitySize(cash_and_equivalents,
+               total_debt,
+               outstanding_shares,
+               total_assets,
+               share_price):
+    metrics = {'return_on_equity' : net_income / shareholder_equity,
+               'cash_flow_to_assets' : operating_cash_flow / total_assets,
+               #'accruals' : 
+               'debt_to_earnings' : total_debt / ebitda,
+               'asset_leverage' : total_debt / total_assets
+               # 'share_buybacks' : share_buybacks
                }
     return pd.DataFrame(metrics)
 
 # load sample data
-sample_price = pd.read_csv('checkpoint_price_data.csv')
-sample_financial = pd.read_csv('checkpoint_financial_data.csv')
+sample_price = pd.read_csv('checkpoint_CO_price_data.csv')
+sample_financial = pd.read_csv('checkpoint_CO_financial_data.csv')
 
-quality = EquityQuality(metrics['return_on_equity'])
+# calculate 
