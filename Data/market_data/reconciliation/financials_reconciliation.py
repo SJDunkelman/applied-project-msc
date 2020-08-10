@@ -14,7 +14,7 @@ import time
 # Initialisation
 finnhub_client = fh.Client(api_key="br4je57rh5r8ufeothr0")
 quandl.ApiConfig.api_key = "tGZHNrmk8QrR7yXGnT42"
-tickers_df = pd.read_csv('failed_company_data.csv')
+# tickers_df = pd.read_csv('failed_company_data.csv')
 robur_codes_df = pd.read_csv('./rb1codes.csv')
 robur_statements = ['BALANCE','CASHFLOW','INCOME']
 yf.pdr_override()
@@ -37,7 +37,7 @@ def GetRoburCompanyCode(isin):
         return None
 
 def GetQuandlCode(company_code,financial_statement):
-    return "RB1/{company_code}_HY{financial_statement}".format(company_code,financial_statement)
+    return "RB1/{company_code}_HY{financial_statement}".format(company_code=company_code,financial_statement=financial_statement)
 
 def MergeStatementDF(statement_df_list):
     output = statement_df_list[0].merge(statement_df_list[1],on="period")
