@@ -1,0 +1,12 @@
+,ticker,robur_code
+0,5.HK,"77    81
+Name: company_code, dtype: int64"
+1,11.HK,"1652    1688
+Name: company_code, dtype: int64"
+2,388.HK,"1658    1694
+Name: company_code, dtype: int64"
+3,939.HK,N/A
+4,1299.HK,"1646    1682
+Name: company_code, dtype: int64"
+5,1398.HK,N/A
+6,2318.HK,N/A

@@ -1,0 +1,253 @@
+,ticker,company,reason_failed
+0,1299.HK,"4    AIA
+Name: company, dtype: object",price
+1,2318.HK,"6    PING AN
+Name: company, dtype: object",price
+2,83.HK,"18    SINO LAND
+Name: company, dtype: object",price
+3,688.HK,"20    CHINA OVERSEAS
+Name: company, dtype: object",price
+4,1109.HK,"22    CHINA RES LAND
+Name: company, dtype: object",price
+5,19.HK,"27    SWIRE PACIFIC A
+Name: company, dtype: object",price
+6,27.HK,"28    GALAXY ENT
+Name: company, dtype: object",price
+7,151.HK,"30    WANT WANT CHINA
+Name: company, dtype: object",price
+8,338.HK,"34    SINOPEC CORP
+Name: company, dtype: object",price
+9,669.HK,"35    TECHTRONIC IND
+Name: company, dtype: object",price
+10,700.HK,"36    TENCENT
+Name: company, dtype: object",price
+11,762.HK,"37    CHINA UNICOM
+Name: company, dtype: object",price
+12,883.HK,"39    CNOOC
+Name: company, dtype: object",price
+13,941.HK,"40    CHINA MOBILE
+Name: company, dtype: object",price
+0,939.HK,"3    CCB
+Name: company, dtype: object",financials
+1,1398.HK,"5    ICBC
+Name: company, dtype: object",financials
+2,2318.HK,"6    PING AN
+Name: company, dtype: object",financials
+3,2628.HK,"8    CHINA LIFE
+Name: company, dtype: object",financials
+4,3328.HK,"9    BANKCOMM
+Name: company, dtype: object",financials
+5,3988.HK,"10    BANK OF CHINA
+Name: company, dtype: object",financials
+6,338.HK,"34    SINOPEC CORP
+Name: company, dtype: object",financials
+7,857.HK,"38    PETROCHINA
+Name: company, dtype: object",financials
+8,1088.HK,"42    CHINA SHENHUA
+Name: company, dtype: object",financials
+0,MSLH.L,"1    MARSHALLS PLC ORD 25P
+Name: company, dtype: object",price
+1,ASCL.L,"6    ASCENTIAL PLC ORD 1P
+Name: company, dtype: object",price
+2,TRN.L,"11    TRAINLINE PLC ORD 1P
+Name: company, dtype: object",price
+3,SVS.L,"13    SAVILLS PLC ORD 2.5P
+Name: company, dtype: object",price
+4,HTWS.L,"18    HELIOS TOWERS PLC ORD 1P
+Name: company, dtype: object",price
+5,CRST.L,"20    CREST NICHOLSON HOLDINGS PLC ORD 5P
+Name: company, dtype: object",price
+6,MGAM.L,"26    MORGAN ADVANCED MATERIALS PLC ORD 25P
+Name: company, dtype: object",price
+7,FUTR.L,"28    FUTURE PLC ORD 15P
+Name: company, dtype: object",price
+8,PIN.L,"30    PANTHEON INTERNATIONAL PLC ORD 67P
+Name: company, dtype: object",price
+9,DNLM.L,"32    DUNELM GROUP PLC ORD 1P
+Name: company, dtype: object",price
+10,RSW.L,"37    RENISHAW PLC ORD 20P
+Name: company, dtype: object",price
+11,PCT.L,"39    POLAR CAPITAL TECHNOLOGY TRUST PLC ORD 25P
+Name: company, dtype: object",price
+12,RHIM.L,"41    RHI MAGNESITA N.V. ORD EUR1.00 (DI)
+Name: company, dtype: object",price
+13,MAB.L,"46    MITCHELLS & BUTLERS PLC ORD 8 13/24P
+Name: company, dtype: object",price
+14,BWY.L,"47    BELLWAY PLC ORD 12.5P
+Name: company, dtype: object",price
+15,TRY.L,"48    TR PROPERTY INV TST PLC ORD 25P
+Name: company, dtype: object",price
+16,DPH.L,"49    DECHRA PHARMACEUTICALS PLC ORD 1P
+Name: company, dtype: object",price
+17,INCH.L,"54    INCHCAPE PLC ORD 10P
+Name: company, dtype: object",price
+18,SRE.L,"55    SIRIUS REAL ESTATE LD ORD NPV
+Name: company, dtype: object",price
+19,PRTC.L,"57    PURETECH HEALTH PLC ORD 1P
+Name: company, dtype: object",price
+20,VVO.L,"62    VIVO ENERGY PLC ORD USD0.50
+Name: company, dtype: object",price
+21,BVIC.L,"72    BRITVIC PLC ORD 20P
+Name: company, dtype: object",price
+22,DOM.L,"75    DOMINO'S PIZZA GROUP PLC ORD 25/48P
+Name: company, dtype: object",price
+23,CPI.L,"78    CAPITA PLC ORD 2.066666P
+Name: company, dtype: object",price
+24,OXB.L,"79    OXFORD BIOMEDICA PLC ORD 50P
+Name: company, dtype: object",price
+25,DLG.L,"84    DIRECT LINE INSURANCE GROUP PLC ORD 10 10/11P
+Name: company, dtype: object",price
+26,TATE.L,"90    TATE & LYLE PLC ORD 25P
+Name: company, dtype: object",price
+27,DRX.L,"91    DRAX GROUP PLC ORD 11 16/29P
+Name: company, dtype: object",price
+28,LWDB.L,"94    LAW DEBENTURE CORPORATION PLC ORD 5P
+Name: company, dtype: object",price
+29,AO..L,"102    AO WORLD PLC ORD 0.25P
+Name: company, dtype: object",price
+30,WTAN.L,"107    WITAN INV TST PLC ORD 5P
+Name: company, dtype: object",price
+31,RCP.L,"108    RIT CAPITAL PARTNERS PLC ORD £1
+Name: company, dtype: object",price
+32,HICL.L,"111    HICL INFRASTRUCTURE PLC ORD 0.01P
+Name: company, dtype: object",price
+33,PSH.L,"113    PERSHING SQUARE HOLDINGS LTD ORD NPV
+Name: company, dtype: object",price
+34,BNKR.L,"116    BANKERS INV TST PLC ORD 25P
+Name: company, dtype: object",price
+35,ATST.L,"119    ALLIANCE TRUST PLC ORD 2.5P
+Name: company, dtype: object",price
+36,NESF.L,"120    NEXTENERGY SOLAR FUND LIMITED RED ORD NPV
+Name: company, dtype: object",price
+37,GSS.L,"125    GENESIS EMERGING MARKETS FUND LD PTG NPV
+Name: company, dtype: object",price
+38,LXI.L,"133    LXI REIT PLC ORD 1P
+Name: company, dtype: object",price
+39,MGGT.L,"135    MEGGITT PLC ORD 5P
+Name: company, dtype: object",price
+40,ECM.L,"138    ELECTROCOMPONENTS PLC ORD 10P
+Name: company, dtype: object",price
+41,DIGS.L,"144    GCP STUDENT LIVING PLC ORD 1P
+Name: company, dtype: object",price
+42,QQ..L,"150    QINETIQ GROUP PLC ORD 1P
+Name: company, dtype: object",price
+43,DC..L,"153    DIXONS CARPHONE PLC ORD 0.1P
+Name: company, dtype: object",price
+44,ESNT.L,"155    ESSENTRA PLC ORD 25P
+Name: company, dtype: object",price
+45,CCC.L,"163    COMPUTACENTER PLC ORD 7 5/9P
+Name: company, dtype: object",price
+46,PAG.L,"165    PARAGON BANKING GROUP PLC ORD 100P
+Name: company, dtype: object",price
+47,JEO.L,"167    EUROPEAN OPPORTUNITIES TRUST PLC ORD 1P
+Name: company, dtype: object",price
+48,HSTG.L,"172    HASTINGS GROUP HOLDINGS PLC ORD GBP0.02
+Name: company, dtype: object",price
+49,SEQI.L,"174    SEQUOIA ECONOMIC INFRASTRUCTURE INC ORD NPV
+Name: company, dtype: object",price
+50,JLG.L,"180    JOHN LAING GROUP PLC ORD 10P
+Name: company, dtype: object",price
+51,EDIN.L,"184    EDINBURGH INV TST PLC ORD 25P
+Name: company, dtype: object",price
+52,SNN.L,"190    SANNE GROUP PLC ORD GBP0.01
+Name: company, dtype: object",price
+53,PLI.L,"193    PERPETUAL INCOME&GROWTH INV TST PLC ORD 10P
+Name: company, dtype: object",price
+54,SAIN.L,"194    SCOTTISH AMERICAN INV CO PLC ORD 25P
+Name: company, dtype: object",price
+55,ULE.L,"195    ULTRA ELECTRONICS HOLDINGS PLC ORD 5P
+Name: company, dtype: object",price
+56,UKW.L,"207    GREENCOAT UK WIND PLC ORD 1P
+Name: company, dtype: object",price
+57,PFC.L,"211    PETROFAC LD ORD USD0.02
+Name: company, dtype: object",price
+58,WG..L,"213    WOOD GROUP (JOHN) PLC ORD 4 2/7P
+Name: company, dtype: object",price
+59,KNOS.L,"219    KAINOS GROUP PLC ORD 0.5P
+Name: company, dtype: object",price
+60,GOG.L,"221    GO-AHEAD GROUP PLC ORD 10P
+Name: company, dtype: object",price
+61,TMPL.L,"222    TEMPLE BAR INV TST PLC ORD 25P
+Name: company, dtype: object",price
+62,VMUK.L,"229    VIRGIN MONEY UK PLC ORD GBP0.10
+Name: company, dtype: object",price
+63,BRWM.L,"232    BLACKROCK WORLD MINING TRUST PLC ORD 5P
+Name: company, dtype: object",price
+64,SRP.L,"237    SERCO GROUP PLC ORD 2P
+Name: company, dtype: object",price
+65,TCAP.L,"249    TP ICAP PLC ORD 25P
+Name: company, dtype: object",price
+66,GVC.L,"254    GVC Holdings
+Name: company, dtype: object",price
+67,MCS.L,"260    Mccarthy & Stone
+Name: company, dtype: object",price
+68,RTN.L,"269    Restaurant Group
+Name: company, dtype: object",price
+69,MTRO.L,"278    Metro Bank
+Name: company, dtype: object",price
+70,WPCT.L,"281    Woodford Patient Capital Trust
+Name: company, dtype: object",price
+71,JD.L,"284    JD Sport Fashion
+Name: company, dtype: object",price
+72,KIE.L,"285    Kier Group
+Name: company, dtype: object",price
+0,SOI.L,"77    SCHRODER ORIENTAL INCOME FUND LD ORD 1P
+Name: company, dtype: object",financials
+1,CLSN.L,"103    CALISEN PLC ORD GBP0.01
+Name: company, dtype: object",financials
+2,WPCT.L,"281    Woodford Patient Capital Trust
+Name: company, dtype: object",financials
+0,CARL-B.CO,"1    Carlsberg A/S
+Name: company, dtype: object",price
+1,TRYG.CO,"5    Tryg A/S
+Name: company, dtype: object",price
+2,NZYM-B.CO,"7    Novozymes A/S
+Name: company, dtype: object",price
+3,MAERSK-B.CO,"9    A.P. Moller - Marsk A/S
+Name: company, dtype: object",price
+4,AMBU-B.CO,"11    Ambu A/S
+Name: company, dtype: object",price
+5,MAERSK-A.CO,"13    A.P. Moller - Marsk A/S
+Name: company, dtype: object",price
+6,COLO-B.CO,"15    Coloplast A/S
+Name: company, dtype: object",price
+7,NOVO-B.CO,"19    Novo Nordisk A/S
+Name: company, dtype: object",price
+8,VWS.CO,"21    Vestas Wind Systems A/S
+Name: company, dtype: object",price
+9,ROCK-B.CO,"22    ROCKWOOL International A/S
+Name: company, dtype: object",price
+10,SIM.CO,"24    SimCorp A/S
+Name: company, dtype: object",price
+0,MAERSK-A.CO,"13    A.P. Moller - Marsk A/S
+Name: company, dtype: object",financials
+0,AZM.MI,"4    Azimut Holding S.p.A.
+Name: company, dtype: object",price
+1,BMED.MI,"6    Banca Mediolanum S.p.A.
+Name: company, dtype: object",price
+2,BZU.MI,"9    Buzzi Unicem S.p.A.
+Name: company, dtype: object",price
+3,CPR.MI,"10                         Campari
+12    Davide Campari-Milano S.p.A.
+Name: company, dtype: object",price
+4,CPR.MI,"10                         Campari
+12    Davide Campari-Milano S.p.A.
+Name: company, dtype: object",price
+5,EXO.MI,"16    Exor
+Name: company, dtype: object",price
+6,FBK.MI,"19    FinecoBank Banca Fineco S.p.A.
+Name: company, dtype: object",price
+7,INW.MI,"23    Inwit
+Name: company, dtype: object",price
+8,LDO.MI,"25    Leonardo S.p.a.
+Name: company, dtype: object",price
+9,SPM.MI,"32    Saipem SpA
+Name: company, dtype: object",price
+10,SRG.MI,"34    Snam S.p.A.
+Name: company, dtype: object",price
+11,TEN.MI,"37    Tenaris S.A.
+Name: company, dtype: object",price
+12,TRN.MI,"38    Terna - Rete Elettrica Nazionale Societa per A...
+Name: company, dtype: object",price
+13,US.MI,"44    Unipolsai
+Name: company, dtype: object",price

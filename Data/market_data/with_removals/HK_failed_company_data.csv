@@ -1,0 +1,47 @@
+,ticker,company,reason_failed
+0,1299.HK,"4    AIA
+Name: company, dtype: object",price
+1,2318.HK,"6    PING AN
+Name: company, dtype: object",price
+2,83.HK,"18    SINO LAND
+Name: company, dtype: object",price
+3,688.HK,"20    CHINA OVERSEAS
+Name: company, dtype: object",price
+4,1109.HK,"22    CHINA RES LAND
+Name: company, dtype: object",price
+5,19.HK,"27    SWIRE PACIFIC A
+Name: company, dtype: object",price
+6,27.HK,"28    GALAXY ENT
+Name: company, dtype: object",price
+7,151.HK,"30    WANT WANT CHINA
+Name: company, dtype: object",price
+8,338.HK,"34    SINOPEC CORP
+Name: company, dtype: object",price
+9,669.HK,"35    TECHTRONIC IND
+Name: company, dtype: object",price
+10,700.HK,"36    TENCENT
+Name: company, dtype: object",price
+11,762.HK,"37    CHINA UNICOM
+Name: company, dtype: object",price
+12,883.HK,"39    CNOOC
+Name: company, dtype: object",price
+13,941.HK,"40    CHINA MOBILE
+Name: company, dtype: object",price
+0,939.HK,"3    CCB
+Name: company, dtype: object",financials
+1,1398.HK,"5    ICBC
+Name: company, dtype: object",financials
+2,2318.HK,"6    PING AN
+Name: company, dtype: object",financials
+3,2628.HK,"8    CHINA LIFE
+Name: company, dtype: object",financials
+4,3328.HK,"9    BANKCOMM
+Name: company, dtype: object",financials
+5,3988.HK,"10    BANK OF CHINA
+Name: company, dtype: object",financials
+6,338.HK,"34    SINOPEC CORP
+Name: company, dtype: object",financials
+7,857.HK,"38    PETROCHINA
+Name: company, dtype: object",financials
+8,1088.HK,"42    CHINA SHENHUA
+Name: company, dtype: object",financials

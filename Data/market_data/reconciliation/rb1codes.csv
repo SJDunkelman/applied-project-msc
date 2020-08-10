@@ -1,980 +1,980 @@
-company_code,short_name,country,isin,sector_group,sector,share_currency,reference_currency
-0001,A2A,Italy,IT0001233417,utilities,diversified utilities,EUR,EUR
-0002,ABB,Switzerland,CH0012221716,industrial,power nuclear and heavy engineering,CHF,CHF
-0004,ABI,Belgium,BE0974293251,consumer,beverage manufacturers,EUR,EUR
-0005,Credit Agricole,France,FR0000045072,services,banking,EUR,EUR
-0006,ACS,Spain,ES0167050915,construction,infrastructure construction and services,EUR,EUR
-0007,Adecco,Switzerland,CH0012138605,services,HR and recruitment,CHF,CHF
-0008,Admiral,UK,GB00B02J6398,services,insurance — general,GBP,GBP
-0009,Ahold Delhaize,Netherlands,NL0011794037,consumer,diversified wholesale and retail,EUR,EUR
-0010,Akzo Nobel,Netherlands,NL0000009132,chemicals,paints and coatings,EUR,EUR
-0011,Alfa Laval,Sweden,SE0000695876,industrial,industrial equipment and light machinery,SEK,SEK
-0012,Autoliv,USA,US0528001094,vehicles,auto parts and components,USD,USD
-0013,Allianz,Germany,DE0008404005,services,insurance — general,EUR,EUR
-0014,Carlyle Group,USA,US14309L1026,services,financial services,USD,USD
-0015,Acciona,Spain,ES0125220311,construction,infrastructure construction and services,EUR,EUR
-0017,Atlantia,Italy,IT0003506190,transport,roads tolls and traffic management,EUR,EUR
-0018,Antevenio,Spain,ES0109429037,media publishing,advertising — marketing — media — e—commerce,EUR,EUR
-0019,Astrazeneca,UK,GB0009895292,healthcare,pharmaceuticals and biosciences,GBP,GBP
-0020,Babcock,UK,GB0009697037,services,engineering and technical services,GBP,GBP
-0021,Baloise,Switzerland,CH0012410517,services,insurance — general,CHF,CHF
-0022,BASF,Germany,DE000BASF111,chemicals,chemicals and petrochemicals,EUR,EUR
-0023,BAT,UK,GB0002875804,consumer,tobacco,GBP,GBP
-0024,Bayer,Germany,DE000BAY0017,healthcare,pharmaceuticals and biosciences,EUR,EUR
-0025,BBVA,Spain,ES0113211835,services,banking,EUR,EUR
-0026,BCP,Portugal,PTBCP0AM0007,services,banking,EUR,EUR
-0027,Befimmo,Belgium,BE0003678894,real estate,office commercial and industrial real estate,EUR,EUR
-0028,Proximus,Belgium,BE0003810273,telecommunications,diversified telecommunications,EUR,EUR
-0029,ENEL,Italy,IT0003128367,utilities,diversified utilities,EUR,EUR
-0030,Beazley,UK,JE00B64G9089,services,insurance — general,GBP,GBP
-0031,Berkeley Group,UK,GB00B02L3W35,real estate,residential real estate,GBP,GBP
-0032,Bloomsbury,UK,GB0033147751,media publishing,publishing and printing,GBP,GBP
-0033,British Land,UK,GB0001367019,real estate,office commercial and industrial real estate,GBP,GBP
-0034,BMW,Germany,DE0005190003,vehicles,car truck and bus manufacturers,EUR,EUR
-0035,BNP,France,FR0000131104,services,banking,EUR,EUR
-0036,Boskalis,Netherlands,NL0000852580,industrial,marine salvage dredging offshore services,EUR,EUR
-0037,BP,UK,GB0007980591,primary production,oil and gas,GBP,GBP
-0038,3i Infrastrct,UK,JE00BF5FX167,construction,infrastructure construction and services,GBP,GBP
-0039,BT,UK,GB0030913577,telecommunications,diversified telecommunications,GBP,GBP
-0040,Caixabank,Spain,ES0140609019,services,banking,EUR,EUR
-0041,CEZ AS,Czech Republic,CZ0005112300,utilities,electricity distribution and generation,CZK,CZK
-0042,Domino Pizza AU,Australia,AU000000DMP0,consumer,restaurants,AUD,AUD
-0043,Carillion,UK,GB0007365546,construction,construction — industrial and diversified,GBP,GBP
-0044,Centrica,UK,GB00B033F229,utilities,diversified utilities,GBP,GBP
-0045,Cofinimmo,Belgium,BE0003593044,real estate,diversified real estate,EUR,EUR
-0046,Soul Pattinson,Australia,AU000000SOL3,conglomerates,diversified conglomerates,AUD,AUD
-0047,CRH,Ireland,IE0001827041,industrial,building and construction materials,EUR,EUR
-0048,Credit Suisse N,Switzerland,CH0012138530,services,banking,CHF,CHF
-0049,Metsa Board B,Finland,FI0009000665,industrial,paper products (not packaging),EUR,EUR
-0050,Daimler,Germany,DE0007100000,vehicles,car truck and bus manufacturers,EUR,EUR
-0051,Vinci,France,FR0000125486,construction,construction — industrial and diversified,EUR,EUR
-0052,Diageo,UK,GB0002374006,consumer,beverage manufacturers,GBP,GBP
-0053,Delta Lloyd old,Special Spare,dead ISIN 53,services,insurance — general,EUR,EUR
-0054,Deutsche Post,Germany,DE0005552004,transport,transport logistics and distribution,EUR,EUR
-0055,Drax,UK,GB00B1VNSX38,utilities,electricity distribution and generation,GBP,GBP
-0056,Deut Telekom,Germany,DE0005557508,telecommunications,diversified telecommunications,EUR,EUR
-0057,EDF,France,FR0010242511,utilities,electricity distribution and generation,EUR,EUR
-0058,Endesa,Spain,ES0130670112,utilities,diversified utilities,EUR,EUR
-0059,Elisa,Finland,FI0009007884,telecommunications,diversified telecommunications,EUR,EUR
-0060,MAN,UK,GB00B83VD954,services,financial services,GBP,GBP
-0061,Enagas,Spain,ES0130960018,industrial,pipelines and energy storage,EUR,EUR
-0062,Reece Ltd,Australia,AU000000REH4,industrial,building and construction materials,AUD,AUD
-0063,Eni,Italy,IT0003132476,primary production,oil and gas,EUR,EUR
-0064,E.ON,Germany,DE000ENAG999,utilities,diversified utilities,EUR,EUR
-0065,Ericsson,Sweden,SE0000108656,IT,internet and networking services,SEK,SEK
-0066,Fomento CC,Spain,ES0122060314,construction,construction — industrial and diversified,EUR,EUR
-0067,Covivio,France,FR0000064578,real estate,office commercial and industrial real estate,EUR,EUR
-0068,Finmeccanica,Italy,IT0003856405,industrial,aerospace,EUR,EUR
-0069,Total old,Special Spare,dead ISIN 69,primary production,oil and gas,EUR,EUR
-0070,Valeo,France,FR0013176526,vehicles,auto parts and components,EUR,EUR
-0071,Fortum,Finland,FI0009007132,utilities,electricity distribution and generation,EUR,EUR
-0072,Naturgy Energy,Spain,ES0116870314,utilities,gas and water utilities,EUR,EUR
-0073,Geberit,Switzerland,CH0030170408,industrial,building and construction materials,CHF,CHF
-0075,Soc Generale,France,FR0000130809,services,banking,EUR,EUR
-0076,GlaxoSmithKline,UK,GB0009252882,healthcare,pharmaceuticals and biosciences,GBP,GBP
-0077,Engie,France,FR0010208488,utilities,diversified utilities,EUR,EUR
-0078,H&M,Sweden,SE0000106270,consumer,clothing and shoe manufacturers,SEK,SEK
-0079,Hammerson,UK,GB0004065016,real estate,diversified real estate,GBP,GBP
-0080,Hannover Rueck,Germany,DE0008402215,services,reinsurance,EUR,EUR
-0081,HSBC,UK,GB0005405286,services,banking,GBP,GBP
-0082,Hansteen,UK,GB00B0PPFY88,real estate,office commercial and industrial real estate,GBP,GBP
-0083,Hiscox,UK,BMG4593F1389,services,insurance — general,GBP,GBP
-0084,Iberdrola,Spain,ES0144580Y14,utilities,diversified utilities,EUR,EUR
-0085,Icade,France,FR0000035081,real estate,office commercial and industrial real estate,EUR,EUR
-0086,Intermediate Cp,UK,GB00BYY5B507,services,financial services,GBP,GBP
-0087,Imperial Brands,UK,GB0004544929,consumer,tobacco,GBP,GBP
-0088,ING Groep,Netherlands,NL0011821202,services,banking,EUR,EUR
-0089,Intesa Sanpaolo,Italy,IT0000072618,services,banking,EUR,EUR
-0090,Kier,UK,GB0004915632,construction,construction — industrial and diversified,GBP,GBP
-0091,KPN,Netherlands,NL0000009082,telecommunications,diversified telecommunications,EUR,EUR
-0092,Land Securities,UK,GB0031809436,real estate,office commercial and industrial real estate,GBP,GBP
-0093,Westgold Res,Australia,AU000000WGX6,primary production,metals and minerals mining and exploration,AUD,AUD
-0094,Legal & General,UK,GB0005603997,services,insurance — life and health,GBP,GBP
-0095,Solocal,France,FR0012938884,media publishing,advertising — marketing — media — e—commerce,EUR,EUR
-0096,Lancashire,UK,BMG5361W1047,services,insurance — general,GBP,GBP
-0097,Mapfre,Spain,ES0124244E34,services,insurance — general,EUR,EUR
-0098,Link Admin,Australia,AU000000LNK2,services,business services,AUD,AUD
-0099,Metso,Finland,FI0009007835,industrial,power nuclear and heavy engineering,EUR,EUR
-0100,Morgan Adv Mats,UK,GB0006027295,technology,research and specialist materials,GBP,GBP
-0101,Mowi,Norway,NO0003054108,primary production,agribusiness agriculture and fishing,NOK,NOK
-0102,Lagardere SCA,France,FR0000130213,media publishing,publishing and printing,EUR,EUR
-0103,Metropole TV,France,FR0000053225,consumer,entertainment and broadcasting,EUR,EUR
-0104,Mediaset,Italy,IT0001063210,consumer,entertainment and broadcasting,EUR,EUR
-0105,ArcelorMittal,Luxembourg,LU0323134006,primary production,steel production and products,EUR,EUR
-0106,Mun Re,Germany,DE0008430026,services,reinsurance,EUR,EUR
-0107,National Grid,UK,GB00B08SNH34,utilities,diversified utilities,GBP,GBP
-0108,Nokia old,Special Spare,dead ISIN 108,IT,internet and networking services,EUR,EUR
-0109,Novartis,Switzerland,CH0012005267,healthcare,pharmaceuticals and biosciences,CHF,CHF
-0110,Nokian Tyres,Finland,FI0009005318,vehicles,tire manufacturers,EUR,EUR
-0111,Orange,France,FR0000133308,telecommunications,diversified telecommunications,EUR,EUR
-0112,Orkla,Norway,NO0003733800,consumer,household consumables manufacturers,NOK,NOK
-0113,Orion Oyj,Finland,FI0009014377,healthcare,pharmaceuticals and biosciences,EUR,EUR
-0114,Provident Fin,UK,GB00B1Z4ST84,services,financial services,GBP,GBP
-0115,Philips,Netherlands,NL0000009538,electrical electronic,electrical equipment,EUR,EUR
-0116,PostNL,Netherlands,NL0009739416,transport,transport logistics and distribution,EUR,EUR
-0117,Prosiebensat,Germany,DE000PSM7770,consumer,entertainment and broadcasting,EUR,EUR
-0118,Pearson,UK,GB0006776081,media publishing,publishing and printing,GBP,GBP
-0119,Portug Telecom,Portugal,PTPTC0AM0009,telecommunications,diversified telecommunications,EUR,EUR
-0120,Prudential,UK,GB0007099541,services,insurance — life and health,GBP,GBP
-0121,Ratos,Sweden,SE0000111940,industrial,diversified industrial,SEK,SEK
-0122,Reckitt Ben old,Special Spare,dead ISIN 122,consumer,household consumables manufacturers,GBP,GBP
-0123,Carindale Prop,Australia,AU000000CDP1,real estate,retail and malls real estate,AUD,AUD
-0124,Relx,UK,GB00B2B0DG97,media publishing,publishing and printing,GBP,GBP
-0125,Event Hosp,Australia,AU000000EVT1,consumer,hotels travel gambling and leisure,AUD,AUD
-0126,Renault,France,FR0000131906,vehicles,car truck and bus manufacturers,EUR,EUR
-0127,Roche,Switzerland,CH0012032048,healthcare,pharmaceuticals and biosciences,CHF,CHF
-0128,Rolls,UK,GB00B63H8491,industrial,engines and heavy machinery,GBP,GBP
-0129,RSA Insurance,UK,GB00BKKMKR23,services,insurance — general,GBP,GBP
-0130,RWE,Germany,DE0007037129,utilities,diversified utilities,EUR,EUR
-0131,Sanoma,Finland,FI0009007694,media publishing,publishing and printing,EUR,EUR
-0132,Banco Santander,Spain,ES0113900J37,services,banking,EUR,EUR
-0133,Sanofi,France,FR0000120578,healthcare,pharmaceuticals and biosciences,EUR,EUR
-0134,Sandvik,Sweden,SE0000667891,industrial,industrial equipment and light machinery,SEK,SEK
-0135,Swisscom,Switzerland,CH0008742519,telecommunications,diversified telecommunications,CHF,CHF
-0136,SCOR,France,FR0010411983,services,reinsurance,EUR,EUR
-0137,Vivo Energy,UK,GB00BDGT2M75,industrial,petroleum refiners and distributors,GBP,USD
-0138,Warpaint,UK,GB00BYMF3676,consumer,cosmetics jewellery and luxury products,GBP,GBP
-0139,Segro(REIT),UK,GB00B5ZN1N88,real estate,office commercial and industrial real estate,GBP,GBP
-0140,WiseTech Global,Australia,AU000000WTC3,IT,software providers,AUD,AUD
-0141,SKF,Sweden,SE0000108227,industrial,industrial components,SEK,SEK
-0142,Standard Life,UK,GB00BVFD7Q58,services,financial services,GBP,GBP
-0143,Smith (DS),UK,GB0008220112,industrial,packaging,GBP,GBP
-0144,SNAM,Italy,IT0003153415,industrial,pipelines and energy storage,EUR,EUR
-0145,SSE,UK,GB0007908733,utilities,diversified utilities,GBP,GBP
-0146,Equinor,Norway,NO0010096985,primary production,oil and gas,NOK,NOK
-0147,Stobart,UK,GB00B03HDJ73,transport,transport logistics and distribution,GBP,GBP
-0148,Schneider,France,FR0000121972,electrical electronic,electrical equipment,EUR,EUR
-0149,Swedbank,Sweden,SE0000242455,services,banking,SEK,SEK
-0150,Tate & Lyle,UK,GB0008754136,consumer,food manufacturers,GBP,GBP
-0151,Telefonica,Spain,ES0178430E18,telecommunications,diversified telecommunications,EUR,EUR
-0152,Telenor,Norway,NO0010063308,telecommunications,diversified telecommunications,NOK,NOK
-0153,Telecom Italia,Italy,IT0003497168,telecommunications,diversified telecommunications,EUR,EUR
-0154,Telekom Austria,Austria,AT0000720008,telecommunications,diversified telecommunications,EUR,EUR
-0155,Telia,Sweden,SE0000667925,telecommunications,diversified telecommunications,SEK,SEK
-0156,Peugeot,France,FR0000121501,vehicles,car truck and bus manufacturers,EUR,EUR
-0158,Unilever,Netherlands,NL0000009355,consumer,household consumables manufacturers,EUR,EUR
-0159,United Uts,UK,GB00B39J2M42,utilities,gas and water utilities,GBP,GBP
-0160,Veolia,France,FR0000124141,industrial,waste and water management,EUR,EUR
-0161,Vesuvius,UK,GB00B82YXW83,primary production,steel production and products,GBP,GBP
-0162,Vivendi,France,FR0000127771,consumer,entertainment and broadcasting,EUR,EUR
-0163,Reliance WW,Australia,AU000000RWC7,industrial,building and construction materials,AUD,AUD
-0164,Viva Energy,Australia,AU000000VVR9,industrial,petroleum refiners and distributors,AUD,AUD
-0165,Weir,UK,GB0009465807,industrial,power nuclear and heavy engineering,GBP,GBP
-0166,John Wood Gp,UK,GB00B5N0P849,services,engineering and technical services,GBP,GBP
-0167,Wolters Kluwer,Netherlands,NL0000395903,media publishing,publishing and printing,EUR,EUR
-0168,Zurich Ins,Switzerland,CH0011075394,services,insurance — general,CHF,CHF
-0169,AU Optronics,Taiwan,TW0002409000,electrical electronic,electronic finished products,TWD,TWD
-0170,Acer,Taiwan,TW0002353000,IT,computers phones and devices,TWD,TWD
-0171,AdvASE Technology,Taiwan,TW0003711008,electrical electronic,electronic components,TWD,TWD
-0172,Asia Cement,Taiwan,TW0001102002,primary production,cement and concrete,TWD,TWD
-0173,Asustek,Taiwan,TW0002357001,IT,computers phones and devices,TWD,TWD
-0174,CTBC Financial,Taiwan,TW0002891009,services,banking,TWD,TWD
-0175,Catcher Tech,Taiwan,TW0002474004,industrial,fabricated metal and composite products,TWD,TWD
-0176,Cathay Fin,Taiwan,TW0002882008,services,banking,TWD,TWD
-0177,Chang Hwa Bank,Taiwan,TW0002801008,services,banking,TWD,TWD
-0178,Cheng Shin,Taiwan,TW0002105004,vehicles,tire manufacturers,TWD,TWD
-0179,China Dev Fin,Taiwan,TW0002883006,services,banking,TWD,TWD
-0180,China Steel,Taiwan,TW0002002003,primary production,steel production and products,TWD,TWD
-0181,Chunghwa Tele,Taiwan,TW0002412004,telecommunications,diversified telecommunications,TWD,TWD
-0182,Compal Electron,Taiwan,TW0002324001,IT,computers phones and devices,TWD,TWD
-0183,Delta Electron,Taiwan,TW0002308004,electrical electronic,electrical equipment,TWD,TWD
-0184,E.Sun Financial,Taiwan,TW0002884004,services,banking,TWD,TWD
-0185,Far EasTone,Taiwan,TW0004904008,telecommunications,diversified telecommunications,TWD,TWD
-0186,Far Eastern New,Taiwan,TW0001402006,consumer,textiles,TWD,TWD
-0187,First Financial,Taiwan,TW0002892007,services,banking,TWD,TWD
-0188,Formosa Chem,Taiwan,TW0001326007,chemicals,chemicals and petrochemicals,TWD,TWD
-0189,Formosa Petro,Taiwan,TW0006505001,industrial,petroleum refiners and distributors,TWD,TWD
-0190,Formosa Plas,Taiwan,TW0001301000,industrial,rubber and plastics,TWD,TWD
-0191,Foxconn,Taiwan,TW0002354008,IT,computers phones and devices,TWD,TWD
-0192,Fubon,Taiwan,TW0002881000,services,financial services,TWD,TWD
-0193,HTC,Taiwan,TW0002498003,IT,computers phones and devices,TWD,TWD
-0194,Hon Hai Precis,Taiwan,TW0002317005,electrical electronic,electronic components,TWD,TWD
-0195,Hotai Motor,Taiwan,TW0002207008,vehicles,vehicle sales and repair,TWD,TWD
-0196,Hua Nan,Taiwan,TW0002880002,services,banking,TWD,TWD
-0197,Innolux,Taiwan,TW0003481008,electrical electronic,electronic components,TWD,TWD
-0198,Largan Precis,Taiwan,TW0003008009,electrical electronic,electronic components,TWD,TWD
-0199,Lite,Taiwan,TW0002301009,electrical electronic,electronic finished products,TWD,TWD
-0200,Nanya Tech,Taiwan,TW0002408002,electrical electronic,electronic components,TWD,TWD
-0201,MediaTek,Taiwan,TW0002454006,electrical electronic,electronic components,TWD,TWD
-0202,Mega Financial,Taiwan,TW0002886009,services,banking,TWD,TWD
-0203,Nan Ya Plastics,Taiwan,TW0001303006,industrial,rubber and plastics,TWD,TWD
-0204,Pegatron,Taiwan,TW0004938006,IT,computers phones and devices,TWD,TWD
-0205,President Chain,Taiwan,TW0002912003,consumer,diversified wholesale and retail,TWD,TWD
-0206,Quanta Computer,Taiwan,TW0002382009,IT,computers phones and devices,TWD,TWD
-0207,Siliconware,Taiwan,TW0002325008,electrical electronic,electronic components,TWD,TWD
-0208,SinoPac Fin,Taiwan,TW0002890001,services,banking,TWD,TWD
-0209,TPK,Taiwan,KYG898431096,electrical electronic,electronic components,TWD,TWD
-0210,Taiwan Cement,Taiwan,TW0001101004,primary production,cement and concrete,TWD,TWD
-0211,Taiwan Coop,Taiwan,TW0005880009,services,banking,TWD,TWD
-0212,Taiwan Fertil,Taiwan,TW0001722007,chemicals,agricultural chemicals and fertilisers,TWD,TWD
-0213,Taiwan Mobile,Taiwan,TW0003045001,telecommunications,diversified telecommunications,TWD,TWD
-0214,Taiwan Semicond,Taiwan,TW0002330008,electrical electronic,electronic components,TWD,TWD
-0215,UniPresident TW,Taiwan,TW0001216000,consumer,food manufacturers,TWD,TWD
-0216,United Micro,Taiwan,TW0002303005,electrical electronic,electronic components,TWD,TWD
-0217,Yuanta Fin,Taiwan,TW0002885001,services,banking,TWD,TWD
-0218,Yulon Motor,Taiwan,TW0002201001,vehicles,car truck and bus manufacturers,TWD,TWD
-0219,Samsung Ele old,Special Spare,dead ISIN 219,electrical electronic,electronic finished products,KRW,KRW
-0220,Hyundai Motor,Korea,KR7005380001,vehicles,car truck and bus manufacturers,KRW,KRW
-0221,Posco,Korea,KR7005490008,primary production,steel production and products,KRW,KRW
-0222,Hyundai Mobis,Korea,KR7012330007,vehicles,auto parts and components,KRW,KRW
-0223,Kia Motors,Korea,KR7000270009,vehicles,car truck and bus manufacturers,KRW,KRW
-0224,Samsung Life,Korea,KR7032830002,services,insurance — life and health,KRW,KRW
-0225,SK Hynix,Korea,KR7000660001,electrical electronic,electronic components,KRW,KRW
-0226,Shinhan Fin,Korea,KR7055550008,services,banking,KRW,KRW
-0227,Korea Electric,Korea,KR7015760002,utilities,electricity distribution and generation,KRW,KRW
-0228,LG Chem,Korea,KR7051910008,chemicals,chemicals and petrochemicals,KRW,KRW
-0229,SK Telecom,Korea,KR7017670001,telecommunications,diversified telecommunications,KRW,KRW
-0230,Hyundai Heavy,Korea,KR7009540006,industrial,shipbuilding,KRW,KRW
-0231,Naver,Korea,KR7035420009,IT,internet and networking services,KRW,KRW
-0232,KB Financial,Korea,KR7105560007,services,financial services,KRW,KRW
-0233,SK Innovation,Korea,KR7096770003,industrial,petroleum refiners and distributors,KRW,KRW
-0234,LG Electronics,Korea,KR7066570003,consumer,household appliances and hardware,KRW,KRW
-0235,Samsung F&M Ins,Korea,KR7000810002,services,insurance — general,KRW,KRW
-0236,LG Corp,Korea,KR7003550001,conglomerates,diversified conglomerates,KRW,KRW
-0237,Lotte Shopping,Korea,KR7023530009,consumer,diversified wholesale and retail,KRW,KRW
-0238,LG Display,Korea,KR7034220004,electrical electronic,electronic components,KRW,KRW
-0239,KT&G,Korea,KR7033780008,consumer,tobacco,KRW,KRW
-0240,Hana Financial,Korea,KR7086790003,services,banking,KRW,KRW
-0241,KT,Korea,KR7030200000,telecommunications,diversified telecommunications,KRW,KRW
-0242,Hyundai Steel,Korea,KR7004020004,primary production,steel production and products,KRW,KRW
-0243,Samsung Heavy,Korea,KR7010140002,industrial,shipbuilding,KRW,KRW
-0244,S,Korea,KR7010950004,industrial,petroleum refiners and distributors,KRW,KRW
-0245,Pro Medicus,Australia,AU000000PME8,IT,software providers,AUD,AUD
-0246,Banpu Power,Thailand,TH7462010003,utilities,electricity distribution and generation,THB,THB
-0247,LG Household,Korea,KR7051900009,consumer,household consumables manufacturers,KRW,KRW
-0248,Samsung SDI,Korea,KR7006400006,electrical electronic,electronic components,KRW,KRW
-0249,Hyundai Glovis,Korea,KR7086280005,transport,transport logistics and distribution,KRW,KRW
-0250,Ind Bank Korea,Korea,KR7024110009,services,banking,KRW,KRW
-0251,Hyundai Engine,Korea,KR7000720003,industrial,power nuclear and heavy engineering,KRW,KRW
-0252,Blue Sky,Australia,AU000000BLA8,services,financial services,AUD,AUD
-0253,Lotte Chemical,Korea,KR7011170008,chemicals,chemicals and petrochemicals,KRW,KRW
-0254,Samsung Ele,Korea,KR7009150004,electrical electronic,electronic components,KRW,KRW
-0255,Korea Zinc,Korea,KR7010130003,primary production,non—ferrous metals production and products,KRW,KRW
-0256,Daewoo Ship,Korea,KR7042660001,industrial,shipbuilding,KRW,KRW
-0257,LG Uplus,Korea,KR7032640005,telecommunications,diversified telecommunications,KRW,KRW
-0258,Kangwon Land,Korea,KR7035250000,consumer,hotels travel gambling and leisure,KRW,KRW
-0259,E,Korea,KR7139480008,consumer,supermarkets,KRW,KRW
-0260,Pilbara Min,Australia,AU000000PLS0,primary production,metals and minerals mining and exploration,AUD,AUD
-0261,Orion Corp,Korea,KR7001800002,consumer,food manufacturers,KRW,KRW
-0262,Amorepac Cor,Korea,KR7090430000,consumer,cosmetics jewellery and luxury products,KRW,KRW
-0263,Zimplats Hldg,Australia,GB0061284906,primary production,metals and minerals mining and exploration,AUD,AUD
-0264,GS Hldgs,Korea,KR7078930005,conglomerates,diversified conglomerates,KRW,KRW
-0265,Samsung C&T,Korea,KR7028260008,chemicals,chemicals and petrochemicals,KRW,KRW
-0266,Doosan Heavy,Korea,KR7034020008,industrial,power nuclear and heavy engineering,KRW,KRW
-0267,Coway,Korea,KR7021240007,consumer,household appliances and hardware,KRW,KRW
-0268,Korea Gas,Korea,KR7036460004,utilities,gas and water utilities,KRW,KRW
-0269,KCC,Korea,KR7002380004,chemicals,chemicals and petrochemicals,KRW,KRW
-0270,Samsung Card,Korea,KR7029780004,services,financial services,KRW,KRW
-0271,Hyundai Wia,Korea,KR7011210002,vehicles,auto parts and components,KRW,KRW
-0272,Posco Intl Corp,Korea,KR7047050000,conglomerates,diversified conglomerates,KRW,KRW
-0273,Hanon Systems,Korea,KR7018880005,vehicles,auto parts and components,KRW,KRW
-0274,OCI,Korea,KR7010060002,chemicals,chemicals and petrochemicals,KRW,KRW
-0275,Ncsoft,Korea,KR7036570000,consumer,entertainment and broadcasting,KRW,KRW
-0276,Hanwha Aero,Korea,KR7012450003,industrial,aerospace,KRW,KRW
-0277,Hyundai Dept,Korea,KR7069960003,consumer,diversified wholesale and retail,KRW,KRW
-0278,Samsung Secs,Korea,KR7016360000,services,financial services,KRW,KRW
-0279,Hyundai MMarine,Korea,KR7011200003,transport,shipping,KRW,KRW
-0280,AMA Group,Australia,AU000000AMA8,vehicles,auto parts and components,AUD,AUD
-0281,CJ Cheiljedang,Korea,KR7097950000,consumer,food manufacturers,KRW,KRW
-0282,Collins Foods,Australia,AU000000CKF7,consumer,restaurants,AUD,AUD
-0283,Samsung Engine,Korea,KR7028050003,industrial,power nuclear and heavy engineering,KRW,KRW
-0284,Mirae Asset,Korea,KR7006800007,services,financial services,KRW,KRW
-0285,CJ,Korea,KR7001040005,conglomerates,diversified conglomerates,KRW,KRW
-0286,Amorepac Gp,Korea,KR7002790004,consumer,cosmetics jewellery and luxury products,KRW,KRW
-0287,Daewoo Engine,Korea,KR7047040001,construction,construction — industrial and diversified,KRW,KRW
-0288,Daelim,Korea,KR7000210005,construction,construction — industrial and diversified,KRW,KRW
-0289,Doosan,Korea,KR7000150003,conglomerates,diversified conglomerates,KRW,KRW
-0290,BNK Financial,Korea,KR7138930003,services,banking,KRW,KRW
-0291,Kumho Petrochem,Korea,KR7011780004,chemicals,chemicals and petrochemicals,KRW,KRW
-0292,Cheil Worldwide,Korea,KR7030000004,media publishing,advertising — marketing — media — e—commerce,KRW,KRW
-0293,Korea Aerospace,Korea,KR7047810007,industrial,aerospace,KRW,KRW
-0294,Hyundai Mipo,Korea,KR7010620003,industrial,shipbuilding,KRW,KRW
-0295,Hyosung,Korea,KR7004800009,conglomerates,diversified conglomerates,KRW,KRW
-0296,KEPCO Engine,Korea,KR7052690005,industrial,power nuclear and heavy engineering,KRW,KRW
-0297,Hanwha Chemical,Korea,KR7009830001,chemicals,chemicals and petrochemicals,KRW,KRW
-0298,YoungPoong,Korea,KR7000670000,primary production,non—ferrous metals production and products,KRW,KRW
-0299,S1,Korea,KR7012750006,welfare and community,security products and services,KRW,KRW
-0300,Doosan Infra,Korea,KR7042670000,industrial,engines and heavy machinery,KRW,KRW
-0301,GS Retail,Korea,KR7007070006,consumer,diversified wholesale and retail,KRW,KRW
-0302,Hanwha,Korea,KR7000880005,conglomerates,diversified conglomerates,KRW,KRW
-0303,Hankook Tire,Korea,KR7000240002,vehicles,tire manufacturers,KRW,KRW
-0304,CJ Logistics,Korea,KR7000120006,transport,transport logistics and distribution,KRW,KRW
-0305,Yuhan,Korea,KR7000100008,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0306,NH Investment,Korea,KR7005940002,services,financial services,KRW,KRW
-0307,LS,Korea,KR7006260004,electrical electronic,cables wires and transmission,KRW,KRW
-0308,Halla Hldgs,Korea,KR7060980000,vehicles,auto parts and components,KRW,KRW
-0309,Korea Inv,Korea,KR7071050009,services,financial services,KRW,KRW
-0310,Lotte Confect,Korea,KR7004990008,consumer,food manufacturers,KRW,KRW
-0311,Korean Air,Korea,KR7003490000,transport,airlines,KRW,KRW
-0312,Shinsegae,Korea,KR7004170007,consumer,diversified wholesale and retail,KRW,KRW
-0313,LS Industrial,Korea,KR7010120004,electrical electronic,electrical equipment,KRW,KRW
-0314,LG Innotek,Korea,KR7011070000,electrical electronic,electronic components,KRW,KRW
-0315,Hite Jinro,Korea,KR7000080002,consumer,beverage manufacturers,KRW,KRW
-0316,Lotte Chilsung,Korea,KR7005300009,consumer,beverage manufacturers,KRW,KRW
-0317,GS Engineering,Korea,KR7006360002,construction,construction — industrial and diversified,KRW,KRW
-0318,SK Networks,Korea,KR7001740000,conglomerates,diversified conglomerates,KRW,KRW
-0319,Kumho Tire,Korea,KR7073240004,vehicles,tire manufacturers,KRW,KRW
-0320,Hyundai DevCo,Korea,KR7012630000,construction,construction — industrial and diversified,KRW,KRW
-0321,Green Cross,Korea,KR7006280002,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0322,Nongshim,Korea,KR7004370003,consumer,food manufacturers,KRW,KRW
-0323,Nexen Tire,Korea,KR7002350007,vehicles,tire manufacturers,KRW,KRW
-0325,Kolon Inds,Korea,KR7120110002,industrial,diversified industrial,KRW,KRW
-0326,Lock&Lock,Korea,KR7115390007,consumer,household appliances and hardware,KRW,KRW
-0327,Taekwang Ind,Korea,KR7003240009,chemicals,chemicals and petrochemicals,KRW,KRW
-0328,LG Intl,Korea,KR7001120005,conglomerates,diversified conglomerates,KRW,KRW
-0329,Lotte Fine Chem,Korea,KR7004000006,chemicals,chemicals and petrochemicals,KRW,KRW
-0330,Ssangyong Motor,Korea,KR7003620002,vehicles,car truck and bus manufacturers,KRW,KRW
-0331,Hanmi Pharm,Korea,KR7128940004,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0332,LG Hausys,Korea,KR7108670001,industrial,building and construction materials,KRW,KRW
-0333,Ottogi,Korea,KR7007310006,consumer,food manufacturers,KRW,KRW
-0334,Daesang,Korea,KR7001680008,consumer,food manufacturers,KRW,KRW
-0335,SKC,Korea,KR7011790003,chemicals,specialist chemicals,KRW,KRW
-0336,Seah Besteel,Korea,KR7001430008,primary production,steel production and products,KRW,KRW
-0337,Elders,Australia,AU000000ELD6,primary production,agribusiness agriculture and fishing,AUD,AUD
-0338,Hyundai Elev,Korea,KR7017800004,industrial,industrial equipment and light machinery,KRW,KRW
-0339,SK Discovery,Korea,KR7006120000,chemicals,chemicals and petrochemicals,KRW,KRW
-0340,Binggrae,Korea,KR7005180005,consumer,food manufacturers,KRW,KRW
-0341,Integrated Res,Australia,AU000000IRI3,IT,software providers,AUD,AUD
-0342,Lotte Food,Korea,KR7002270007,consumer,food manufacturers,KRW,KRW
-0343,Huchems Fine,Korea,KR7069260008,chemicals,chemicals and petrochemicals,KRW,KRW
-0344,Hanjin Heavy,Korea,KR7097230007,industrial,shipbuilding,KRW,KRW
-0345,Chongkundang,Korea,KR7001630003,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0346,Daewoong Pharma,Korea,KR7069620003,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0347,Dongkuk Steel,Korea,KR7001230002,primary production,steel production and products,KRW,KRW
-0348,LF,Korea,KR7093050003,consumer,clothing and shoe manufacturers,KRW,KRW
-0349,Seoul Broadcg,Korea,KR7034120006,consumer,entertainment and broadcasting,KRW,KRW
-0350,Poongsan,Korea,KR7103140000,primary production,non—ferrous metals production and products,KRW,KRW
-0351,Sebang Global,Korea,KR7004490009,electrical electronic,electrical equipment,KRW,KRW
-0352,Samyang Hldgs,Korea,KR7000070003,industrial,diversified industrial,KRW,KRW
-0353,Cosmax,Korea,KR7044820009,consumer,cosmetics jewellery and luxury products,KRW,KRW
-0354,Dong,Korea,KR7000640003,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0355,Handsome,Korea,KR7020000006,consumer,clothing and shoe manufacturers,KRW,KRW
-0356,Sindoh,Korea,KR7029530003,industrial,office equipment and supplies non—IT,KRW,KRW
-0357,Seah Steel,Korea,KR7003030004,primary production,steel production and products,KRW,KRW
-0358,Namyang Dairy,Korea,KR7003920006,consumer,food manufacturers,KRW,KRW
-0359,Iljin Materials,Korea,KR7020150009,technology,research and specialist materials,KRW,KRW
-0360,Seoyeon,Korea,KR7007860000,vehicles,auto parts and components,KRW,KRW
-0361,Hansae,Korea,KR7105630008,consumer,clothing and shoe manufacturers,KRW,KRW
-0362,Daekyo,Korea,KR7019680008,services,education,KRW,KRW
-0364,Doosan Engine,Korea,KR7082740002,industrial,engines and heavy machinery,KRW,KRW
-0365,SL,Korea,KR7005850003,vehicles,auto parts and components,KRW,KRW
-0366,Kiswire,Korea,KR7002240000,primary production,steel production and products,KRW,KRW
-0367,Iljin Display,Korea,KR7020760005,electrical electronic,electronic components,KRW,KRW
-0368,Ilyang Pharma,Korea,KR7007570005,healthcare,pharmaceuticals and biosciences,KRW,KRW
-0369,Hansol,Korea,KR7004150009,industrial,paper products (not packaging),KRW,KRW
-0370,Muhak,Korea,KR7033920000,consumer,beverage manufacturers,KRW,KRW
-0371,S&T Dynamics,Korea,KR7003570009,industrial,industrial equipment and light machinery,KRW,KRW
-0372,Hanjaya Mandala,Indonesia,ID1000074008,consumer,tobacco,IDR,IDR
-0373,Astra,Indonesia,ID1000122807,conglomerates,diversified conglomerates,IDR,IDR
-0374,Bank Cent Asia,Indonesia,ID1000109507,services,banking,IDR,IDR
-0375,Unilever Indon,Indonesia,ID1000095706,consumer,household consumables manufacturers,IDR,IDR
-0376,Telekom Indon,Indonesia,ID1000099104,telecommunications,diversified telecommunications,IDR,IDR
-0377,Bank Mandiri,Indonesia,ID1000095003,services,banking,IDR,IDR
-0378,Bank Rakyat,Indonesia,ID1000118201,services,banking,IDR,IDR
-0379,Perusahaan Gas,Indonesia,ID1000111602,utilities,gas and water utilities,IDR,IDR
-0380,Semen Indonesia,Indonesia,ID1000106800,primary production,cement and concrete,IDR,IDR
-0381,Gudang Garam,Indonesia,ID1000068604,consumer,tobacco,IDR,IDR
-0382,Bank Negara,Indonesia,ID1000096605,services,banking,IDR,IDR
-0383,Indocement,Indonesia,ID1000061302,primary production,cement and concrete,IDR,IDR
-0384,Kalbe Farma,Indonesia,ID1000125107,healthcare,pharmaceuticals and biosciences,IDR,IDR
-0385,Charoen Pok,Indonesia,ID1000117708,consumer,food manufacturers,IDR,IDR
-0386,Indofood Cbp,Indonesia,ID1000116700,consumer,food manufacturers,IDR,IDR
-0387,United Tractors,Indonesia,ID1000058407,primary production,metals and minerals mining and exploration,IDR,IDR
-0388,Indofood Sukses,Indonesia,ID1000057003,consumer,food manufacturers,IDR,IDR
-0389,Bank Danamon,Indonesia,ID1000094204,services,banking,IDR,IDR
-0390,Media Nusantara,Indonesia,ID1000106206,consumer,entertainment and broadcasting,IDR,IDR
-0391,Surya Citra,Indonesia,ID1000125305,consumer,entertainment and broadcasting,IDR,IDR
-0392,XL Axiata,Indonesia,ID1000102502,telecommunications,diversified telecommunications,IDR,IDR
-0393,Jasa Marga,Indonesia,ID1000108103,transport,roads tolls and traffic management,IDR,IDR
-0394,Matahari Dept,Indonesia,ID1000113301,consumer,diversified wholesale and retail,IDR,IDR
-0395,Elang Mahkota,Indonesia,ID1000113905,consumer,entertainment and broadcasting,IDR,IDR
-0396,Global Mediacom,Indonesia,ID1000105604,media publishing,advertising — marketing — media — e—commerce,IDR,IDR
-0397,Lippo Karawaci,Indonesia,ID1000108905,real estate,diversified real estate,IDR,IDR
-0398,Multi Bintang,Indonesia,ID1000079304,consumer,beverage manufacturers,IDR,IDR
-0399,Sarana Menara,Indonesia,ID1000128804,electrical electronic,communication and networking equipment,IDR,IDR
-0400,Bank CIMB Niaga,Indonesia,ID1000098007,services,banking,IDR,IDR
-0401,Bumi Serpong,Indonesia,ID1000110802,real estate,diversified real estate,IDR,IDR
-0402,Indo Tambang',Indonesia,ID1000108509,primary production,coal and coal products,IDR,IDR
-0403,Tower Bersama,Indonesia,ID1000116908,electrical electronic,communication and networking equipment,IDR,IDR
-0404,Indosat,Indonesia,ID1000097405,telecommunications,diversified telecommunications,IDR,IDR
-0405,Sinar Mas,Indonesia,ID1000094501,services,financial services,IDR,IDR
-0406,Bk Tabungan Pen,Indonesia,ID1000118508,services,banking,IDR,IDR
-0407,Bayan Resources,Indonesia,ID1000111701,primary production,coal and coal products,IDR,IDR
-0408,Mayora Indah,Indonesia,ID1000060007,consumer,food manufacturers,IDR,IDR
-0409,Astra Agro,Indonesia,ID1000066004,primary production,agribusiness agriculture and fishing,IDR,IDR
-0410,Sinar Mas Agro,Indonesia,ID1000101504,primary production,agribusiness agriculture and fishing,IDR,IDR
-0411,Tambang Batub',Indonesia,ID1000094006,primary production,coal and coal products,IDR,IDR
-0412,Adaro Energy,Indonesia,ID1000111305,primary production,coal and coal products,IDR,IDR
-0413,Solusi Bangun Indon,Indonesia,ID1000072309,primary production,cement and concrete,IDR,IDR
-0414,Maybank,Indonesia,ID1000099302,services,banking,IDR,IDR
-0415,Tempo Scan,Indonesia,ID1000104508,healthcare,pharmaceuticals and biosciences,IDR,IDR
-0416,Pakuwon Jati,Indonesia,ID1000122500,real estate,diversified real estate,IDR,IDR
-0417,Vale Indonesia,Indonesia,ID1000109309,primary production,metals and minerals mining and exploration,IDR,IDR
-0418,Ciputra,Indonesia,ID1000115306,real estate,diversified real estate,IDR,IDR
-0419,AKR Corporindo,Indonesia,ID1000106701,industrial,petroleum refiners and distributors,IDR,IDR
-0420,MNC Investamam,Indonesia,ID1000064207,media publishing,advertising — marketing — media — e—commerce,IDR,IDR
-0421,Astra Otoparts,Indonesia,ID1000119704,vehicles,auto parts and components,IDR,IDR
-0422,Bank Pan Indon,Indonesia,ID1000092703,services,banking,IDR,IDR
-0423,Indomobil S,Indonesia,ID1000123003,vehicles,car truck and bus manufacturers,IDR,IDR
-0424,Bank Permata,Indonesia,ID1000098205,services,banking,IDR,IDR
-0425,GTN Ltd,Australia,AU000000GTN3,media publishing,advertising — marketing — media — e—commerce,AUD,AUD
-0426,Summarecon,Indonesia,ID1000092406,real estate,diversified real estate,IDR,IDR
-0427,Bank Mega,Indonesia,ID1000052400,services,banking,IDR,IDR
-0428,Alam Sutera,Indonesia,ID1000108400,real estate,diversified real estate,IDR,IDR
-0429,Golden Energy,Indonesia,ID1000121106,primary production,coal and coal products,IDR,IDR
-0430,Jaya Real,Indonesia,ID1000128903,real estate,diversified real estate,IDR,IDR
-0431,Ultrajaya Milk,Indonesia,ID1000063100,consumer,beverage manufacturers,IDR,IDR
-0432,IndoritelMakmur,Indonesia,ID1000063605,consumer,diversified wholesale and retail,IDR,IDR
-0433,Trada Minera,Indonesia,ID1000111909,industrial,marine salvage dredging offshore services,IDR,IDR
-0434,Hero Supermkt,Indonesia,ID1000122708,consumer,supermarkets,IDR,IDR
-0435,Matahari Putra,Indonesia,ID1000125909,consumer,diversified wholesale and retail,IDR,IDR
-0436,Japfa Comfeed,Indonesia,ID1000126907,primary production,agribusiness agriculture and fishing,IDR,IDR
-0437,Saratoga Invest,Indonesia,ID1000127707,services,financial services,IDR,IDR
-0438,Wijaya Karya,Indonesia,ID1000107600,construction,construction — industrial and diversified,IDR,IDR
-0439,Ace Hw Indon,Indonesia,ID1000125503,consumer,diversified wholesale and retail,IDR,IDR
-0440,Garuda Indon,Indonesia,ID1000118300,transport,airlines,IDR,IDR
-0441,Aneka Tambang,Indonesia,ID1000106602,primary production,metals and minerals mining and exploration,IDR,IDR
-0442,Bk Tabungan Neg,Indonesia,ID1000113707,services,banking,IDR,IDR
-0443,Bank OCBC NISP,Indonesia,ID1000094402,services,banking,IDR,IDR
-0444,Salim Ivomas,Indonesia,ID1000119100,primary production,agribusiness agriculture and fishing,IDR,IDR
-0445,Dian Swastatika,Indonesia,ID1000113400,primary production,coal and coal products,IDR,IDR
-0446,Arena REIT,Australia,AU000000ARF6,real estate,real estate services,AUD,AUD
-0447,Sugih Energy,Indonesia,ID1000092000,primary production,oil and gas,IDR,IDR
-0448,Bank Jabar B,Indonesia,ID1000115702,services,banking,IDR,IDR
-0449,Mitra Adiper',Indonesia,ID1000099807,consumer,diversified wholesale and retail,IDR,IDR
-0450,Enseval Putera,Indonesia,ID1000096506,healthcare,healthcare products,IDR,IDR
-0451,3M,USA,US88579Y1010,industrial,diversified industrial,USD,USD
-0452,Abbott Labs old,Special Spare,dead ISIN 452,healthcare,pharmaceuticals and biosciences,USD,USD
-0453,AbbVie,USA,US00287Y1091,healthcare,pharmaceuticals and biosciences,USD,USD
-0455,Iron Mountain,USA,US46284V1017,services,business services,USD,USD
-0456,Propertylink,Australia,AU000000PLG5,real estate,real estate services,AUD,AUD
-0457,Adobe Systems,USA,US00724F1012,IT,software providers,USD,USD
-0458,Aetna,USA,US00817Y1082,services,insurance — life and health,USD,USD
-0459,AFLAC,USA,US0010551028,services,insurance — life and health,USD,USD
-0460,Agilent Tech,USA,US00846U1016,technology,high precision and instrumentation products,USD,USD
-0462,Air Products,USA,US0091581068,industrial,industrial gases,USD,USD
-0463,Alexion Pharmas,USA,US0153511094,healthcare,pharmaceuticals and biosciences,USD,USD
-0464,Allegheny,USA,US01741R1023,primary production,non—ferrous metals production and products,USD,USD
-0465,BWX Ltd,Australia,AU000000BWX7,healthcare,healthcare products,AUD,AUD
-0466,Allstate,USA,US0200021014,services,insurance — general,USD,USD
-0467,Altria,USA,US02209S1033,consumer,tobacco,USD,USD
-0468,Amazon.com old,Special Spare,dead ISIN 468,consumer,online retailers,USD,USD
-0469,Ameren,USA,US0236081024,utilities,diversified utilities,USD,USD
-0470,AEP,USA,US0255371017,utilities,electricity distribution and generation,USD,USD
-0471,AMEX,USA,US0258161092,services,financial services,USD,USD
-0472,American,USA,US0268747849,services,insurance — general,USD,USD
-0473,American Tower,USA,US03027X1000,real estate,office commercial and industrial real estate,USD,USD
-0474,Ameriprise,USA,US03076C1062,services,financial services,USD,USD
-0475,Helloworld Trav,Australia,AU000000HLO6,consumer,hotels travel gambling and leisure,AUD,AUD
-0476,Amgen,USA,US0311621009,healthcare,pharmaceuticals and biosciences,USD,USD
-0477,Anadarko,USA,US0325111070,primary production,oil and gas,USD,USD
-0478,Analog Devi old,Special Spare,dead ISIN 478,electrical electronic,electronic components,USD,USD
-0479,Aon,USA,GB00B5BT0K07,services,insurance — general,USD,USD
-0480,Apache,USA,US0374111054,primary production,oil and gas,USD,USD
-0481,Apt Inv Mgmt,USA,US03748R1014,real estate,residential real estate,USD,USD
-0482,Apple,USA,US0378331005,IT,computers phones and devices,USD,USD
-0483,Applied Mats,USA,US0382221051,industrial,industrial equipment and light machinery,USD,USD
-0484,Archer,USA,US0394831020,primary production,agribusiness agriculture and fishing,USD,USD
-0485,Assurant,USA,US04621X1081,services,insurance — general,USD,USD
-0486,iSelect,Australia,AU000000ISU6,services,insurance — general,AUD,AUD
-0487,ADP,USA,US0530151036,services,business services,USD,USD
-0488,AutoZone,USA,US0533321024,vehicles,auto parts and components,USD,USD
-0489,AvalonBay,USA,US0534841012,real estate,residential real estate,USD,USD
-0490,Avery Dennison,USA,US0536111091,industrial,industrial components,USD,USD
-0491,Baker Hughes,USA,US05722G1004,industrial,oil and gas equipment and services,USD,USD
-0492,Bank of America,USA,US0605051046,services,banking,USD,USD
-0493,BNYM,USA,US0640581007,services,banking,USD,USD
-0494,Baxter,USA,US0718131099,healthcare,healthcare products,USD,USD
-0495,BB&T,USA,US0549371070,services,banking,USD,USD
-0496,RCR Tomlinson,Australia,AU000000RCR7,industrial,diversified industrial,AUD,AUD
-0497,Bed Bath,USA,US0758961009,consumer,diversified wholesale and retail,USD,USD
-0498,Bemis,USA,US0814371052,industrial,packaging,USD,USD
-0499,Service Stream,Australia,AU000000SSM2,telecommunications,diversified telecommunications,AUD,AUD
-0500,Biogen Idec,USA,US09062X1037,healthcare,pharmaceuticals and biosciences,USD,USD
-0501,BlackRock,USA,US09247X1019,services,financial services,USD,USD
-0502,Block H&R,USA,US0936711052,services,professional services and consulting,USD,USD
-0503,Boeing,USA,US0970231058,industrial,aerospace,USD,USD
-0504,Boston Props,USA,US1011211018,real estate,office commercial and industrial real estate,USD,USD
-0505,Bristol,USA,US1101221083,healthcare,pharmaceuticals and biosciences,USD,USD
-0506,C H Robinson,USA,US12541W2098,transport,transport logistics and distribution,USD,USD
-0507,CA,USA,US12673P1057,IT,search cloud and integrated IT services,USD,USD
-0508,Cablevision old,Special Spare,dead ISIN 508,consumer,entertainment and broadcasting,USD,USD
-0509,Cabot Oil & Gas,USA,US1270971039,primary production,oil and gas,USD,USD
-0510,Campbell Soup,USA,US1344291091,consumer,food manufacturers,USD,USD
-0511,Capital One,USA,US14040H1059,services,banking,USD,USD
-0512,Cardinal Health,USA,US14149Y1082,healthcare,healthcare products,USD,USD
-0513,Carnival,USA,PA1436583006,consumer,hotels travel gambling and leisure,USD,USD
-0514,Caterpillar,USA,US1491231015,industrial,engines and heavy machinery,USD,USD
-0515,ViacomCBS,USA,US92556H2067,consumer,entertainment and broadcasting,USD,USD
-0516,Celgene,USA,US1510201049,healthcare,pharmaceuticals and biosciences,USD,USD
-0517,CenterPoint E,USA,US15189T1079,utilities,diversified utilities,USD,USD
-0518,CenturyLink,USA,US1567001060,telecommunications,diversified telecommunications,USD,USD
-0519,Cerner,USA,US1567821046,IT,search cloud and integrated IT services,USD,USD
-0520,Charles Schwab,USA,US8085131055,services,financial services,USD,USD
-0521,Chesapeake E,USA,US1651671075,primary production,oil and gas,USD,USD
-0522,Chevron,USA,US1667641005,primary production,oil and gas,USD,USD
-0523,Monash Grp,Australia,AU000000MVF3,healthcare,healthcare services,AUD,AUD
-0524,CIGNA,USA,US1255091092,services,insurance — life and health,USD,USD
-0525,Cisco Systems,USA,US17275R1023,electrical electronic,communication and networking equipment,USD,USD
-0526,Citigroup,USA,US1729674242,services,banking,USD,USD
-0527,Cliffs Nat Res,USA,US18683K1016,primary production,metals and minerals mining and exploration,USD,USD
-0528,Clorox,USA,US1890541097,consumer,household consumables manufacturers,USD,USD
-0529,CME,USA,US12572Q1058,services,financial services,USD,USD
-0530,CMS Energy,USA,US1258961002,utilities,diversified utilities,USD,USD
-0531,Tapestry,USA,US8760301072,consumer,cosmetics jewellery and luxury products,USD,USD
-0532,Coca Cola,USA,US1912161007,consumer,beverage manufacturers,USD,USD
-0533,Coca,USA,GB00BDCPN049,consumer,beverage manufacturers,USD,USD
-0534,Cognizant Tech,USA,US1924461023,services,business services,USD,USD
-0535,Colgate,USA,US1941621039,consumer,household consumables manufacturers,USD,USD
-0536,Comcast,USA,US20030N1019,consumer,entertainment and broadcasting,USD,USD
-0537,Comerica,USA,US2003401070,services,banking,USD,USD
-0538,DXC Tech,USA,US23355L1061,IT,search cloud and integrated IT services,USD,USD
-0539,ConAgra Brands,USA,US2058871029,consumer,food manufacturers,USD,USD
-0540,ConocoPhillips,USA,US20825C1045,primary production,oil and gas,USD,USD
-0541,Cons Edison,USA,US2091151041,utilities,diversified utilities,USD,USD
-0542,Corning,USA,US2193501051,industrial,glass and glass products,USD,USD
-0543,Costco,USA,US22160K1051,consumer,diversified wholesale and retail,USD,USD
-0544,PSC Insurance,Australia,AU000000PSI6,services,insurance — general,AUD,AUD
-0545,Crown Castle,USA,US2282271046,real estate,office commercial and industrial real estate,USD,USD
-0546,CSX,USA,US1264081035,transport,transport logistics and distribution,USD,USD
-0547,Cummins,USA,US2310211063,industrial,engines and heavy machinery,USD,USD
-0548,Tox Free,Australia,AU000000TOX6,industrial,waste and water management,AUD,AUD
-0549,Hotel Property,Australia,AU000000HPI9,real estate,residential real estate,AUD,AUD
-0550,Darden Rests,USA,US2371941053,consumer,restaurants,USD,USD
-0551,Deere,USA,US2441991054,industrial,engines and heavy machinery,USD,USD
-0552,Alkermes,USA,IE00B56GVS15,healthcare,pharmaceuticals and biosciences,USD,USD
-0553,Sealink Travel,Australia,AU000000SLK1,consumer,hotels travel gambling and leisure,AUD,AUD
-0554,Delta Air Lines,USA,US2473617023,transport,airlines,USD,USD
-0555,Devon Energy,USA,US25179M1036,primary production,oil and gas,USD,USD
-0556,Diamond Offs,USA,US25271C1027,industrial,oil and gas drilling and exploration,USD,USD
-0557,Autosports Grp,Australia,AU000000ASG2,vehicles,vehicle sales and repair,AUD,AUD
-0558,Discover Fin,USA,US2547091080,services,banking,USD,USD
-0559,Discovery Comms,USA,US25470F1049,consumer,entertainment and broadcasting,USD,USD
-0560,Dollar General,USA,US2566771059,consumer,diversified wholesale and retail,USD,USD
-0561,Dominion Energy,USA,US25746U1097,utilities,diversified utilities,USD,USD
-0562,Dover,USA,US2600031080,industrial,industrial equipment and light machinery,USD,USD
-0564,Dr Pepper,USA,US26138E1091,consumer,beverage manufacturers,USD,USD
-0565,DTE Energy,USA,US2333311072,utilities,diversified utilities,USD,USD
-0567,Duke Energy,USA,US26441C2044,utilities,electricity distribution and generation,USD,USD
-0568,Eaton,USA,IE00B8KQN827,industrial,diversified industrial,USD,USD
-0569,eBay,USA,US2786421030,consumer,online retailers,USD,USD
-0570,Ecolab,USA,US2788651006,services,business services,USD,USD
-0571,Edison Int'l,USA,US2810201077,utilities,electricity distribution and generation,USD,USD
-0572,Abbott Labs,USA,US0028241000,healthcare,pharmaceuticals and biosciences,USD,USD
-0573,Emerson Elec,USA,US2910111044,industrial,diversified industrial,USD,USD
-0574,Valaris,USA,GB00BJVJZD68,industrial,oil and gas drilling and exploration,USD,USD
-0575,Entergy,USA,US29364G1031,utilities,electricity distribution and generation,USD,USD
-0576,EOG Resources,USA,US26875P1012,primary production,oil and gas,USD,USD
-0577,Equity Resi,USA,US29476L1070,real estate,residential real estate,USD,USD
-0578,Estee Lauder,USA,US5184391044,consumer,cosmetics jewellery and luxury products,USD,USD
-0579,Huon Aquacult,Australia,AU000000HUO7,consumer,food manufacturers,AUD,AUD
-0580,Express Scripts,USA,US30219G1085,healthcare,healthcare products,USD,USD
-0581,Exxon Mobil,USA,US30231G1022,primary production,oil and gas,USD,USD
-0582,Fastenal,USA,US3119001044,industrial,industrial components,USD,USD
-0583,FedEx,USA,US31428X1063,transport,transport logistics and distribution,USD,USD
-0584,Fidelity NIS,USA,US31620M1062,services,business services,USD,USD
-0585,Fifth Third,USA,US3167731005,services,banking,USD,USD
-0586,FirstEnergy,USA,US3379321074,utilities,electricity distribution and generation,USD,USD
-0587,Ford Motor,USA,US3453708600,vehicles,car truck and bus manufacturers,USD,USD
-0588,Franklin Res,USA,US3546131018,services,financial services,USD,USD
-0589,Freeport,USA,US35671D8570,primary production,metals and minerals mining and exploration,USD,USD
-0590,Gannett,USA,US3647301015,media publishing,advertising — marketing — media — e—commerce,USD,USD
-0591,Gap (The),USA,US3647601083,consumer,clothing wholesale and retail,USD,USD
-0592,GD,USA,US3695501086,industrial,defence products,USD,USD
-0593,GE,USA,US3696041033,industrial,diversified industrial,USD,USD
-0594,General Mills,USA,US3703341046,consumer,food manufacturers,USD,USD
-0595,General Motors,USA,US37045V1008,vehicles,car truck and bus manufacturers,USD,USD
-0596,Genuine Parts,USA,US3724601055,industrial,industrial components,USD,USD
-0597,Gilead Sciences,USA,US3755581036,healthcare,pharmaceuticals and biosciences,USD,USD
-0598,Goldman Sachs,USA,US38141G1040,services,banking,USD,USD
-0599,Alphabet,USA,US02079K1079,IT,search cloud and integrated IT services,USD,USD
-0600,Grainger (WW),USA,US3848021040,industrial,industrial components,USD,USD
-0601,Halliburton,USA,US4062161017,industrial,oil and gas equipment and services,USD,USD
-0603,Hasbro,USA,US4180561072,consumer,entertainment and broadcasting,USD,USD
-0604,HCP,USA,US40414L1098,real estate,healthcare real estate,USD,USD
-0605,Welltower,USA,US95040Q1040,real estate,healthcare real estate,USD,USD
-0606,Hershey,USA,US4278661081,consumer,food manufacturers,USD,USD
-0607,Hess,USA,US42809H1077,primary production,oil and gas,USD,USD
-0608,Hewlett,USA,US4282361033,IT,computers phones and devices,USD,USD
-0609,Home Depot,USA,US4370761029,consumer,diversified wholesale and retail,USD,USD
-0610,Honeywell Int'l,USA,US4385161066,industrial,diversified industrial,USD,USD
-0611,Hormel Foods,USA,US4404521001,consumer,food manufacturers,USD,USD
-0612,Host Hotels,USA,US44107P1049,consumer,hotels travel gambling and leisure,USD,USD
-0613,Huntington Banc,USA,US4461501045,services,banking,USD,USD
-0614,IBM,USA,US4592001014,IT,search cloud and integrated IT services,USD,USD
-0615,Illinois Tool,USA,US4523081093,industrial,industrial equipment and light machinery,USD,USD
-0616,Ingersoll,USA,IE00B6330302,industrial,industrial equipment and light machinery,USD,USD
-0617,MyState Ltd,Australia,AU000000MYS0,services,financial services,AUD,AUD
-0618,Intl Game Tech,USA,GB00BVG7F061,consumer,entertainment and broadcasting,USD,USD
-0619,Intl Paper,USA,US4601461035,industrial,packaging,USD,USD
-0620,Interpublic,USA,US4606901001,media publishing,advertising — marketing — media — e—commerce,USD,USD
-0621,IFF,USA,US4595061015,chemicals,specialist chemicals,USD,USD
-0622,Intuit,USA,US4612021034,IT,software providers,USD,USD
-0623,Intuitive Surg,USA,US46120E6023,healthcare,medical equipment,USD,USD
-0624,Invesco,USA,BMG491BT1088,services,financial services,USD,USD
-0626,Johnson & J,USA,US4781601046,healthcare,healthcare products,USD,USD
-0628,JPMorgan Chase,USA,US46625H1005,services,banking,USD,USD
-0629,Kellogg,USA,US4878361082,consumer,food manufacturers,USD,USD
-0630,KeyCorp,USA,US4932671088,services,banking,USD,USD
-0631,Kimberly,USA,US4943681035,consumer,household consumables manufacturers,USD,USD
-0632,Kimco Realty,USA,US49446R1095,real estate,retail and malls real estate,USD,USD
-0633,Kinder Morgan,USA,US49456B1017,industrial,pipelines and energy storage,USD,USD
-0634,KLA,USA,US4824801009,industrial,industrial equipment and light machinery,USD,USD
-0635,Kohl's,USA,US5002551043,consumer,diversified wholesale and retail,USD,USD
-0636,Equinix Inc,USA,US29444U5020,IT,internet and networking services,USD,USD
-0637,Kroger,USA,US5010441013,consumer,supermarkets,USD,USD
-0638,L Brands,USA,US5017971046,consumer,clothing wholesale and retail,USD,USD
-0639,L,USA,US5024241045,industrial,defence products,USD,USD
-0640,Lilly (Eli),USA,US5324571083,healthcare,pharmaceuticals and biosciences,USD,USD
-0641,Lincoln Natl,USA,US5341871094,services,insurance — life and health,USD,USD
-0642,Linear Tech old,Special Spare,dead ISIN 642,electrical electronic,electronic components,USD,USD
-0643,Lockheed Martin,USA,US5398301094,industrial,defence products,USD,USD
-0644,Loews,USA,US5404241086,conglomerates,diversified conglomerates,USD,USD
-0645,Audio Pixels,Australia,AU000000AKP0,electrical electronic,electronic finished products,AUD,AUD
-0646,Lowe's Cos,USA,US5486611073,consumer,diversified wholesale and retail,USD,USD
-0647,LyondellBasell,USA,NL0009434992,chemicals,chemicals and petrochemicals,USD,USD
-0648,Cedar Woods,Australia,AU000000CWP1,real estate,residential real estate,AUD,AUD
-0649,Macy's,USA,US55616P1049,consumer,diversified wholesale and retail,USD,USD
-0650,Marathon Oil,USA,US5658491064,primary production,oil and gas,USD,USD
-0651,Marathon Petro,USA,US56585A1025,industrial,petroleum refiners and distributors,USD,USD
-0652,Marsh & McL,USA,US5717481023,services,professional services and consulting,USD,USD
-0653,Mastercard,USA,US57636Q1040,services,financial services,USD,USD
-0654,Mattel,USA,US5770811025,consumer,household consumables manufacturers,USD,USD
-0655,McCormick,USA,US5797802064,consumer,food manufacturers,USD,USD
-0656,McDonald's,USA,US5801351017,consumer,restaurants,USD,USD
-0657,S&P Global,USA,US5806451093,media publishing,publishing and printing,USD,USD
-0658,McKesson,USA,US58155Q1031,healthcare,healthcare products,USD,USD
-0659,Mead Johnso old,Special Spare,dead ISIN 659,consumer,food manufacturers,USD,USD
-0660,Perenti Global,Australia,AU0000061897,primary production,metals and minerals mining and exploration,AUD,AUD
-0661,Lifestyle Comm,Australia,AU000000LIC9,real estate,residential real estate,AUD,AUD
-0662,Merck US,USA,US58933Y1055,healthcare,pharmaceuticals and biosciences,USD,USD
-0663,MetLife,USA,US59156R1086,services,insurance — general,USD,USD
-0664,Microchip Tech,USA,US5950171042,electrical electronic,electronic components,USD,USD
-0665,L3Harris,USA,US5024311095,industrial,defence products,USD,USD
-0666,Harris,USA,US4138751056,IT,internet and networking services,USD,USD
-0667,Molson Coors,USA,US60871R2094,consumer,beverage manufacturers,USD,USD
-0668,Mondelez,USA,US6092071058,consumer,food manufacturers,USD,USD
-0669,Monsanto,USA,US61166W1018,chemicals,agricultural chemicals and fertilisers,USD,USD
-0670,Morgan Stanley,USA,US6174464486,services,banking,USD,USD
-0671,Mosaic,USA,US61945C1036,chemicals,agricultural chemicals and fertilisers,USD,USD
-0672,Motorola Sols,USA,US6200763075,electrical electronic,communication and networking equipment,USD,USD
-0673,Murphy Oil,USA,US6267171022,primary production,oil and gas,USD,USD
-0674,NASDAQ OMX,USA,US6311031081,services,financial services,USD,USD
-0675,Novarco,USA,US6370711011,industrial,oil and gas equipment and services,USD,USD
-0676,NetApp,USA,US64110D1046,IT,search cloud and integrated IT services,USD,USD
-0677,NetFlix,USA,US64110L1061,consumer,entertainment and broadcasting,USD,USD
-0678,Newell Brands,USA,US6512291062,consumer,household appliances and hardware,USD,USD
-0679,Newmont Goldcrp,USA,US6516391066,primary production,metals and minerals mining and exploration,USD,USD
-0680,NextEra Energy,USA,US65339F1012,utilities,electricity distribution and generation,USD,USD
-0681,NIKE,USA,US6541061031,consumer,sports equipment manufacturers and retailers,USD,USD
-0682,NiSource,USA,US65473P1057,utilities,diversified utilities,USD,USD
-0683,Noble Energy,USA,US6550441058,primary production,oil and gas,USD,USD
-0684,Nordstrom,USA,US6556641008,consumer,clothing wholesale and retail,USD,USD
-0685,Norfolk Sn,USA,US6558441084,transport,railroads and bus services,USD,USD
-0686,Eversource,USA,US6643971061,utilities,diversified utilities,USD,USD
-0687,Northern,USA,US6658591044,services,financial services,USD,USD
-0688,Northrop G,USA,US6668071029,industrial,defence products,USD,USD
-0689,Nucor,USA,US6703461052,primary production,steel production and products,USD,USD
-0690,Nvidia,USA,US67066G1040,electrical electronic,electronic components,USD,USD
-0691,IntercontExch,USA,US45866F1049,services,financial services,USD,USD
-0692,Occidental,USA,US6745991058,primary production,oil and gas,USD,USD
-0693,Omnicom,USA,US6819191064,media publishing,advertising — marketing — media — e—commerce,USD,USD
-0694,ONEOK,USA,US6826801036,industrial,pipelines and energy storage,USD,USD
-0696,P G & E,USA,US69331C1080,utilities,diversified utilities,USD,USD
-0697,PACCAR,USA,US6937181088,vehicles,car truck and bus manufacturers,USD,USD
-0698,Parker,USA,US7010941042,industrial,industrial equipment and light machinery,USD,USD
-0699,Paychex,USA,US7043261079,services,business services,USD,USD
-0700,PepsiCo,USA,US7134481081,consumer,beverage manufacturers,USD,USD
-0702,Philip Morris,USA,US7181721090,consumer,tobacco,USD,USD
-0703,Phillips 66,USA,US7185461040,industrial,petroleum refiners and distributors,USD,USD
-0704,Pinnacle West,USA,US7234841010,utilities,electricity distribution and generation,USD,USD
-0705,Pioneer Natural,USA,US7237871071,primary production,oil and gas,USD,USD
-0706,Pitney,USA,US7244791007,services,business services,USD,USD
-0707,Codan,Australia,AU000000CDA3,electrical electronic,electronic finished products,AUD,AUD
-0708,PNC Financial,USA,US6934751057,services,financial services,USD,USD
-0709,Polo Ralph L,USA,US7512121010,consumer,clothing wholesale and retail,USD,USD
-0710,PPG Industries,USA,US6935061076,chemicals,paints and coatings,USD,USD
-0711,PPL,USA,US69351T1060,utilities,diversified utilities,USD,USD
-0712,Praxair old,Special Spare,dead ISIN 712,industrial,industrial gases,USD,USD
-0713,Maca,Australia,AU000000MLD9,primary production,metals and minerals mining and exploration,AUD,AUD
-0714,Booking Hldgs,USA,US09857L1089,consumer,hotels travel gambling and leisure,USD,USD
-0715,Principal Fin,USA,US74251V1026,services,financial services,USD,USD
-0716,Procter & G,USA,US7427181091,consumer,household consumables manufacturers,USD,USD
-0717,Progressive,USA,US7433151039,services,insurance — general,USD,USD
-0718,Prologis,USA,US74340W1036,real estate,office commercial and industrial real estate,USD,USD
-0719,Prudential Fin,USA,US7443201022,services,insurance — general,USD,USD
-0720,Public Serv Ent,USA,US7445731067,utilities,diversified utilities,USD,USD
-0721,Public Storage,USA,US74460D1090,real estate,office commercial and industrial real estate,USD,USD
-0722,Qualcomm,USA,US7475251036,electrical electronic,communication and networking equipment,USD,USD
-0723,Quest Diag,USA,US74834L1008,healthcare,medical equipment,USD,USD
-0724,Raytheon,USA,US7551115071,industrial,defence products,USD,USD
-0725,Regeneron Pharm,USA,US75886F1075,healthcare,pharmaceuticals and biosciences,USD,USD
-0726,Republic Servs,USA,US7607591002,industrial,waste and water management,USD,USD
-0727,Lovisa Hldgs,Australia,AU000000LOV7,consumer,cosmetics jewellery and luxury products,AUD,AUD
-0728,Robert Half,USA,US7703231032,services,HR and recruitment,USD,USD
-0729,Rockwell Auto,USA,US7739031091,industrial,industrial equipment and light machinery,USD,USD
-0731,Ryder System,USA,US7835491082,transport,transport logistics and distribution,USD,USD
-0732,Dicker Data,Australia,AU000000DDR5,IT,computers phones and devices,AUD,AUD
-0733,Leidos,USA,US5253271028,industrial,defence products,USD,USD
-0734,Salesforce.com,USA,US79466L3024,IT,search cloud and integrated IT services,USD,USD
-0735,SCANA,USA,US80589M1027,utilities,diversified utilities,USD,USD
-0736,Schlumberge old,Special Spare,dead ISIN 736,industrial,oil and gas equipment and services,USD,USD
-0737,Seagate,USA,IE00B58JVZ52,electrical electronic,electronic finished products,USD,USD
-0738,Sealed Air,USA,US81211K1007,industrial,packaging,USD,USD
-0739,Sempra Energy,USA,US8168511090,utilities,diversified utilities,USD,USD
-0740,SherwinWill old,Special Spare,dead ISIN 740,chemicals,paints and coatings,USD,USD
-0741,Simon Property,USA,US8288061091,real estate,retail and malls real estate,USD,USD
-0742,SLM,USA,US78442P1066,services,financial services,USD,USD
-0743,Smucker (JM),USA,US8326964058,consumer,food manufacturers,USD,USD
-0745,Spectra Ene old,Special Spare,dead ISIN 745,industrial,pipelines and energy storage,USD,USD
-0746,St Jude Med old,Special Spare,dead ISIN 746,healthcare,medical equipment,USD,USD
-0747,Stanley B&D,USA,US8545021011,industrial,industrial equipment and light machinery,USD,USD
-0749,Starbucks,USA,US8552441094,consumer,restaurants,USD,USD
-0750,Starwood Ho old,Special Spare,dead ISIN 750,consumer,hotels travel gambling and leisure,USD,USD
-0751,State Street,USA,US8574771031,services,financial services,USD,USD
-0752,Stryker,USA,US8636671013,healthcare,medical equipment,USD,USD
-0753,SunTrust Banks,USA,US8679141031,services,banking,USD,USD
-0754,Symantec,USA,US8715031089,IT,software providers,USD,USD
-0755,Sysco,USA,US8718291078,consumer,diversified wholesale and retail,USD,USD
-0756,T Rowe Price,USA,US74144T1088,services,financial services,USD,USD
-0757,Target,USA,US87612E1064,consumer,diversified wholesale and retail,USD,USD
-0758,TE Connectivity,USA,CH0102993182,electrical electronic,cables wires and transmission,USD,USD
-0760,Texas Inst,USA,US8825081040,electrical electronic,electronic components,USD,USD
-0761,Thermo Fisher,USA,US8835561023,technology,high precision and instrumentation products,USD,USD
-0762,Tiffany,USA,US8865471085,consumer,cosmetics jewellery and luxury products,USD,USD
-0763,Time Warner old,Special Spare,dead ISIN 763,telecommunications,diversified telecommunications,USD,USD
-0764,Time Warner,USA,US8873173038,consumer,entertainment and broadcasting,USD,USD
-0765,TJX Companies,USA,US8725401090,consumer,clothing wholesale and retail,USD,USD
-0766,Travelers,USA,US89417E1091,services,insurance — general,USD,USD
-0767,TwentyFirst Fox,USA,US90130A1016,consumer,entertainment and broadcasting,USD,USD
-0769,Union Pacific,USA,US9078181081,transport,railroads and bus services,USD,USD
-0770,REVA Medical,Australia,AU000000RVA3,healthcare,medical equipment,AUD,AUD
-0771,United Parcel,USA,US9113121068,transport,transport logistics and distribution,USD,USD
-0772,United Tech,USA,US9130171096,industrial,diversified industrial,USD,USD
-0773,Unum,USA,US91529Y1064,services,insurance — life and health,USD,USD
-0774,US Bancorp,USA,US9029733048,services,banking,USD,USD
-0775,Valero Energy,USA,US91913Y1001,industrial,petroleum refiners and distributors,USD,USD
-0776,Ventas,USA,US92276F1003,real estate,healthcare real estate,USD,USD
-0777,EML Payments,Australia,AU000000EML7,services,financial services,AUD,AUD
-0778,Vertex Pharmas,USA,US92532F1003,healthcare,pharmaceuticals and biosciences,USD,USD
-0779,VF,USA,US9182041080,consumer,clothing and shoe manufacturers,USD,USD
-0780,Viacom,Special Spare,US92553P2011,consumer,entertainment and broadcasting,USD,USD
-0781,Visa,USA,US92826C8394,services,business services,USD,USD
-0782,Vornado Realty,USA,US9290421091,real estate,diversified real estate,USD,USD
-0783,Walgreen,USA,US9314221097,consumer,diversified wholesale and retail,USD,USD
-0784,Wal,USA,US9311421039,consumer,diversified wholesale and retail,USD,USD
-0785,Walt Disney,USA,US2546871060,consumer,entertainment and broadcasting,USD,USD
-0786,Graham Hldgs,USA,US3846371041,services,education,USD,USD
-0787,Waste Mangmt,USA,US94106L1098,industrial,waste and water management,USD,USD
-0788,Anthem,USA,US0367521038,services,insurance — life and health,USD,USD
-0789,Wells Fargo,USA,US9497461015,services,banking,USD,USD
-0791,Western Union,USA,US9598021098,services,financial services,USD,USD
-0792,Freelancer,Australia,AU000000FLN2,IT,search cloud and integrated IT services,AUD,AUD
-0793,Whirlpool,USA,US9633201069,consumer,household appliances and hardware,USD,USD
-0794,Whole Foods old,Special Spare,dead ISIN 794,consumer,diversified wholesale and retail,USD,USD
-0795,Williams Cos,USA,US9694571004,industrial,pipelines and energy storage,USD,USD
-0796,Rural Funds,Australia,AU000000RFF5,primary production,agribusiness agriculture and fishing,AUD,AUD
-0797,Xcel Energy,USA,US98389B1008,utilities,diversified utilities,USD,USD
-0798,Xerox,USA,US9841211033,services,business services,USD,USD
-0799,Xilinx,USA,US9839191015,electrical electronic,electronic components,USD,USD
-0800,Schlumberger,USA,AN8068571086,industrial,oil and gas equipment and services,USD,USD
-0801,Yum! Brands,USA,US9884981013,consumer,restaurants,USD,USD
-0802,Johnson Cont,USA,IE00BY7QL619,industrial,diversified industrial,USD,USD
-0803,AES Corp,USA,US00130H1059,utilities,electricity distribution and generation,USD,USD
-0804,Affiliated Mgrs,USA,US0082521081,services,financial services,USD,USD
-0805,Airgas old,Special Spare,dead ISIN 805,industrial,industrial gases,USD,USD
-0806,Akamai Tech,USA,US00971T1016,IT,search cloud and integrated IT services,USD,USD
-0807,Alcoa,USA,US0138721065,primary production,non—ferrous metals production and products,USD,USD
-0808,Allegion,USA,IE00BFRT3W74,electrical electronic,electronic finished products,USD,USD
-0809,Alliance Data,USA,US0185811082,services,business services,USD,USD
-0810,Ingenia,Australia,AU000000INA9,real estate,residential real estate,AUD,AUD
-0811,Ametek,USA,US0311001004,technology,high precision and instrumentation products,USD,USD
-0812,Amphenol,USA,US0320951017,electrical electronic,cables wires and transmission,USD,USD
-0813,Autodesk,USA,US0527691069,IT,software providers,USD,USD
-0814,AutoNation,USA,US05329W1027,vehicles,vehicle sales and repair,USD,USD
-0815,Senex Energy,Australia,AU000000SXY7,industrial,oil and gas drilling and exploration,AUD,AUD
-0816,Avon Products,USA,US0543031027,consumer,cosmetics jewellery and luxury products,USD,USD
-0817,Ball Corp old,Special Spare,dead ISIN 817,industrial,packaging,USD,USD
-0819,Best Buy,USA,US0865161014,consumer,diversified wholesale and retail,USD,USD
-0820,BorgWarner,USA,US0997241064,vehicles,auto parts and components,USD,USD
-0821,Boston Sci,USA,US1011371077,healthcare,medical equipment,USD,USD
-0822,Cameron Int old,Special Spare,dead ISIN 822,industrial,oil and gas equipment and services,USD,USD
-0823,QMS Media,Australia,AU000000QMS6,media publishing,advertising — marketing — media — e—commerce,AUD,AUD
-0824,Carmax,USA,US1431301027,vehicles,vehicle sales and repair,USD,USD
-0825,CBRE Group,USA,US12504L1098,real estate,real estate services,USD,USD
-0826,CF Industries,USA,US1252691001,chemicals,agricultural chemicals and fertilisers,USD,USD
-0827,Chipotle Mex,USA,US1696561059,consumer,restaurants,USD,USD
-0828,Cimarex,USA,US1717981013,primary production,oil and gas,USD,USD
-0829,Cincinnati Fin,USA,US1720621010,services,insurance — general,USD,USD
-0830,Cintas,USA,US1729081059,services,business services,USD,USD
-0831,Citrix,USA,US1773761002,IT,search cloud and integrated IT services,USD,USD
-0832,CNX Res,USA,US12653C1080,primary production,coal and coal products,USD,USD
-0833,Constellation,USA,US21036P1084,consumer,beverage manufacturers,USD,USD
-0834,D. R. Horton,USA,US23331A1097,real estate,residential real estate,USD,USD
-0835,DaVita,USA,US23918K1088,healthcare,healthcare services,USD,USD
-0836,Denbury Res,USA,US2479162081,primary production,oil and gas,USD,USD
-0837,Dentsply,USA,US2490301072,healthcare,medical equipment,USD,USD
-0838,Industria REIT,Australia,AU0000039711,real estate,office commercial and industrial real estate,AUD,AUD
-0839,Dun+Bradstreet,USA,US26483E1001,media publishing,publishing and printing,USD,USD
-0840,E,USA,US2692464017,services,financial services,USD,USD
-0841,Eastman Chem,USA,US2774321002,chemicals,chemicals and petrochemicals,USD,USD
-0842,Edwards Life,USA,US28176E1082,healthcare,healthcare products,USD,USD
-0843,Electronic Arts,USA,US2855121099,consumer,entertainment and broadcasting,USD,USD
-0844,EQT,USA,US26884L1098,primary production,oil and gas,USD,USD
-0845,Champion Iron,Australia,AU000000CIA2,primary production,metals and minerals mining and exploration,AUD,AUD
-0846,Essex Property,USA,US2971781057,real estate,residential real estate,USD,USD
-0847,Expedia,USA,US30212P3038,consumer,hotels travel gambling and leisure,USD,USD
-0848,Expeditors,USA,US3021301094,transport,transport logistics and distribution,USD,USD
-0849,F5 Networks,USA,US3156161024,IT,search cloud and integrated IT services,USD,USD
-0850,Class Ltd,Australia,AU000000CL11,IT,search cloud and integrated IT services,AUD,AUD
-0851,First Solar,USA,US3364331070,electrical electronic,electronic finished products,USD,USD
-0852,Fiserv old,Special Spare,dead ISIN 852,IT,software providers,USD,USD
-0853,FLIR Systems,USA,US3024451011,technology,high precision and instrumentation products,USD,USD
-0854,Flowserve,USA,US34354P1057,industrial,industrial components,USD,USD
-0855,Fluor,USA,US3434121022,services,engineering and technical services,USD,USD
-0856,FMC Corp,USA,US3024913036,chemicals,chemicals and petrochemicals,USD,USD
-0857,TechnipFMC,USA,GB00BDSFG982,industrial,oil and gas equipment and services,USD,USD
-0858,Frontier Comms,USA,US35906A1088,telecommunications,diversified telecommunications,USD,USD
-0859,GameStop,USA,US36467W1099,consumer,entertainment and broadcasting,USD,USD
-0860,Garmin,USA,CH0114405324,technology,high precision and instrumentation products,USD,USD
-0861,Genworth,USA,US37247D1063,services,financial services,USD,USD
-0862,Goodyear,USA,US3825501014,vehicles,tire manufacturers,USD,USD
-0863,Harley,USA,US4128221086,vehicles,cycles and motorcycles,USD,USD
-0864,Harman Intl old,Special Spare,dead ISIN 864,electrical electronic,electronic finished products,USD,USD
-0865,Hartford Fin,USA,US4165151048,services,insurance — general,USD,USD
-0866,Helmerich+Payne,USA,US4234521015,industrial,oil and gas drilling and exploration,USD,USD
-0867,FAR Ltd,Australia,AU000000FAR6,industrial,oil and gas drilling and exploration,AUD,AUD
-0868,Equity Trustees,Australia,AU000000EQT1,services,financial services,AUD,AUD
-0869,Humana,USA,US4448591028,services,insurance — life and health,USD,USD
-0870,Scottish Pac,Australia,AU000000SCO2,services,financial services,AUD,AUD
-0871,Jabil Circuit,USA,US4663131039,industrial,industrial equipment and light machinery,USD,USD
-0872,Jacobs,USA,US4698141078,services,engineering and technical services,USD,USD
-0873,Rockwell C,USA,US7743411016,industrial,aerospace,USD,USD
-0874,Juniper,USA,US48203R1041,electrical electronic,communication and networking equipment,USD,USD
-0875,Kansas City,USA,US4851703029,transport,railroads and bus services,USD,USD
-0876,Southern,USA,US8425871071,utilities,electricity distribution and generation,USD,USD
-0877,Terramin,Australia,AU000000TZN3,primary production,metals and minerals mining and exploration,AUD,AUD
-0878,Lam Research,USA,US5128071082,industrial,industrial equipment and light machinery,USD,USD
-0879,Legg Mason,USA,US5249011058,services,financial services,USD,USD
-0880,Leggett & Platt,USA,US5246601075,industrial,diversified industrial,USD,USD
-0881,Lennar Corp,USA,US5260571048,real estate,residential real estate,USD,USD
-0882,Jefferies Fin,USA,US47233W1099,conglomerates,diversified conglomerates,USD,USD
-0883,Macerich,USA,US5543821012,real estate,retail and malls real estate,USD,USD
-0884,Marriott old,Special Spare,dead ISIN 884,consumer,hotels travel gambling and leisure,USD,USD
-0885,Masco,USA,US5745991068,industrial,building and construction materials,USD,USD
-0886,Mohawk,USA,US6081901042,industrial,building and construction materials,USD,USD
-0887,Monster Bev,USA,US6117401017,consumer,beverage manufacturers,USD,USD
-0888,Moody,USA,US6153691059,services,financial services,USD,USD
-0889,Nabors,USA,BMG6359F1032,industrial,oil and gas drilling and exploration,USD,USD
-0890,Navient,USA,US63938C1080,services,financial services,USD,USD
-0891,Newfield,USA,US6512901082,primary production,oil and gas,USD,USD
-0892,News Corp,USA,US65249B1098,media publishing,advertising — marketing — media — e—commerce,USD,USD
-0893,Noble Corp,USA,GB00BFG3KF26,industrial,oil and gas drilling and exploration,USD,USD
-0894,NRG Energy,USA,US6293775085,utilities,diversified utilities,USD,USD
-0895,O'Reilly Auto,USA,US67103H1077,vehicles,auto parts and components,USD,USD
-0896,Owens,USA,US6907684038,industrial,glass and glass products,USD,USD
-0897,Beacon Lighting,Australia,AU000000BLX0,consumer,diversified wholesale and retail,AUD,AUD
-0898,Patterson,USA,US7033951036,healthcare,healthcare products,USD,USD
-0899,Peabody Energy,USA,US7045511000,primary production,coal and coal products,USD,USD
-0900,Pentair,USA,US7096311052,industrial,industrial equipment and light machinery,USD,USD
-0901,Aboitiz Equity,Philippines,PHY0001Z1040,conglomerates,diversified conglomerates,PHP,PHP
-0902,Aboitiz Power,Philippines,PHY0005M1090,utilities,electricity distribution and generation,PHP,PHP
-0903,Alliance Global,Philippines,PHY003341054,conglomerates,diversified conglomerates,PHP,PHP
-0904,Ayala,Philippines,PHY0486V1154,conglomerates,diversified conglomerates,PHP,PHP
-0905,Ayala Land,Philippines,PHY0488F1004,real estate,diversified real estate,PHP,PHP
-0906,Banco de Oro,Philippines,PHY0560W1046,services,banking,PHP,PHP
-0907,BPI,Philippines,PHY0967S1694,services,banking,PHP,PHP
-0908,Belle,Philippines,PHY0775S1043,consumer,hotels travel gambling and leisure,PHP,PHP
-0909,DMCI Hldgs,Philippines,PHY2088F1004,construction,construction — industrial and diversified,PHP,PHP
-0911,First Gen,Philippines,PHY2518H1143,utilities,electricity distribution and generation,PHP,PHP
-0912,Globe Telecom,Philippines,PHY272571498,telecommunications,diversified telecommunications,PHP,PHP
-0913,Intl Container,Philippines,PHY411571011,transport,transport logistics and distribution,PHP,PHP
-0914,JG Summit,Philippines,PHY444251177,conglomerates,diversified conglomerates,PHP,PHP
-0915,Jollibee Foods,Philippines,PHY4466S1007,consumer,restaurants,PHP,PHP
-0916,Manila Electric,Philippines,PHY5764J1483,utilities,electricity distribution and generation,PHP,PHP
-0917,Manila Water,Philippines,PHY569991086,utilities,gas and water utilities,PHP,PHP
-0918,Megaworld,Philippines,PHY594811127,real estate,diversified real estate,PHP,PHP
-0919,Metro Pacific,Philippines,PHY603051020,utilities,diversified utilities,PHP,PHP
-0920,Metro Bank,Philippines,PHY6028G1361,services,banking,PHP,PHP
-0921,Petron,Philippines,PHY6885F1067,industrial,petroleum refiners and distributors,PHP,PHP
-0922,Philex Mining,Philippines,PHY689911352,primary production,metals and minerals mining and exploration,PHP,PHP
-0923,PLDT,Philippines,PH7182521093,telecommunications,diversified telecommunications,PHP,PHP
-0924,Robinsons Land,Philippines,PHY731961264,real estate,diversified real estate,PHP,PHP
-0925,San Miguel A,Philippines,PH7990853035,conglomerates,diversified conglomerates,PHP,PHP
-0926,Semirara Mining,Philippines,PHY7627Y1552,primary production,coal and coal products,PHP,PHP
-0927,2GO Group,Philippines,PHY9017S1034,transport,transport logistics and distribution,PHP,PHP
-0928,SM Investments,Philippines,PHY806761029,real estate,diversified real estate,PHP,PHP
-0929,SM Prime,Philippines,PHY8076N1120,real estate,diversified real estate,PHP,PHP
-0930,Univ Robina,Philippines,PHY9297P1004,primary production,agribusiness agriculture and fishing,PHP,PHP
-0931,PetroV Gas,Vietnam,VN000000GAS3,utilities,gas and water utilities,VND,VND
-0932,Vietnam Dairy,Vietnam,VN000000VNM8,consumer,food manufacturers,VND,VND
-0933,Vietcombank,Vietnam,VN000000VCB4,services,banking,VND,VND
-0934,VN Comm Bk IT,Vietnam,VN000000CTG7,services,banking,VND,VND
-0935,Masan,Vietnam,VN000000MSN4,consumer,food manufacturers,VND,VND
-0936,Vingroup,Vietnam,VN000000VIC9,real estate,diversified real estate,VND,VND
-0937,Baoviet Hldgs,Vietnam,VN000000BVH3,services,insurance — life and health,VND,VND
-0938,SaiGon Thuong,Vietnam,VN000000STB4,services,banking,VND,VND
-0939,PV Fertilizer,Vietnam,VN000000DPM1,chemicals,agricultural chemicals and fertilisers,VND,VND
-0940,HAGL,Vietnam,VN000000HAG6,primary production,forestry and timber,VND,VND
-0941,Hoa Phat,Vietnam,VN000000HPG4,primary production,steel production and products,VND,VND
-0942,FPT,Vietnam,VN000000FPT1,IT,software providers,VND,VND
-0943,Kinh Do,Vietnam,VN000000KDC3,consumer,food manufacturers,VND,VND
-0944,DHG Pharma,Vietnam,VN000000DHG0,healthcare,pharmaceuticals and biosciences,VND,VND
-0945,PhaLai Thermal,Vietnam,VN000000PPC6,utilities,electricity distribution and generation,VND,VND
-0946,Ocean,Vietnam,VN000000OGC8,services,financial services,VND,VND
-0947,Hoa Sen,Vietnam,VN000000HSG8,primary production,steel production and products,VND,VND
-0948,Tan Tao Inv,Vietnam,VN000000ITA7,real estate,diversified real estate,VND,VND
-0949,Danang Rubber,Vietnam,VN000000DRC8,industrial,rubber and plastics,VND,VND
-0950,Gemadept,Vietnam,VN000000GMD0,transport,transport logistics and distribution,VND,VND
-0951,Vinh Son,Vietnam,VN000000VSH7,utilities,electricity distribution and generation,VND,VND
-0952,Kinhbac City,Vietnam,VN000000KBC7,real estate,diversified real estate,VND,VND
-0953,Southern Rubber,Vietnam,VN000000CSM7,industrial,rubber and plastics,VND,VND
-0954,PV Transportn,Vietnam,VN000000PVT8,industrial,pipelines and energy storage,VND,VND
-0955,Becamex Infra,Vietnam,VN000000IJC4,real estate,diversified real estate,VND,VND
-0956,Thanh Thanh,Vietnam,VN000000SBT4,consumer,food manufacturers,VND,VND
-0957,PV General Svcs,Vietnam,VN000000PET4,industrial,petroleum refiners and distributors,VND,VND
-0958,Vietnam Dev Inv,Vietnam,VN000000DIG8,real estate,diversified real estate,VND,VND
-0959,Advantest,Japan,JP3122400009,technology,high precision and instrumentation products,JPY,JPY
-0960,Aeon,Japan,JP3388200002,consumer,diversified wholesale and retail,JPY,JPY
-0961,Ajinomoto,Japan,JP3119600009,consumer,food manufacturers,JPY,JPY
-0962,Alps Electric,Japan,JP3126400005,electrical electronic,electronic components,JPY,JPY
-0963,Amada,Japan,JP3122800000,industrial,industrial equipment and light machinery,JPY,JPY
-0964,ANA Hldgs,Japan,JP3429800000,transport,airlines,JPY,JPY
-0965,Aozora Bank,Japan,JP3711200000,services,banking,JPY,JPY
-0966,Asahi Glass,Japan,JP3112000009,industrial,glass and glass products,JPY,JPY
-0967,Asahi Gp Hldgs,Japan,JP3116000005,consumer,beverage manufacturers,JPY,JPY
-0968,Asahi Kasei,Japan,JP3111200006,chemicals,chemicals and petrochemicals,JPY,JPY
-0969,Astellas Pharma,Japan,JP3942400007,healthcare,pharmaceuticals and biosciences,JPY,JPY
-0970,Marudai Food,Japan,JP3876400007,consumer,food manufacturers,JPY,JPY
-0971,Bridgestone,Japan,JP3830800003,vehicles,tire manufacturers,JPY,JPY
-0972,Canon,Japan,JP3242800005,electrical electronic,electronic finished products,JPY,JPY
-0973,Casio Computer,Japan,JP3209000003,electrical electronic,electronic finished products,JPY,JPY
-0974,Cent Japan Ry,Japan,JP3566800003,transport,railroads and bus services,JPY,JPY
-0975,Chiba Bank,Japan,JP3511800009,services,banking,JPY,JPY
-0976,Chiyoda,Japan,JP3528600004,services,engineering and technical services,JPY,JPY
-0977,Chubu Elec Pwr,Japan,JP3526600006,utilities,electricity distribution and generation,JPY,JPY
-0978,Chugai Pharma,Japan,JP3519400000,healthcare,pharmaceuticals and biosciences,JPY,JPY
-0979,Citizen Watch,Japan,JP3352400000,conglomerates,sector holding companies,JPY,JPY
-0980,Comsys,Japan,JP3305530002,construction,infrastructure construction and services,JPY,JPY
-0981,Credit Saison,Japan,JP3271400008,services,financial services,JPY,JPY
-0982,Dai Nippon,Japan,JP3493800001,media publishing,publishing and printing,JPY,JPY
-0983,Dai,Japan,JP3476480003,services,insurance — life and health,JPY,JPY
-0984,Daiichi Sankyo,Japan,JP3475350009,healthcare,pharmaceuticals and biosciences,JPY,JPY
-0985,Daikin Inds,Japan,JP3481800005,industrial,industrial equipment and light machinery,JPY,JPY
-0986,Screen Hldgs,Japan,JP3494600004,industrial,industrial equipment and light machinery,JPY,JPY
-0987,Sumitomo Dai,Japan,JP3495000006,healthcare,pharmaceuticals and biosciences,JPY,JPY
-0988,Daiwa House,Japan,JP3505000004,real estate,residential real estate,JPY,JPY
-0989,Daiwa Secs,Japan,JP3502200003,services,financial services,JPY,JPY
-0990,Denka,Japan,JP3549600009,chemicals,chemicals and petrochemicals,JPY,JPY
-0991,Denso,Japan,JP3551500006,vehicles,auto parts and components,JPY,JPY
-0992,Dentsu,Japan,JP3551520004,media publishing,advertising — marketing — media — e—commerce,JPY,JPY
-0993,DOWA Hldgs,Japan,JP3638600001,conglomerates,diversified conglomerates,JPY,JPY
-0994,East Japan Ry,Japan,JP3783600004,transport,railroads and bus services,JPY,JPY
-0995,Ebara,Japan,JP3166000004,industrial,power nuclear and heavy engineering,JPY,JPY
-0996,Eisai,Japan,JP3160400002,healthcare,pharmaceuticals and biosciences,JPY,JPY
-0997,Fanuc,Japan,JP3802400006,industrial,industrial equipment and light machinery,JPY,JPY
-0998,Fast Retailing,Japan,JP3802300008,consumer,clothing wholesale and retail,JPY,JPY
-0999,Fuji Electric,Japan,JP3820000002,industrial,power nuclear and heavy engineering,JPY,JPY
+company_code,short_name,country,isin_code,sector_group,sector,share_currency,reference_currency
+1,A2A,Italy,IT0001233417,utilities,diversified utilities,EUR,EUR
+2,ABB,Switzerland,CH0012221716,industrial,power nuclear and heavy engineering,CHF,CHF
+4,ABI,Belgium,BE0974293251,consumer,beverage manufacturers,EUR,EUR
+5,Credit Agricole,France,FR0000045072,services,banking,EUR,EUR
+6,ACS,Spain,ES0167050915,construction,infrastructure construction and services,EUR,EUR
+7,Adecco,Switzerland,CH0012138605,services,HR and recruitment,CHF,CHF
+8,Admiral,UK,GB00B02J6398,services,insurance — general,GBP,GBP
+9,Ahold Delhaize,Netherlands,NL0011794037,consumer,diversified wholesale and retail,EUR,EUR
+10,Akzo Nobel,Netherlands,NL0000009132,chemicals,paints and coatings,EUR,EUR
+11,Alfa Laval,Sweden,SE0000695876,industrial,industrial equipment and light machinery,SEK,SEK
+12,Autoliv,USA,US0528001094,vehicles,auto parts and components,USD,USD
+13,Allianz,Germany,DE0008404005,services,insurance — general,EUR,EUR
+14,Carlyle Group,USA,US14309L1026,services,financial services,USD,USD
+15,Acciona,Spain,ES0125220311,construction,infrastructure construction and services,EUR,EUR
+17,Atlantia,Italy,IT0003506190,transport,roads tolls and traffic management,EUR,EUR
+18,Antevenio,Spain,ES0109429037,media publishing,advertising — marketing — media — e—commerce,EUR,EUR
+19,Astrazeneca,UK,GB0009895292,healthcare,pharmaceuticals and biosciences,GBP,GBP
+20,Babcock,UK,GB0009697037,services,engineering and technical services,GBP,GBP
+21,Baloise,Switzerland,CH0012410517,services,insurance — general,CHF,CHF
+22,BASF,Germany,DE000BASF111,chemicals,chemicals and petrochemicals,EUR,EUR
+23,BAT,UK,GB0002875804,consumer,tobacco,GBP,GBP
+24,Bayer,Germany,DE000BAY0017,healthcare,pharmaceuticals and biosciences,EUR,EUR
+25,BBVA,Spain,ES0113211835,services,banking,EUR,EUR
+26,BCP,Portugal,PTBCP0AM0007,services,banking,EUR,EUR
+27,Befimmo,Belgium,BE0003678894,real estate,office commercial and industrial real estate,EUR,EUR
+28,Proximus,Belgium,BE0003810273,telecommunications,diversified telecommunications,EUR,EUR
+29,ENEL,Italy,IT0003128367,utilities,diversified utilities,EUR,EUR
+30,Beazley,UK,JE00B64G9089,services,insurance — general,GBP,GBP
+31,Berkeley Group,UK,GB00B02L3W35,real estate,residential real estate,GBP,GBP
+32,Bloomsbury,UK,GB0033147751,media publishing,publishing and printing,GBP,GBP
+33,British Land,UK,GB0001367019,real estate,office commercial and industrial real estate,GBP,GBP
+34,BMW,Germany,DE0005190003,vehicles,car truck and bus manufacturers,EUR,EUR
+35,BNP,France,FR0000131104,services,banking,EUR,EUR
+36,Boskalis,Netherlands,NL0000852580,industrial,marine salvage dredging offshore services,EUR,EUR
+37,BP,UK,GB0007980591,primary production,oil and gas,GBP,GBP
+38,3i Infrastrct,UK,JE00BF5FX167,construction,infrastructure construction and services,GBP,GBP
+39,BT,UK,GB0030913577,telecommunications,diversified telecommunications,GBP,GBP
+40,Caixabank,Spain,ES0140609019,services,banking,EUR,EUR
+41,CEZ AS,Czech Republic,CZ0005112300,utilities,electricity distribution and generation,CZK,CZK
+42,Domino Pizza AU,Australia,AU000000DMP0,consumer,restaurants,AUD,AUD
+43,Carillion,UK,GB0007365546,construction,construction — industrial and diversified,GBP,GBP
+44,Centrica,UK,GB00B033F229,utilities,diversified utilities,GBP,GBP
+45,Cofinimmo,Belgium,BE0003593044,real estate,diversified real estate,EUR,EUR
+46,Soul Pattinson,Australia,AU000000SOL3,conglomerates,diversified conglomerates,AUD,AUD
+47,CRH,Ireland,IE0001827041,industrial,building and construction materials,EUR,EUR
+48,Credit Suisse N,Switzerland,CH0012138530,services,banking,CHF,CHF
+49,Metsa Board B,Finland,FI0009000665,industrial,paper products (not packaging),EUR,EUR
+50,Daimler,Germany,DE0007100000,vehicles,car truck and bus manufacturers,EUR,EUR
+51,Vinci,France,FR0000125486,construction,construction — industrial and diversified,EUR,EUR
+52,Diageo,UK,GB0002374006,consumer,beverage manufacturers,GBP,GBP
+53,Delta Lloyd old,Special Spare,dead ISIN 53,services,insurance — general,EUR,EUR
+54,Deutsche Post,Germany,DE0005552004,transport,transport logistics and distribution,EUR,EUR
+55,Drax,UK,GB00B1VNSX38,utilities,electricity distribution and generation,GBP,GBP
+56,Deut Telekom,Germany,DE0005557508,telecommunications,diversified telecommunications,EUR,EUR
+57,EDF,France,FR0010242511,utilities,electricity distribution and generation,EUR,EUR
+58,Endesa,Spain,ES0130670112,utilities,diversified utilities,EUR,EUR
+59,Elisa,Finland,FI0009007884,telecommunications,diversified telecommunications,EUR,EUR
+60,MAN,UK,GB00B83VD954,services,financial services,GBP,GBP
+61,Enagas,Spain,ES0130960018,industrial,pipelines and energy storage,EUR,EUR
+62,Reece Ltd,Australia,AU000000REH4,industrial,building and construction materials,AUD,AUD
+63,Eni,Italy,IT0003132476,primary production,oil and gas,EUR,EUR
+64,E.ON,Germany,DE000ENAG999,utilities,diversified utilities,EUR,EUR
+65,Ericsson,Sweden,SE0000108656,IT,internet and networking services,SEK,SEK
+66,Fomento CC,Spain,ES0122060314,construction,construction — industrial and diversified,EUR,EUR
+67,Covivio,France,FR0000064578,real estate,office commercial and industrial real estate,EUR,EUR
+68,Finmeccanica,Italy,IT0003856405,industrial,aerospace,EUR,EUR
+69,Total old,Special Spare,dead ISIN 69,primary production,oil and gas,EUR,EUR
+70,Valeo,France,FR0013176526,vehicles,auto parts and components,EUR,EUR
+71,Fortum,Finland,FI0009007132,utilities,electricity distribution and generation,EUR,EUR
+72,Naturgy Energy,Spain,ES0116870314,utilities,gas and water utilities,EUR,EUR
+73,Geberit,Switzerland,CH0030170408,industrial,building and construction materials,CHF,CHF
+75,Soc Generale,France,FR0000130809,services,banking,EUR,EUR
+76,GlaxoSmithKline,UK,GB0009252882,healthcare,pharmaceuticals and biosciences,GBP,GBP
+77,Engie,France,FR0010208488,utilities,diversified utilities,EUR,EUR
+78,H&M,Sweden,SE0000106270,consumer,clothing and shoe manufacturers,SEK,SEK
+79,Hammerson,UK,GB0004065016,real estate,diversified real estate,GBP,GBP
+80,Hannover Rueck,Germany,DE0008402215,services,reinsurance,EUR,EUR
+81,HSBC,UK,GB0005405286,services,banking,GBP,GBP
+82,Hansteen,UK,GB00B0PPFY88,real estate,office commercial and industrial real estate,GBP,GBP
+83,Hiscox,UK,BMG4593F1389,services,insurance — general,GBP,GBP
+84,Iberdrola,Spain,ES0144580Y14,utilities,diversified utilities,EUR,EUR
+85,Icade,France,FR0000035081,real estate,office commercial and industrial real estate,EUR,EUR
+86,Intermediate Cp,UK,GB00BYY5B507,services,financial services,GBP,GBP
+87,Imperial Brands,UK,GB0004544929,consumer,tobacco,GBP,GBP
+88,ING Groep,Netherlands,NL0011821202,services,banking,EUR,EUR
+89,Intesa Sanpaolo,Italy,IT0000072618,services,banking,EUR,EUR
+90,Kier,UK,GB0004915632,construction,construction — industrial and diversified,GBP,GBP
+91,KPN,Netherlands,NL0000009082,telecommunications,diversified telecommunications,EUR,EUR
+92,Land Securities,UK,GB0031809436,real estate,office commercial and industrial real estate,GBP,GBP
+93,Westgold Res,Australia,AU000000WGX6,primary production,metals and minerals mining and exploration,AUD,AUD
+94,Legal & General,UK,GB0005603997,services,insurance — life and health,GBP,GBP
+95,Solocal,France,FR0012938884,media publishing,advertising — marketing — media — e—commerce,EUR,EUR
+96,Lancashire,UK,BMG5361W1047,services,insurance — general,GBP,GBP
+97,Mapfre,Spain,ES0124244E34,services,insurance — general,EUR,EUR
+98,Link Admin,Australia,AU000000LNK2,services,business services,AUD,AUD
+99,Metso,Finland,FI0009007835,industrial,power nuclear and heavy engineering,EUR,EUR
+100,Morgan Adv Mats,UK,GB0006027295,technology,research and specialist materials,GBP,GBP
+101,Mowi,Norway,NO0003054108,primary production,agribusiness agriculture and fishing,NOK,NOK
+102,Lagardere SCA,France,FR0000130213,media publishing,publishing and printing,EUR,EUR
+103,Metropole TV,France,FR0000053225,consumer,entertainment and broadcasting,EUR,EUR
+104,Mediaset,Italy,IT0001063210,consumer,entertainment and broadcasting,EUR,EUR
+105,ArcelorMittal,Luxembourg,LU0323134006,primary production,steel production and products,EUR,EUR
+106,Mun Re,Germany,DE0008430026,services,reinsurance,EUR,EUR
+107,National Grid,UK,GB00B08SNH34,utilities,diversified utilities,GBP,GBP
+108,Nokia old,Special Spare,dead ISIN 108,IT,internet and networking services,EUR,EUR
+109,Novartis,Switzerland,CH0012005267,healthcare,pharmaceuticals and biosciences,CHF,CHF
+110,Nokian Tyres,Finland,FI0009005318,vehicles,tire manufacturers,EUR,EUR
+111,Orange,France,FR0000133308,telecommunications,diversified telecommunications,EUR,EUR
+112,Orkla,Norway,NO0003733800,consumer,household consumables manufacturers,NOK,NOK
+113,Orion Oyj,Finland,FI0009014377,healthcare,pharmaceuticals and biosciences,EUR,EUR
+114,Provident Fin,UK,GB00B1Z4ST84,services,financial services,GBP,GBP
+115,Philips,Netherlands,NL0000009538,electrical electronic,electrical equipment,EUR,EUR
+116,PostNL,Netherlands,NL0009739416,transport,transport logistics and distribution,EUR,EUR
+117,Prosiebensat,Germany,DE000PSM7770,consumer,entertainment and broadcasting,EUR,EUR
+118,Pearson,UK,GB0006776081,media publishing,publishing and printing,GBP,GBP
+119,Portug Telecom,Portugal,PTPTC0AM0009,telecommunications,diversified telecommunications,EUR,EUR
+120,Prudential,UK,GB0007099541,services,insurance — life and health,GBP,GBP
+121,Ratos,Sweden,SE0000111940,industrial,diversified industrial,SEK,SEK
+122,Reckitt Ben old,Special Spare,dead ISIN 122,consumer,household consumables manufacturers,GBP,GBP
+123,Carindale Prop,Australia,AU000000CDP1,real estate,retail and malls real estate,AUD,AUD
+124,Relx,UK,GB00B2B0DG97,media publishing,publishing and printing,GBP,GBP
+125,Event Hosp,Australia,AU000000EVT1,consumer,hotels travel gambling and leisure,AUD,AUD
+126,Renault,France,FR0000131906,vehicles,car truck and bus manufacturers,EUR,EUR
+127,Roche,Switzerland,CH0012032048,healthcare,pharmaceuticals and biosciences,CHF,CHF
+128,Rolls,UK,GB00B63H8491,industrial,engines and heavy machinery,GBP,GBP
+129,RSA Insurance,UK,GB00BKKMKR23,services,insurance — general,GBP,GBP
+130,RWE,Germany,DE0007037129,utilities,diversified utilities,EUR,EUR
+131,Sanoma,Finland,FI0009007694,media publishing,publishing and printing,EUR,EUR
+132,Banco Santander,Spain,ES0113900J37,services,banking,EUR,EUR
+133,Sanofi,France,FR0000120578,healthcare,pharmaceuticals and biosciences,EUR,EUR
+134,Sandvik,Sweden,SE0000667891,industrial,industrial equipment and light machinery,SEK,SEK
+135,Swisscom,Switzerland,CH0008742519,telecommunications,diversified telecommunications,CHF,CHF
+136,SCOR,France,FR0010411983,services,reinsurance,EUR,EUR
+137,Vivo Energy,UK,GB00BDGT2M75,industrial,petroleum refiners and distributors,GBP,USD
+138,Warpaint,UK,GB00BYMF3676,consumer,cosmetics jewellery and luxury products,GBP,GBP
+139,Segro(REIT),UK,GB00B5ZN1N88,real estate,office commercial and industrial real estate,GBP,GBP
+140,WiseTech Global,Australia,AU000000WTC3,IT,software providers,AUD,AUD
+141,SKF,Sweden,SE0000108227,industrial,industrial components,SEK,SEK
+142,Standard Life,UK,GB00BVFD7Q58,services,financial services,GBP,GBP
+143,Smith (DS),UK,GB0008220112,industrial,packaging,GBP,GBP
+144,SNAM,Italy,IT0003153415,industrial,pipelines and energy storage,EUR,EUR
+145,SSE,UK,GB0007908733,utilities,diversified utilities,GBP,GBP
+146,Equinor,Norway,NO0010096985,primary production,oil and gas,NOK,NOK
+147,Stobart,UK,GB00B03HDJ73,transport,transport logistics and distribution,GBP,GBP
+148,Schneider,France,FR0000121972,electrical electronic,electrical equipment,EUR,EUR
+149,Swedbank,Sweden,SE0000242455,services,banking,SEK,SEK
+150,Tate & Lyle,UK,GB0008754136,consumer,food manufacturers,GBP,GBP
+151,Telefonica,Spain,ES0178430E18,telecommunications,diversified telecommunications,EUR,EUR
+152,Telenor,Norway,NO0010063308,telecommunications,diversified telecommunications,NOK,NOK
+153,Telecom Italia,Italy,IT0003497168,telecommunications,diversified telecommunications,EUR,EUR
+154,Telekom Austria,Austria,AT0000720008,telecommunications,diversified telecommunications,EUR,EUR
+155,Telia,Sweden,SE0000667925,telecommunications,diversified telecommunications,SEK,SEK
+156,Peugeot,France,FR0000121501,vehicles,car truck and bus manufacturers,EUR,EUR
+158,Unilever,Netherlands,NL0000009355,consumer,household consumables manufacturers,EUR,EUR
+159,United Uts,UK,GB00B39J2M42,utilities,gas and water utilities,GBP,GBP
+160,Veolia,France,FR0000124141,industrial,waste and water management,EUR,EUR
+161,Vesuvius,UK,GB00B82YXW83,primary production,steel production and products,GBP,GBP
+162,Vivendi,France,FR0000127771,consumer,entertainment and broadcasting,EUR,EUR
+163,Reliance WW,Australia,AU000000RWC7,industrial,building and construction materials,AUD,AUD
+164,Viva Energy,Australia,AU000000VVR9,industrial,petroleum refiners and distributors,AUD,AUD
+165,Weir,UK,GB0009465807,industrial,power nuclear and heavy engineering,GBP,GBP
+166,John Wood Gp,UK,GB00B5N0P849,services,engineering and technical services,GBP,GBP
+167,Wolters Kluwer,Netherlands,NL0000395903,media publishing,publishing and printing,EUR,EUR
+168,Zurich Ins,Switzerland,CH0011075394,services,insurance — general,CHF,CHF
+169,AU Optronics,Taiwan,TW0002409000,electrical electronic,electronic finished products,TWD,TWD
+170,Acer,Taiwan,TW0002353000,IT,computers phones and devices,TWD,TWD
+171,AdvASE Technology,Taiwan,TW0003711008,electrical electronic,electronic components,TWD,TWD
+172,Asia Cement,Taiwan,TW0001102002,primary production,cement and concrete,TWD,TWD
+173,Asustek,Taiwan,TW0002357001,IT,computers phones and devices,TWD,TWD
+174,CTBC Financial,Taiwan,TW0002891009,services,banking,TWD,TWD
+175,Catcher Tech,Taiwan,TW0002474004,industrial,fabricated metal and composite products,TWD,TWD
+176,Cathay Fin,Taiwan,TW0002882008,services,banking,TWD,TWD
+177,Chang Hwa Bank,Taiwan,TW0002801008,services,banking,TWD,TWD
+178,Cheng Shin,Taiwan,TW0002105004,vehicles,tire manufacturers,TWD,TWD
+179,China Dev Fin,Taiwan,TW0002883006,services,banking,TWD,TWD
+180,China Steel,Taiwan,TW0002002003,primary production,steel production and products,TWD,TWD
+181,Chunghwa Tele,Taiwan,TW0002412004,telecommunications,diversified telecommunications,TWD,TWD
+182,Compal Electron,Taiwan,TW0002324001,IT,computers phones and devices,TWD,TWD
+183,Delta Electron,Taiwan,TW0002308004,electrical electronic,electrical equipment,TWD,TWD
+184,E.Sun Financial,Taiwan,TW0002884004,services,banking,TWD,TWD
+185,Far EasTone,Taiwan,TW0004904008,telecommunications,diversified telecommunications,TWD,TWD
+186,Far Eastern New,Taiwan,TW0001402006,consumer,textiles,TWD,TWD
+187,First Financial,Taiwan,TW0002892007,services,banking,TWD,TWD
+188,Formosa Chem,Taiwan,TW0001326007,chemicals,chemicals and petrochemicals,TWD,TWD
+189,Formosa Petro,Taiwan,TW0006505001,industrial,petroleum refiners and distributors,TWD,TWD
+190,Formosa Plas,Taiwan,TW0001301000,industrial,rubber and plastics,TWD,TWD
+191,Foxconn,Taiwan,TW0002354008,IT,computers phones and devices,TWD,TWD
+192,Fubon,Taiwan,TW0002881000,services,financial services,TWD,TWD
+193,HTC,Taiwan,TW0002498003,IT,computers phones and devices,TWD,TWD
+194,Hon Hai Precis,Taiwan,TW0002317005,electrical electronic,electronic components,TWD,TWD
+195,Hotai Motor,Taiwan,TW0002207008,vehicles,vehicle sales and repair,TWD,TWD
+196,Hua Nan,Taiwan,TW0002880002,services,banking,TWD,TWD
+197,Innolux,Taiwan,TW0003481008,electrical electronic,electronic components,TWD,TWD
+198,Largan Precis,Taiwan,TW0003008009,electrical electronic,electronic components,TWD,TWD
+199,Lite,Taiwan,TW0002301009,electrical electronic,electronic finished products,TWD,TWD
+200,Nanya Tech,Taiwan,TW0002408002,electrical electronic,electronic components,TWD,TWD
+201,MediaTek,Taiwan,TW0002454006,electrical electronic,electronic components,TWD,TWD
+202,Mega Financial,Taiwan,TW0002886009,services,banking,TWD,TWD
+203,Nan Ya Plastics,Taiwan,TW0001303006,industrial,rubber and plastics,TWD,TWD
+204,Pegatron,Taiwan,TW0004938006,IT,computers phones and devices,TWD,TWD
+205,President Chain,Taiwan,TW0002912003,consumer,diversified wholesale and retail,TWD,TWD
+206,Quanta Computer,Taiwan,TW0002382009,IT,computers phones and devices,TWD,TWD
+207,Siliconware,Taiwan,TW0002325008,electrical electronic,electronic components,TWD,TWD
+208,SinoPac Fin,Taiwan,TW0002890001,services,banking,TWD,TWD
+209,TPK,Taiwan,KYG898431096,electrical electronic,electronic components,TWD,TWD
+210,Taiwan Cement,Taiwan,TW0001101004,primary production,cement and concrete,TWD,TWD
+211,Taiwan Coop,Taiwan,TW0005880009,services,banking,TWD,TWD
+212,Taiwan Fertil,Taiwan,TW0001722007,chemicals,agricultural chemicals and fertilisers,TWD,TWD
+213,Taiwan Mobile,Taiwan,TW0003045001,telecommunications,diversified telecommunications,TWD,TWD
+214,Taiwan Semicond,Taiwan,TW0002330008,electrical electronic,electronic components,TWD,TWD
+215,UniPresident TW,Taiwan,TW0001216000,consumer,food manufacturers,TWD,TWD
+216,United Micro,Taiwan,TW0002303005,electrical electronic,electronic components,TWD,TWD
+217,Yuanta Fin,Taiwan,TW0002885001,services,banking,TWD,TWD
+218,Yulon Motor,Taiwan,TW0002201001,vehicles,car truck and bus manufacturers,TWD,TWD
+219,Samsung Ele old,Special Spare,dead ISIN 219,electrical electronic,electronic finished products,KRW,KRW
+220,Hyundai Motor,Korea,KR7005380001,vehicles,car truck and bus manufacturers,KRW,KRW
+221,Posco,Korea,KR7005490008,primary production,steel production and products,KRW,KRW
+222,Hyundai Mobis,Korea,KR7012330007,vehicles,auto parts and components,KRW,KRW
+223,Kia Motors,Korea,KR7000270009,vehicles,car truck and bus manufacturers,KRW,KRW
+224,Samsung Life,Korea,KR7032830002,services,insurance — life and health,KRW,KRW
+225,SK Hynix,Korea,KR7000660001,electrical electronic,electronic components,KRW,KRW
+226,Shinhan Fin,Korea,KR7055550008,services,banking,KRW,KRW
+227,Korea Electric,Korea,KR7015760002,utilities,electricity distribution and generation,KRW,KRW
+228,LG Chem,Korea,KR7051910008,chemicals,chemicals and petrochemicals,KRW,KRW
+229,SK Telecom,Korea,KR7017670001,telecommunications,diversified telecommunications,KRW,KRW
+230,Hyundai Heavy,Korea,KR7009540006,industrial,shipbuilding,KRW,KRW
+231,Naver,Korea,KR7035420009,IT,internet and networking services,KRW,KRW
+232,KB Financial,Korea,KR7105560007,services,financial services,KRW,KRW
+233,SK Innovation,Korea,KR7096770003,industrial,petroleum refiners and distributors,KRW,KRW
+234,LG Electronics,Korea,KR7066570003,consumer,household appliances and hardware,KRW,KRW
+235,Samsung F&M Ins,Korea,KR7000810002,services,insurance — general,KRW,KRW
+236,LG Corp,Korea,KR7003550001,conglomerates,diversified conglomerates,KRW,KRW
+237,Lotte Shopping,Korea,KR7023530009,consumer,diversified wholesale and retail,KRW,KRW
+238,LG Display,Korea,KR7034220004,electrical electronic,electronic components,KRW,KRW
+239,KT&G,Korea,KR7033780008,consumer,tobacco,KRW,KRW
+240,Hana Financial,Korea,KR7086790003,services,banking,KRW,KRW
+241,KT,Korea,KR7030200000,telecommunications,diversified telecommunications,KRW,KRW
+242,Hyundai Steel,Korea,KR7004020004,primary production,steel production and products,KRW,KRW
+243,Samsung Heavy,Korea,KR7010140002,industrial,shipbuilding,KRW,KRW
+244,S,Korea,KR7010950004,industrial,petroleum refiners and distributors,KRW,KRW
+245,Pro Medicus,Australia,AU000000PME8,IT,software providers,AUD,AUD
+246,Banpu Power,Thailand,TH7462010003,utilities,electricity distribution and generation,THB,THB
+247,LG Household,Korea,KR7051900009,consumer,household consumables manufacturers,KRW,KRW
+248,Samsung SDI,Korea,KR7006400006,electrical electronic,electronic components,KRW,KRW
+249,Hyundai Glovis,Korea,KR7086280005,transport,transport logistics and distribution,KRW,KRW
+250,Ind Bank Korea,Korea,KR7024110009,services,banking,KRW,KRW
+251,Hyundai Engine,Korea,KR7000720003,industrial,power nuclear and heavy engineering,KRW,KRW
+252,Blue Sky,Australia,AU000000BLA8,services,financial services,AUD,AUD
+253,Lotte Chemical,Korea,KR7011170008,chemicals,chemicals and petrochemicals,KRW,KRW
+254,Samsung Ele,Korea,KR7009150004,electrical electronic,electronic components,KRW,KRW
+255,Korea Zinc,Korea,KR7010130003,primary production,non—ferrous metals production and products,KRW,KRW
+256,Daewoo Ship,Korea,KR7042660001,industrial,shipbuilding,KRW,KRW
+257,LG Uplus,Korea,KR7032640005,telecommunications,diversified telecommunications,KRW,KRW
+258,Kangwon Land,Korea,KR7035250000,consumer,hotels travel gambling and leisure,KRW,KRW
+259,E,Korea,KR7139480008,consumer,supermarkets,KRW,KRW
+260,Pilbara Min,Australia,AU000000PLS0,primary production,metals and minerals mining and exploration,AUD,AUD
+261,Orion Corp,Korea,KR7001800002,consumer,food manufacturers,KRW,KRW
+262,Amorepac Cor,Korea,KR7090430000,consumer,cosmetics jewellery and luxury products,KRW,KRW
+263,Zimplats Hldg,Australia,GB0061284906,primary production,metals and minerals mining and exploration,AUD,AUD
+264,GS Hldgs,Korea,KR7078930005,conglomerates,diversified conglomerates,KRW,KRW
+265,Samsung C&T,Korea,KR7028260008,chemicals,chemicals and petrochemicals,KRW,KRW
+266,Doosan Heavy,Korea,KR7034020008,industrial,power nuclear and heavy engineering,KRW,KRW
+267,Coway,Korea,KR7021240007,consumer,household appliances and hardware,KRW,KRW
+268,Korea Gas,Korea,KR7036460004,utilities,gas and water utilities,KRW,KRW
+269,KCC,Korea,KR7002380004,chemicals,chemicals and petrochemicals,KRW,KRW
+270,Samsung Card,Korea,KR7029780004,services,financial services,KRW,KRW
+271,Hyundai Wia,Korea,KR7011210002,vehicles,auto parts and components,KRW,KRW
+272,Posco Intl Corp,Korea,KR7047050000,conglomerates,diversified conglomerates,KRW,KRW
+273,Hanon Systems,Korea,KR7018880005,vehicles,auto parts and components,KRW,KRW
+274,OCI,Korea,KR7010060002,chemicals,chemicals and petrochemicals,KRW,KRW
+275,Ncsoft,Korea,KR7036570000,consumer,entertainment and broadcasting,KRW,KRW
+276,Hanwha Aero,Korea,KR7012450003,industrial,aerospace,KRW,KRW
+277,Hyundai Dept,Korea,KR7069960003,consumer,diversified wholesale and retail,KRW,KRW
+278,Samsung Secs,Korea,KR7016360000,services,financial services,KRW,KRW
+279,Hyundai MMarine,Korea,KR7011200003,transport,shipping,KRW,KRW
+280,AMA Group,Australia,AU000000AMA8,vehicles,auto parts and components,AUD,AUD
+281,CJ Cheiljedang,Korea,KR7097950000,consumer,food manufacturers,KRW,KRW
+282,Collins Foods,Australia,AU000000CKF7,consumer,restaurants,AUD,AUD
+283,Samsung Engine,Korea,KR7028050003,industrial,power nuclear and heavy engineering,KRW,KRW
+284,Mirae Asset,Korea,KR7006800007,services,financial services,KRW,KRW
+285,CJ,Korea,KR7001040005,conglomerates,diversified conglomerates,KRW,KRW
+286,Amorepac Gp,Korea,KR7002790004,consumer,cosmetics jewellery and luxury products,KRW,KRW
+287,Daewoo Engine,Korea,KR7047040001,construction,construction — industrial and diversified,KRW,KRW
+288,Daelim,Korea,KR7000210005,construction,construction — industrial and diversified,KRW,KRW
+289,Doosan,Korea,KR7000150003,conglomerates,diversified conglomerates,KRW,KRW
+290,BNK Financial,Korea,KR7138930003,services,banking,KRW,KRW
+291,Kumho Petrochem,Korea,KR7011780004,chemicals,chemicals and petrochemicals,KRW,KRW
+292,Cheil Worldwide,Korea,KR7030000004,media publishing,advertising — marketing — media — e—commerce,KRW,KRW
+293,Korea Aerospace,Korea,KR7047810007,industrial,aerospace,KRW,KRW
+294,Hyundai Mipo,Korea,KR7010620003,industrial,shipbuilding,KRW,KRW
+295,Hyosung,Korea,KR7004800009,conglomerates,diversified conglomerates,KRW,KRW
+296,KEPCO Engine,Korea,KR7052690005,industrial,power nuclear and heavy engineering,KRW,KRW
+297,Hanwha Chemical,Korea,KR7009830001,chemicals,chemicals and petrochemicals,KRW,KRW
+298,YoungPoong,Korea,KR7000670000,primary production,non—ferrous metals production and products,KRW,KRW
+299,S1,Korea,KR7012750006,welfare and community,security products and services,KRW,KRW
+300,Doosan Infra,Korea,KR7042670000,industrial,engines and heavy machinery,KRW,KRW
+301,GS Retail,Korea,KR7007070006,consumer,diversified wholesale and retail,KRW,KRW
+302,Hanwha,Korea,KR7000880005,conglomerates,diversified conglomerates,KRW,KRW
+303,Hankook Tire,Korea,KR7000240002,vehicles,tire manufacturers,KRW,KRW
+304,CJ Logistics,Korea,KR7000120006,transport,transport logistics and distribution,KRW,KRW
+305,Yuhan,Korea,KR7000100008,healthcare,pharmaceuticals and biosciences,KRW,KRW
+306,NH Investment,Korea,KR7005940002,services,financial services,KRW,KRW
+307,LS,Korea,KR7006260004,electrical electronic,cables wires and transmission,KRW,KRW
+308,Halla Hldgs,Korea,KR7060980000,vehicles,auto parts and components,KRW,KRW
+309,Korea Inv,Korea,KR7071050009,services,financial services,KRW,KRW
+310,Lotte Confect,Korea,KR7004990008,consumer,food manufacturers,KRW,KRW
+311,Korean Air,Korea,KR7003490000,transport,airlines,KRW,KRW
+312,Shinsegae,Korea,KR7004170007,consumer,diversified wholesale and retail,KRW,KRW
+313,LS Industrial,Korea,KR7010120004,electrical electronic,electrical equipment,KRW,KRW
+314,LG Innotek,Korea,KR7011070000,electrical electronic,electronic components,KRW,KRW
+315,Hite Jinro,Korea,KR7000080002,consumer,beverage manufacturers,KRW,KRW
+316,Lotte Chilsung,Korea,KR7005300009,consumer,beverage manufacturers,KRW,KRW
+317,GS Engineering,Korea,KR7006360002,construction,construction — industrial and diversified,KRW,KRW
+318,SK Networks,Korea,KR7001740000,conglomerates,diversified conglomerates,KRW,KRW
+319,Kumho Tire,Korea,KR7073240004,vehicles,tire manufacturers,KRW,KRW
+320,Hyundai DevCo,Korea,KR7012630000,construction,construction — industrial and diversified,KRW,KRW
+321,Green Cross,Korea,KR7006280002,healthcare,pharmaceuticals and biosciences,KRW,KRW
+322,Nongshim,Korea,KR7004370003,consumer,food manufacturers,KRW,KRW
+323,Nexen Tire,Korea,KR7002350007,vehicles,tire manufacturers,KRW,KRW
+325,Kolon Inds,Korea,KR7120110002,industrial,diversified industrial,KRW,KRW
+326,Lock&Lock,Korea,KR7115390007,consumer,household appliances and hardware,KRW,KRW
+327,Taekwang Ind,Korea,KR7003240009,chemicals,chemicals and petrochemicals,KRW,KRW
+328,LG Intl,Korea,KR7001120005,conglomerates,diversified conglomerates,KRW,KRW
+329,Lotte Fine Chem,Korea,KR7004000006,chemicals,chemicals and petrochemicals,KRW,KRW
+330,Ssangyong Motor,Korea,KR7003620002,vehicles,car truck and bus manufacturers,KRW,KRW
+331,Hanmi Pharm,Korea,KR7128940004,healthcare,pharmaceuticals and biosciences,KRW,KRW
+332,LG Hausys,Korea,KR7108670001,industrial,building and construction materials,KRW,KRW
+333,Ottogi,Korea,KR7007310006,consumer,food manufacturers,KRW,KRW
+334,Daesang,Korea,KR7001680008,consumer,food manufacturers,KRW,KRW
+335,SKC,Korea,KR7011790003,chemicals,specialist chemicals,KRW,KRW
+336,Seah Besteel,Korea,KR7001430008,primary production,steel production and products,KRW,KRW
+337,Elders,Australia,AU000000ELD6,primary production,agribusiness agriculture and fishing,AUD,AUD
+338,Hyundai Elev,Korea,KR7017800004,industrial,industrial equipment and light machinery,KRW,KRW
+339,SK Discovery,Korea,KR7006120000,chemicals,chemicals and petrochemicals,KRW,KRW
+340,Binggrae,Korea,KR7005180005,consumer,food manufacturers,KRW,KRW
+341,Integrated Res,Australia,AU000000IRI3,IT,software providers,AUD,AUD
+342,Lotte Food,Korea,KR7002270007,consumer,food manufacturers,KRW,KRW
+343,Huchems Fine,Korea,KR7069260008,chemicals,chemicals and petrochemicals,KRW,KRW
+344,Hanjin Heavy,Korea,KR7097230007,industrial,shipbuilding,KRW,KRW
+345,Chongkundang,Korea,KR7001630003,healthcare,pharmaceuticals and biosciences,KRW,KRW
+346,Daewoong Pharma,Korea,KR7069620003,healthcare,pharmaceuticals and biosciences,KRW,KRW
+347,Dongkuk Steel,Korea,KR7001230002,primary production,steel production and products,KRW,KRW
+348,LF,Korea,KR7093050003,consumer,clothing and shoe manufacturers,KRW,KRW
+349,Seoul Broadcg,Korea,KR7034120006,consumer,entertainment and broadcasting,KRW,KRW
+350,Poongsan,Korea,KR7103140000,primary production,non—ferrous metals production and products,KRW,KRW
+351,Sebang Global,Korea,KR7004490009,electrical electronic,electrical equipment,KRW,KRW
+352,Samyang Hldgs,Korea,KR7000070003,industrial,diversified industrial,KRW,KRW
+353,Cosmax,Korea,KR7044820009,consumer,cosmetics jewellery and luxury products,KRW,KRW
+354,Dong,Korea,KR7000640003,healthcare,pharmaceuticals and biosciences,KRW,KRW
+355,Handsome,Korea,KR7020000006,consumer,clothing and shoe manufacturers,KRW,KRW
+356,Sindoh,Korea,KR7029530003,industrial,office equipment and supplies non—IT,KRW,KRW
+357,Seah Steel,Korea,KR7003030004,primary production,steel production and products,KRW,KRW
+358,Namyang Dairy,Korea,KR7003920006,consumer,food manufacturers,KRW,KRW
+359,Iljin Materials,Korea,KR7020150009,technology,research and specialist materials,KRW,KRW
+360,Seoyeon,Korea,KR7007860000,vehicles,auto parts and components,KRW,KRW
+361,Hansae,Korea,KR7105630008,consumer,clothing and shoe manufacturers,KRW,KRW
+362,Daekyo,Korea,KR7019680008,services,education,KRW,KRW
+364,Doosan Engine,Korea,KR7082740002,industrial,engines and heavy machinery,KRW,KRW
+365,SL,Korea,KR7005850003,vehicles,auto parts and components,KRW,KRW
+366,Kiswire,Korea,KR7002240000,primary production,steel production and products,KRW,KRW
+367,Iljin Display,Korea,KR7020760005,electrical electronic,electronic components,KRW,KRW
+368,Ilyang Pharma,Korea,KR7007570005,healthcare,pharmaceuticals and biosciences,KRW,KRW
+369,Hansol,Korea,KR7004150009,industrial,paper products (not packaging),KRW,KRW
+370,Muhak,Korea,KR7033920000,consumer,beverage manufacturers,KRW,KRW
+371,S&T Dynamics,Korea,KR7003570009,industrial,industrial equipment and light machinery,KRW,KRW
+372,Hanjaya Mandala,Indonesia,ID1000074008,consumer,tobacco,IDR,IDR
+373,Astra,Indonesia,ID1000122807,conglomerates,diversified conglomerates,IDR,IDR
+374,Bank Cent Asia,Indonesia,ID1000109507,services,banking,IDR,IDR
+375,Unilever Indon,Indonesia,ID1000095706,consumer,household consumables manufacturers,IDR,IDR
+376,Telekom Indon,Indonesia,ID1000099104,telecommunications,diversified telecommunications,IDR,IDR
+377,Bank Mandiri,Indonesia,ID1000095003,services,banking,IDR,IDR
+378,Bank Rakyat,Indonesia,ID1000118201,services,banking,IDR,IDR
+379,Perusahaan Gas,Indonesia,ID1000111602,utilities,gas and water utilities,IDR,IDR
+380,Semen Indonesia,Indonesia,ID1000106800,primary production,cement and concrete,IDR,IDR
+381,Gudang Garam,Indonesia,ID1000068604,consumer,tobacco,IDR,IDR
+382,Bank Negara,Indonesia,ID1000096605,services,banking,IDR,IDR
+383,Indocement,Indonesia,ID1000061302,primary production,cement and concrete,IDR,IDR
+384,Kalbe Farma,Indonesia,ID1000125107,healthcare,pharmaceuticals and biosciences,IDR,IDR
+385,Charoen Pok,Indonesia,ID1000117708,consumer,food manufacturers,IDR,IDR
+386,Indofood Cbp,Indonesia,ID1000116700,consumer,food manufacturers,IDR,IDR
+387,United Tractors,Indonesia,ID1000058407,primary production,metals and minerals mining and exploration,IDR,IDR
+388,Indofood Sukses,Indonesia,ID1000057003,consumer,food manufacturers,IDR,IDR
+389,Bank Danamon,Indonesia,ID1000094204,services,banking,IDR,IDR
+390,Media Nusantara,Indonesia,ID1000106206,consumer,entertainment and broadcasting,IDR,IDR
+391,Surya Citra,Indonesia,ID1000125305,consumer,entertainment and broadcasting,IDR,IDR
+392,XL Axiata,Indonesia,ID1000102502,telecommunications,diversified telecommunications,IDR,IDR
+393,Jasa Marga,Indonesia,ID1000108103,transport,roads tolls and traffic management,IDR,IDR
+394,Matahari Dept,Indonesia,ID1000113301,consumer,diversified wholesale and retail,IDR,IDR
+395,Elang Mahkota,Indonesia,ID1000113905,consumer,entertainment and broadcasting,IDR,IDR
+396,Global Mediacom,Indonesia,ID1000105604,media publishing,advertising — marketing — media — e—commerce,IDR,IDR
+397,Lippo Karawaci,Indonesia,ID1000108905,real estate,diversified real estate,IDR,IDR
+398,Multi Bintang,Indonesia,ID1000079304,consumer,beverage manufacturers,IDR,IDR
+399,Sarana Menara,Indonesia,ID1000128804,electrical electronic,communication and networking equipment,IDR,IDR
+400,Bank CIMB Niaga,Indonesia,ID1000098007,services,banking,IDR,IDR
+401,Bumi Serpong,Indonesia,ID1000110802,real estate,diversified real estate,IDR,IDR
+402,Indo Tambang',Indonesia,ID1000108509,primary production,coal and coal products,IDR,IDR
+403,Tower Bersama,Indonesia,ID1000116908,electrical electronic,communication and networking equipment,IDR,IDR
+404,Indosat,Indonesia,ID1000097405,telecommunications,diversified telecommunications,IDR,IDR
+405,Sinar Mas,Indonesia,ID1000094501,services,financial services,IDR,IDR
+406,Bk Tabungan Pen,Indonesia,ID1000118508,services,banking,IDR,IDR
+407,Bayan Resources,Indonesia,ID1000111701,primary production,coal and coal products,IDR,IDR
+408,Mayora Indah,Indonesia,ID1000060007,consumer,food manufacturers,IDR,IDR
+409,Astra Agro,Indonesia,ID1000066004,primary production,agribusiness agriculture and fishing,IDR,IDR
+410,Sinar Mas Agro,Indonesia,ID1000101504,primary production,agribusiness agriculture and fishing,IDR,IDR
+411,Tambang Batub',Indonesia,ID1000094006,primary production,coal and coal products,IDR,IDR
+412,Adaro Energy,Indonesia,ID1000111305,primary production,coal and coal products,IDR,IDR
+413,Solusi Bangun Indon,Indonesia,ID1000072309,primary production,cement and concrete,IDR,IDR
+414,Maybank,Indonesia,ID1000099302,services,banking,IDR,IDR
+415,Tempo Scan,Indonesia,ID1000104508,healthcare,pharmaceuticals and biosciences,IDR,IDR
+416,Pakuwon Jati,Indonesia,ID1000122500,real estate,diversified real estate,IDR,IDR
+417,Vale Indonesia,Indonesia,ID1000109309,primary production,metals and minerals mining and exploration,IDR,IDR
+418,Ciputra,Indonesia,ID1000115306,real estate,diversified real estate,IDR,IDR
+419,AKR Corporindo,Indonesia,ID1000106701,industrial,petroleum refiners and distributors,IDR,IDR
+420,MNC Investamam,Indonesia,ID1000064207,media publishing,advertising — marketing — media — e—commerce,IDR,IDR
+421,Astra Otoparts,Indonesia,ID1000119704,vehicles,auto parts and components,IDR,IDR
+422,Bank Pan Indon,Indonesia,ID1000092703,services,banking,IDR,IDR
+423,Indomobil S,Indonesia,ID1000123003,vehicles,car truck and bus manufacturers,IDR,IDR
+424,Bank Permata,Indonesia,ID1000098205,services,banking,IDR,IDR
+425,GTN Ltd,Australia,AU000000GTN3,media publishing,advertising — marketing — media — e—commerce,AUD,AUD
+426,Summarecon,Indonesia,ID1000092406,real estate,diversified real estate,IDR,IDR
+427,Bank Mega,Indonesia,ID1000052400,services,banking,IDR,IDR
+428,Alam Sutera,Indonesia,ID1000108400,real estate,diversified real estate,IDR,IDR
+429,Golden Energy,Indonesia,ID1000121106,primary production,coal and coal products,IDR,IDR
+430,Jaya Real,Indonesia,ID1000128903,real estate,diversified real estate,IDR,IDR
+431,Ultrajaya Milk,Indonesia,ID1000063100,consumer,beverage manufacturers,IDR,IDR
+432,IndoritelMakmur,Indonesia,ID1000063605,consumer,diversified wholesale and retail,IDR,IDR
+433,Trada Minera,Indonesia,ID1000111909,industrial,marine salvage dredging offshore services,IDR,IDR
+434,Hero Supermkt,Indonesia,ID1000122708,consumer,supermarkets,IDR,IDR
+435,Matahari Putra,Indonesia,ID1000125909,consumer,diversified wholesale and retail,IDR,IDR
+436,Japfa Comfeed,Indonesia,ID1000126907,primary production,agribusiness agriculture and fishing,IDR,IDR
+437,Saratoga Invest,Indonesia,ID1000127707,services,financial services,IDR,IDR
+438,Wijaya Karya,Indonesia,ID1000107600,construction,construction — industrial and diversified,IDR,IDR
+439,Ace Hw Indon,Indonesia,ID1000125503,consumer,diversified wholesale and retail,IDR,IDR
+440,Garuda Indon,Indonesia,ID1000118300,transport,airlines,IDR,IDR
+441,Aneka Tambang,Indonesia,ID1000106602,primary production,metals and minerals mining and exploration,IDR,IDR
+442,Bk Tabungan Neg,Indonesia,ID1000113707,services,banking,IDR,IDR
+443,Bank OCBC NISP,Indonesia,ID1000094402,services,banking,IDR,IDR
+444,Salim Ivomas,Indonesia,ID1000119100,primary production,agribusiness agriculture and fishing,IDR,IDR
+445,Dian Swastatika,Indonesia,ID1000113400,primary production,coal and coal products,IDR,IDR
+446,Arena REIT,Australia,AU000000ARF6,real estate,real estate services,AUD,AUD
+447,Sugih Energy,Indonesia,ID1000092000,primary production,oil and gas,IDR,IDR
+448,Bank Jabar B,Indonesia,ID1000115702,services,banking,IDR,IDR
+449,Mitra Adiper',Indonesia,ID1000099807,consumer,diversified wholesale and retail,IDR,IDR
+450,Enseval Putera,Indonesia,ID1000096506,healthcare,healthcare products,IDR,IDR
+451,3M,USA,US88579Y1010,industrial,diversified industrial,USD,USD
+452,Abbott Labs old,Special Spare,dead ISIN 452,healthcare,pharmaceuticals and biosciences,USD,USD
+453,AbbVie,USA,US00287Y1091,healthcare,pharmaceuticals and biosciences,USD,USD
+455,Iron Mountain,USA,US46284V1017,services,business services,USD,USD
+456,Propertylink,Australia,AU000000PLG5,real estate,real estate services,AUD,AUD
+457,Adobe Systems,USA,US00724F1012,IT,software providers,USD,USD
+458,Aetna,USA,US00817Y1082,services,insurance — life and health,USD,USD
+459,AFLAC,USA,US0010551028,services,insurance — life and health,USD,USD
+460,Agilent Tech,USA,US00846U1016,technology,high precision and instrumentation products,USD,USD
+462,Air Products,USA,US0091581068,industrial,industrial gases,USD,USD
+463,Alexion Pharmas,USA,US0153511094,healthcare,pharmaceuticals and biosciences,USD,USD
+464,Allegheny,USA,US01741R1023,primary production,non—ferrous metals production and products,USD,USD
+465,BWX Ltd,Australia,AU000000BWX7,healthcare,healthcare products,AUD,AUD
+466,Allstate,USA,US0200021014,services,insurance — general,USD,USD
+467,Altria,USA,US02209S1033,consumer,tobacco,USD,USD
+468,Amazon.com old,Special Spare,dead ISIN 468,consumer,online retailers,USD,USD
+469,Ameren,USA,US0236081024,utilities,diversified utilities,USD,USD
+470,AEP,USA,US0255371017,utilities,electricity distribution and generation,USD,USD
+471,AMEX,USA,US0258161092,services,financial services,USD,USD
+472,American,USA,US0268747849,services,insurance — general,USD,USD
+473,American Tower,USA,US03027X1000,real estate,office commercial and industrial real estate,USD,USD
+474,Ameriprise,USA,US03076C1062,services,financial services,USD,USD
+475,Helloworld Trav,Australia,AU000000HLO6,consumer,hotels travel gambling and leisure,AUD,AUD
+476,Amgen,USA,US0311621009,healthcare,pharmaceuticals and biosciences,USD,USD
+477,Anadarko,USA,US0325111070,primary production,oil and gas,USD,USD
+478,Analog Devi old,Special Spare,dead ISIN 478,electrical electronic,electronic components,USD,USD
+479,Aon,USA,GB00B5BT0K07,services,insurance — general,USD,USD
+480,Apache,USA,US0374111054,primary production,oil and gas,USD,USD
+481,Apt Inv Mgmt,USA,US03748R1014,real estate,residential real estate,USD,USD
+482,Apple,USA,US0378331005,IT,computers phones and devices,USD,USD
+483,Applied Mats,USA,US0382221051,industrial,industrial equipment and light machinery,USD,USD
+484,Archer,USA,US0394831020,primary production,agribusiness agriculture and fishing,USD,USD
+485,Assurant,USA,US04621X1081,services,insurance — general,USD,USD
+486,iSelect,Australia,AU000000ISU6,services,insurance — general,AUD,AUD
+487,ADP,USA,US0530151036,services,business services,USD,USD
+488,AutoZone,USA,US0533321024,vehicles,auto parts and components,USD,USD
+489,AvalonBay,USA,US0534841012,real estate,residential real estate,USD,USD
+490,Avery Dennison,USA,US0536111091,industrial,industrial components,USD,USD
+491,Baker Hughes,USA,US05722G1004,industrial,oil and gas equipment and services,USD,USD
+492,Bank of America,USA,US0605051046,services,banking,USD,USD
+493,BNYM,USA,US0640581007,services,banking,USD,USD
+494,Baxter,USA,US0718131099,healthcare,healthcare products,USD,USD
+495,BB&T,USA,US0549371070,services,banking,USD,USD
+496,RCR Tomlinson,Australia,AU000000RCR7,industrial,diversified industrial,AUD,AUD
+497,Bed Bath,USA,US0758961009,consumer,diversified wholesale and retail,USD,USD
+498,Bemis,USA,US0814371052,industrial,packaging,USD,USD
+499,Service Stream,Australia,AU000000SSM2,telecommunications,diversified telecommunications,AUD,AUD
+500,Biogen Idec,USA,US09062X1037,healthcare,pharmaceuticals and biosciences,USD,USD
+501,BlackRock,USA,US09247X1019,services,financial services,USD,USD
+502,Block H&R,USA,US0936711052,services,professional services and consulting,USD,USD
+503,Boeing,USA,US0970231058,industrial,aerospace,USD,USD
+504,Boston Props,USA,US1011211018,real estate,office commercial and industrial real estate,USD,USD
+505,Bristol,USA,US1101221083,healthcare,pharmaceuticals and biosciences,USD,USD
+506,C H Robinson,USA,US12541W2098,transport,transport logistics and distribution,USD,USD
+507,CA,USA,US12673P1057,IT,search cloud and integrated IT services,USD,USD
+508,Cablevision old,Special Spare,dead ISIN 508,consumer,entertainment and broadcasting,USD,USD
+509,Cabot Oil & Gas,USA,US1270971039,primary production,oil and gas,USD,USD
+510,Campbell Soup,USA,US1344291091,consumer,food manufacturers,USD,USD
+511,Capital One,USA,US14040H1059,services,banking,USD,USD
+512,Cardinal Health,USA,US14149Y1082,healthcare,healthcare products,USD,USD
+513,Carnival,USA,PA1436583006,consumer,hotels travel gambling and leisure,USD,USD
+514,Caterpillar,USA,US1491231015,industrial,engines and heavy machinery,USD,USD
+515,ViacomCBS,USA,US92556H2067,consumer,entertainment and broadcasting,USD,USD
+516,Celgene,USA,US1510201049,healthcare,pharmaceuticals and biosciences,USD,USD
+517,CenterPoint E,USA,US15189T1079,utilities,diversified utilities,USD,USD
+518,CenturyLink,USA,US1567001060,telecommunications,diversified telecommunications,USD,USD
+519,Cerner,USA,US1567821046,IT,search cloud and integrated IT services,USD,USD
+520,Charles Schwab,USA,US8085131055,services,financial services,USD,USD
+521,Chesapeake E,USA,US1651671075,primary production,oil and gas,USD,USD
+522,Chevron,USA,US1667641005,primary production,oil and gas,USD,USD
+523,Monash Grp,Australia,AU000000MVF3,healthcare,healthcare services,AUD,AUD
+524,CIGNA,USA,US1255091092,services,insurance — life and health,USD,USD
+525,Cisco Systems,USA,US17275R1023,electrical electronic,communication and networking equipment,USD,USD
+526,Citigroup,USA,US1729674242,services,banking,USD,USD
+527,Cliffs Nat Res,USA,US18683K1016,primary production,metals and minerals mining and exploration,USD,USD
+528,Clorox,USA,US1890541097,consumer,household consumables manufacturers,USD,USD
+529,CME,USA,US12572Q1058,services,financial services,USD,USD
+530,CMS Energy,USA,US1258961002,utilities,diversified utilities,USD,USD
+531,Tapestry,USA,US8760301072,consumer,cosmetics jewellery and luxury products,USD,USD
+532,Coca Cola,USA,US1912161007,consumer,beverage manufacturers,USD,USD
+533,Coca,USA,GB00BDCPN049,consumer,beverage manufacturers,USD,USD
+534,Cognizant Tech,USA,US1924461023,services,business services,USD,USD
+535,Colgate,USA,US1941621039,consumer,household consumables manufacturers,USD,USD
+536,Comcast,USA,US20030N1019,consumer,entertainment and broadcasting,USD,USD
+537,Comerica,USA,US2003401070,services,banking,USD,USD
+538,DXC Tech,USA,US23355L1061,IT,search cloud and integrated IT services,USD,USD
+539,ConAgra Brands,USA,US2058871029,consumer,food manufacturers,USD,USD
+540,ConocoPhillips,USA,US20825C1045,primary production,oil and gas,USD,USD
+541,Cons Edison,USA,US2091151041,utilities,diversified utilities,USD,USD
+542,Corning,USA,US2193501051,industrial,glass and glass products,USD,USD
+543,Costco,USA,US22160K1051,consumer,diversified wholesale and retail,USD,USD
+544,PSC Insurance,Australia,AU000000PSI6,services,insurance — general,AUD,AUD
+545,Crown Castle,USA,US2282271046,real estate,office commercial and industrial real estate,USD,USD
+546,CSX,USA,US1264081035,transport,transport logistics and distribution,USD,USD
+547,Cummins,USA,US2310211063,industrial,engines and heavy machinery,USD,USD
+548,Tox Free,Australia,AU000000TOX6,industrial,waste and water management,AUD,AUD
+549,Hotel Property,Australia,AU000000HPI9,real estate,residential real estate,AUD,AUD
+550,Darden Rests,USA,US2371941053,consumer,restaurants,USD,USD
+551,Deere,USA,US2441991054,industrial,engines and heavy machinery,USD,USD
+552,Alkermes,USA,IE00B56GVS15,healthcare,pharmaceuticals and biosciences,USD,USD
+553,Sealink Travel,Australia,AU000000SLK1,consumer,hotels travel gambling and leisure,AUD,AUD
+554,Delta Air Lines,USA,US2473617023,transport,airlines,USD,USD
+555,Devon Energy,USA,US25179M1036,primary production,oil and gas,USD,USD
+556,Diamond Offs,USA,US25271C1027,industrial,oil and gas drilling and exploration,USD,USD
+557,Autosports Grp,Australia,AU000000ASG2,vehicles,vehicle sales and repair,AUD,AUD
+558,Discover Fin,USA,US2547091080,services,banking,USD,USD
+559,Discovery Comms,USA,US25470F1049,consumer,entertainment and broadcasting,USD,USD
+560,Dollar General,USA,US2566771059,consumer,diversified wholesale and retail,USD,USD
+561,Dominion Energy,USA,US25746U1097,utilities,diversified utilities,USD,USD
+562,Dover,USA,US2600031080,industrial,industrial equipment and light machinery,USD,USD
+564,Dr Pepper,USA,US26138E1091,consumer,beverage manufacturers,USD,USD
+565,DTE Energy,USA,US2333311072,utilities,diversified utilities,USD,USD
+567,Duke Energy,USA,US26441C2044,utilities,electricity distribution and generation,USD,USD
+568,Eaton,USA,IE00B8KQN827,industrial,diversified industrial,USD,USD
+569,eBay,USA,US2786421030,consumer,online retailers,USD,USD
+570,Ecolab,USA,US2788651006,services,business services,USD,USD
+571,Edison Int'l,USA,US2810201077,utilities,electricity distribution and generation,USD,USD
+572,Abbott Labs,USA,US0028241000,healthcare,pharmaceuticals and biosciences,USD,USD
+573,Emerson Elec,USA,US2910111044,industrial,diversified industrial,USD,USD
+574,Valaris,USA,GB00BJVJZD68,industrial,oil and gas drilling and exploration,USD,USD
+575,Entergy,USA,US29364G1031,utilities,electricity distribution and generation,USD,USD
+576,EOG Resources,USA,US26875P1012,primary production,oil and gas,USD,USD
+577,Equity Resi,USA,US29476L1070,real estate,residential real estate,USD,USD
+578,Estee Lauder,USA,US5184391044,consumer,cosmetics jewellery and luxury products,USD,USD
+579,Huon Aquacult,Australia,AU000000HUO7,consumer,food manufacturers,AUD,AUD
+580,Express Scripts,USA,US30219G1085,healthcare,healthcare products,USD,USD
+581,Exxon Mobil,USA,US30231G1022,primary production,oil and gas,USD,USD
+582,Fastenal,USA,US3119001044,industrial,industrial components,USD,USD
+583,FedEx,USA,US31428X1063,transport,transport logistics and distribution,USD,USD
+584,Fidelity NIS,USA,US31620M1062,services,business services,USD,USD
+585,Fifth Third,USA,US3167731005,services,banking,USD,USD
+586,FirstEnergy,USA,US3379321074,utilities,electricity distribution and generation,USD,USD
+587,Ford Motor,USA,US3453708600,vehicles,car truck and bus manufacturers,USD,USD
+588,Franklin Res,USA,US3546131018,services,financial services,USD,USD
+589,Freeport,USA,US35671D8570,primary production,metals and minerals mining and exploration,USD,USD
+590,Gannett,USA,US3647301015,media publishing,advertising — marketing — media — e—commerce,USD,USD
+591,Gap (The),USA,US3647601083,consumer,clothing wholesale and retail,USD,USD
+592,GD,USA,US3695501086,industrial,defence products,USD,USD
+593,GE,USA,US3696041033,industrial,diversified industrial,USD,USD
+594,General Mills,USA,US3703341046,consumer,food manufacturers,USD,USD
+595,General Motors,USA,US37045V1008,vehicles,car truck and bus manufacturers,USD,USD
+596,Genuine Parts,USA,US3724601055,industrial,industrial components,USD,USD
+597,Gilead Sciences,USA,US3755581036,healthcare,pharmaceuticals and biosciences,USD,USD
+598,Goldman Sachs,USA,US38141G1040,services,banking,USD,USD
+599,Alphabet,USA,US02079K1079,IT,search cloud and integrated IT services,USD,USD
+600,Grainger (WW),USA,US3848021040,industrial,industrial components,USD,USD
+601,Halliburton,USA,US4062161017,industrial,oil and gas equipment and services,USD,USD
+603,Hasbro,USA,US4180561072,consumer,entertainment and broadcasting,USD,USD
+604,HCP,USA,US40414L1098,real estate,healthcare real estate,USD,USD
+605,Welltower,USA,US95040Q1040,real estate,healthcare real estate,USD,USD
+606,Hershey,USA,US4278661081,consumer,food manufacturers,USD,USD
+607,Hess,USA,US42809H1077,primary production,oil and gas,USD,USD
+608,Hewlett,USA,US4282361033,IT,computers phones and devices,USD,USD
+609,Home Depot,USA,US4370761029,consumer,diversified wholesale and retail,USD,USD
+610,Honeywell Int'l,USA,US4385161066,industrial,diversified industrial,USD,USD
+611,Hormel Foods,USA,US4404521001,consumer,food manufacturers,USD,USD
+612,Host Hotels,USA,US44107P1049,consumer,hotels travel gambling and leisure,USD,USD
+613,Huntington Banc,USA,US4461501045,services,banking,USD,USD
+614,IBM,USA,US4592001014,IT,search cloud and integrated IT services,USD,USD
+615,Illinois Tool,USA,US4523081093,industrial,industrial equipment and light machinery,USD,USD
+616,Ingersoll,USA,IE00B6330302,industrial,industrial equipment and light machinery,USD,USD
+617,MyState Ltd,Australia,AU000000MYS0,services,financial services,AUD,AUD
+618,Intl Game Tech,USA,GB00BVG7F061,consumer,entertainment and broadcasting,USD,USD
+619,Intl Paper,USA,US4601461035,industrial,packaging,USD,USD
+620,Interpublic,USA,US4606901001,media publishing,advertising — marketing — media — e—commerce,USD,USD
+621,IFF,USA,US4595061015,chemicals,specialist chemicals,USD,USD
+622,Intuit,USA,US4612021034,IT,software providers,USD,USD
+623,Intuitive Surg,USA,US46120E6023,healthcare,medical equipment,USD,USD
+624,Invesco,USA,BMG491BT1088,services,financial services,USD,USD
+626,Johnson & J,USA,US4781601046,healthcare,healthcare products,USD,USD
+628,JPMorgan Chase,USA,US46625H1005,services,banking,USD,USD
+629,Kellogg,USA,US4878361082,consumer,food manufacturers,USD,USD
+630,KeyCorp,USA,US4932671088,services,banking,USD,USD
+631,Kimberly,USA,US4943681035,consumer,household consumables manufacturers,USD,USD
+632,Kimco Realty,USA,US49446R1095,real estate,retail and malls real estate,USD,USD
+633,Kinder Morgan,USA,US49456B1017,industrial,pipelines and energy storage,USD,USD
+634,KLA,USA,US4824801009,industrial,industrial equipment and light machinery,USD,USD
+635,Kohl's,USA,US5002551043,consumer,diversified wholesale and retail,USD,USD
+636,Equinix Inc,USA,US29444U5020,IT,internet and networking services,USD,USD
+637,Kroger,USA,US5010441013,consumer,supermarkets,USD,USD
+638,L Brands,USA,US5017971046,consumer,clothing wholesale and retail,USD,USD
+639,L,USA,US5024241045,industrial,defence products,USD,USD
+640,Lilly (Eli),USA,US5324571083,healthcare,pharmaceuticals and biosciences,USD,USD
+641,Lincoln Natl,USA,US5341871094,services,insurance — life and health,USD,USD
+642,Linear Tech old,Special Spare,dead ISIN 642,electrical electronic,electronic components,USD,USD
+643,Lockheed Martin,USA,US5398301094,industrial,defence products,USD,USD
+644,Loews,USA,US5404241086,conglomerates,diversified conglomerates,USD,USD
+645,Audio Pixels,Australia,AU000000AKP0,electrical electronic,electronic finished products,AUD,AUD
+646,Lowe's Cos,USA,US5486611073,consumer,diversified wholesale and retail,USD,USD
+647,LyondellBasell,USA,NL0009434992,chemicals,chemicals and petrochemicals,USD,USD
+648,Cedar Woods,Australia,AU000000CWP1,real estate,residential real estate,AUD,AUD
+649,Macy's,USA,US55616P1049,consumer,diversified wholesale and retail,USD,USD
+650,Marathon Oil,USA,US5658491064,primary production,oil and gas,USD,USD
+651,Marathon Petro,USA,US56585A1025,industrial,petroleum refiners and distributors,USD,USD
+652,Marsh & McL,USA,US5717481023,services,professional services and consulting,USD,USD
+653,Mastercard,USA,US57636Q1040,services,financial services,USD,USD
+654,Mattel,USA,US5770811025,consumer,household consumables manufacturers,USD,USD
+655,McCormick,USA,US5797802064,consumer,food manufacturers,USD,USD
+656,McDonald's,USA,US5801351017,consumer,restaurants,USD,USD
+657,S&P Global,USA,US5806451093,media publishing,publishing and printing,USD,USD
+658,McKesson,USA,US58155Q1031,healthcare,healthcare products,USD,USD
+659,Mead Johnso old,Special Spare,dead ISIN 659,consumer,food manufacturers,USD,USD
+660,Perenti Global,Australia,AU0000061897,primary production,metals and minerals mining and exploration,AUD,AUD
+661,Lifestyle Comm,Australia,AU000000LIC9,real estate,residential real estate,AUD,AUD
+662,Merck US,USA,US58933Y1055,healthcare,pharmaceuticals and biosciences,USD,USD
+663,MetLife,USA,US59156R1086,services,insurance — general,USD,USD
+664,Microchip Tech,USA,US5950171042,electrical electronic,electronic components,USD,USD
+665,L3Harris,USA,US5024311095,industrial,defence products,USD,USD
+666,Harris,USA,US4138751056,IT,internet and networking services,USD,USD
+667,Molson Coors,USA,US60871R2094,consumer,beverage manufacturers,USD,USD
+668,Mondelez,USA,US6092071058,consumer,food manufacturers,USD,USD
+669,Monsanto,USA,US61166W1018,chemicals,agricultural chemicals and fertilisers,USD,USD
+670,Morgan Stanley,USA,US6174464486,services,banking,USD,USD
+671,Mosaic,USA,US61945C1036,chemicals,agricultural chemicals and fertilisers,USD,USD
+672,Motorola Sols,USA,US6200763075,electrical electronic,communication and networking equipment,USD,USD
+673,Murphy Oil,USA,US6267171022,primary production,oil and gas,USD,USD
+674,NASDAQ OMX,USA,US6311031081,services,financial services,USD,USD
+675,Novarco,USA,US6370711011,industrial,oil and gas equipment and services,USD,USD
+676,NetApp,USA,US64110D1046,IT,search cloud and integrated IT services,USD,USD
+677,NetFlix,USA,US64110L1061,consumer,entertainment and broadcasting,USD,USD
+678,Newell Brands,USA,US6512291062,consumer,household appliances and hardware,USD,USD
+679,Newmont Goldcrp,USA,US6516391066,primary production,metals and minerals mining and exploration,USD,USD
+680,NextEra Energy,USA,US65339F1012,utilities,electricity distribution and generation,USD,USD
+681,NIKE,USA,US6541061031,consumer,sports equipment manufacturers and retailers,USD,USD
+682,NiSource,USA,US65473P1057,utilities,diversified utilities,USD,USD
+683,Noble Energy,USA,US6550441058,primary production,oil and gas,USD,USD
+684,Nordstrom,USA,US6556641008,consumer,clothing wholesale and retail,USD,USD
+685,Norfolk Sn,USA,US6558441084,transport,railroads and bus services,USD,USD
+686,Eversource,USA,US6643971061,utilities,diversified utilities,USD,USD
+687,Northern,USA,US6658591044,services,financial services,USD,USD
+688,Northrop G,USA,US6668071029,industrial,defence products,USD,USD
+689,Nucor,USA,US6703461052,primary production,steel production and products,USD,USD
+690,Nvidia,USA,US67066G1040,electrical electronic,electronic components,USD,USD
+691,IntercontExch,USA,US45866F1049,services,financial services,USD,USD
+692,Occidental,USA,US6745991058,primary production,oil and gas,USD,USD
+693,Omnicom,USA,US6819191064,media publishing,advertising — marketing — media — e—commerce,USD,USD
+694,ONEOK,USA,US6826801036,industrial,pipelines and energy storage,USD,USD
+696,P G & E,USA,US69331C1080,utilities,diversified utilities,USD,USD
+697,PACCAR,USA,US6937181088,vehicles,car truck and bus manufacturers,USD,USD
+698,Parker,USA,US7010941042,industrial,industrial equipment and light machinery,USD,USD
+699,Paychex,USA,US7043261079,services,business services,USD,USD
+700,PepsiCo,USA,US7134481081,consumer,beverage manufacturers,USD,USD
+702,Philip Morris,USA,US7181721090,consumer,tobacco,USD,USD
+703,Phillips 66,USA,US7185461040,industrial,petroleum refiners and distributors,USD,USD
+704,Pinnacle West,USA,US7234841010,utilities,electricity distribution and generation,USD,USD
+705,Pioneer Natural,USA,US7237871071,primary production,oil and gas,USD,USD
+706,Pitney,USA,US7244791007,services,business services,USD,USD
+707,Codan,Australia,AU000000CDA3,electrical electronic,electronic finished products,AUD,AUD
+708,PNC Financial,USA,US6934751057,services,financial services,USD,USD
+709,Polo Ralph L,USA,US7512121010,consumer,clothing wholesale and retail,USD,USD
+710,PPG Industries,USA,US6935061076,chemicals,paints and coatings,USD,USD
+711,PPL,USA,US69351T1060,utilities,diversified utilities,USD,USD
+712,Praxair old,Special Spare,dead ISIN 712,industrial,industrial gases,USD,USD
+713,Maca,Australia,AU000000MLD9,primary production,metals and minerals mining and exploration,AUD,AUD
+714,Booking Hldgs,USA,US09857L1089,consumer,hotels travel gambling and leisure,USD,USD
+715,Principal Fin,USA,US74251V1026,services,financial services,USD,USD
+716,Procter & G,USA,US7427181091,consumer,household consumables manufacturers,USD,USD
+717,Progressive,USA,US7433151039,services,insurance — general,USD,USD
+718,Prologis,USA,US74340W1036,real estate,office commercial and industrial real estate,USD,USD
+719,Prudential Fin,USA,US7443201022,services,insurance — general,USD,USD
+720,Public Serv Ent,USA,US7445731067,utilities,diversified utilities,USD,USD
+721,Public Storage,USA,US74460D1090,real estate,office commercial and industrial real estate,USD,USD
+722,Qualcomm,USA,US7475251036,electrical electronic,communication and networking equipment,USD,USD
+723,Quest Diag,USA,US74834L1008,healthcare,medical equipment,USD,USD
+724,Raytheon,USA,US7551115071,industrial,defence products,USD,USD
+725,Regeneron Pharm,USA,US75886F1075,healthcare,pharmaceuticals and biosciences,USD,USD
+726,Republic Servs,USA,US7607591002,industrial,waste and water management,USD,USD
+727,Lovisa Hldgs,Australia,AU000000LOV7,consumer,cosmetics jewellery and luxury products,AUD,AUD
+728,Robert Half,USA,US7703231032,services,HR and recruitment,USD,USD
+729,Rockwell Auto,USA,US7739031091,industrial,industrial equipment and light machinery,USD,USD
+731,Ryder System,USA,US7835491082,transport,transport logistics and distribution,USD,USD
+732,Dicker Data,Australia,AU000000DDR5,IT,computers phones and devices,AUD,AUD
+733,Leidos,USA,US5253271028,industrial,defence products,USD,USD
+734,Salesforce.com,USA,US79466L3024,IT,search cloud and integrated IT services,USD,USD
+735,SCANA,USA,US80589M1027,utilities,diversified utilities,USD,USD
+736,Schlumberge old,Special Spare,dead ISIN 736,industrial,oil and gas equipment and services,USD,USD
+737,Seagate,USA,IE00B58JVZ52,electrical electronic,electronic finished products,USD,USD
+738,Sealed Air,USA,US81211K1007,industrial,packaging,USD,USD
+739,Sempra Energy,USA,US8168511090,utilities,diversified utilities,USD,USD
+740,SherwinWill old,Special Spare,dead ISIN 740,chemicals,paints and coatings,USD,USD
+741,Simon Property,USA,US8288061091,real estate,retail and malls real estate,USD,USD
+742,SLM,USA,US78442P1066,services,financial services,USD,USD
+743,Smucker (JM),USA,US8326964058,consumer,food manufacturers,USD,USD
+745,Spectra Ene old,Special Spare,dead ISIN 745,industrial,pipelines and energy storage,USD,USD
+746,St Jude Med old,Special Spare,dead ISIN 746,healthcare,medical equipment,USD,USD
+747,Stanley B&D,USA,US8545021011,industrial,industrial equipment and light machinery,USD,USD
+749,Starbucks,USA,US8552441094,consumer,restaurants,USD,USD
+750,Starwood Ho old,Special Spare,dead ISIN 750,consumer,hotels travel gambling and leisure,USD,USD
+751,State Street,USA,US8574771031,services,financial services,USD,USD
+752,Stryker,USA,US8636671013,healthcare,medical equipment,USD,USD
+753,SunTrust Banks,USA,US8679141031,services,banking,USD,USD
+754,Symantec,USA,US8715031089,IT,software providers,USD,USD
+755,Sysco,USA,US8718291078,consumer,diversified wholesale and retail,USD,USD
+756,T Rowe Price,USA,US74144T1088,services,financial services,USD,USD
+757,Target,USA,US87612E1064,consumer,diversified wholesale and retail,USD,USD
+758,TE Connectivity,USA,CH0102993182,electrical electronic,cables wires and transmission,USD,USD
+760,Texas Inst,USA,US8825081040,electrical electronic,electronic components,USD,USD
+761,Thermo Fisher,USA,US8835561023,technology,high precision and instrumentation products,USD,USD
+762,Tiffany,USA,US8865471085,consumer,cosmetics jewellery and luxury products,USD,USD
+763,Time Warner old,Special Spare,dead ISIN 763,telecommunications,diversified telecommunications,USD,USD
+764,Time Warner,USA,US8873173038,consumer,entertainment and broadcasting,USD,USD
+765,TJX Companies,USA,US8725401090,consumer,clothing wholesale and retail,USD,USD
+766,Travelers,USA,US89417E1091,services,insurance — general,USD,USD
+767,TwentyFirst Fox,USA,US90130A1016,consumer,entertainment and broadcasting,USD,USD
+769,Union Pacific,USA,US9078181081,transport,railroads and bus services,USD,USD
+770,REVA Medical,Australia,AU000000RVA3,healthcare,medical equipment,AUD,AUD
+771,United Parcel,USA,US9113121068,transport,transport logistics and distribution,USD,USD
+772,United Tech,USA,US9130171096,industrial,diversified industrial,USD,USD
+773,Unum,USA,US91529Y1064,services,insurance — life and health,USD,USD
+774,US Bancorp,USA,US9029733048,services,banking,USD,USD
+775,Valero Energy,USA,US91913Y1001,industrial,petroleum refiners and distributors,USD,USD
+776,Ventas,USA,US92276F1003,real estate,healthcare real estate,USD,USD
+777,EML Payments,Australia,AU000000EML7,services,financial services,AUD,AUD
+778,Vertex Pharmas,USA,US92532F1003,healthcare,pharmaceuticals and biosciences,USD,USD
+779,VF,USA,US9182041080,consumer,clothing and shoe manufacturers,USD,USD
+780,Viacom,Special Spare,US92553P2011,consumer,entertainment and broadcasting,USD,USD
+781,Visa,USA,US92826C8394,services,business services,USD,USD
+782,Vornado Realty,USA,US9290421091,real estate,diversified real estate,USD,USD
+783,Walgreen,USA,US9314221097,consumer,diversified wholesale and retail,USD,USD
+784,Wal,USA,US9311421039,consumer,diversified wholesale and retail,USD,USD
+785,Walt Disney,USA,US2546871060,consumer,entertainment and broadcasting,USD,USD
+786,Graham Hldgs,USA,US3846371041,services,education,USD,USD
+787,Waste Mangmt,USA,US94106L1098,industrial,waste and water management,USD,USD
+788,Anthem,USA,US0367521038,services,insurance — life and health,USD,USD
+789,Wells Fargo,USA,US9497461015,services,banking,USD,USD
+791,Western Union,USA,US9598021098,services,financial services,USD,USD
+792,Freelancer,Australia,AU000000FLN2,IT,search cloud and integrated IT services,AUD,AUD
+793,Whirlpool,USA,US9633201069,consumer,household appliances and hardware,USD,USD
+794,Whole Foods old,Special Spare,dead ISIN 794,consumer,diversified wholesale and retail,USD,USD
+795,Williams Cos,USA,US9694571004,industrial,pipelines and energy storage,USD,USD
+796,Rural Funds,Australia,AU000000RFF5,primary production,agribusiness agriculture and fishing,AUD,AUD
+797,Xcel Energy,USA,US98389B1008,utilities,diversified utilities,USD,USD
+798,Xerox,USA,US9841211033,services,business services,USD,USD
+799,Xilinx,USA,US9839191015,electrical electronic,electronic components,USD,USD
+800,Schlumberger,USA,AN8068571086,industrial,oil and gas equipment and services,USD,USD
+801,Yum! Brands,USA,US9884981013,consumer,restaurants,USD,USD
+802,Johnson Cont,USA,IE00BY7QL619,industrial,diversified industrial,USD,USD
+803,AES Corp,USA,US00130H1059,utilities,electricity distribution and generation,USD,USD
+804,Affiliated Mgrs,USA,US0082521081,services,financial services,USD,USD
+805,Airgas old,Special Spare,dead ISIN 805,industrial,industrial gases,USD,USD
+806,Akamai Tech,USA,US00971T1016,IT,search cloud and integrated IT services,USD,USD
+807,Alcoa,USA,US0138721065,primary production,non—ferrous metals production and products,USD,USD
+808,Allegion,USA,IE00BFRT3W74,electrical electronic,electronic finished products,USD,USD
+809,Alliance Data,USA,US0185811082,services,business services,USD,USD
+810,Ingenia,Australia,AU000000INA9,real estate,residential real estate,AUD,AUD
+811,Ametek,USA,US0311001004,technology,high precision and instrumentation products,USD,USD
+812,Amphenol,USA,US0320951017,electrical electronic,cables wires and transmission,USD,USD
+813,Autodesk,USA,US0527691069,IT,software providers,USD,USD
+814,AutoNation,USA,US05329W1027,vehicles,vehicle sales and repair,USD,USD
+815,Senex Energy,Australia,AU000000SXY7,industrial,oil and gas drilling and exploration,AUD,AUD
+816,Avon Products,USA,US0543031027,consumer,cosmetics jewellery and luxury products,USD,USD
+817,Ball Corp old,Special Spare,dead ISIN 817,industrial,packaging,USD,USD
+819,Best Buy,USA,US0865161014,consumer,diversified wholesale and retail,USD,USD
+820,BorgWarner,USA,US0997241064,vehicles,auto parts and components,USD,USD
+821,Boston Sci,USA,US1011371077,healthcare,medical equipment,USD,USD
+822,Cameron Int old,Special Spare,dead ISIN 822,industrial,oil and gas equipment and services,USD,USD
+823,QMS Media,Australia,AU000000QMS6,media publishing,advertising — marketing — media — e—commerce,AUD,AUD
+824,Carmax,USA,US1431301027,vehicles,vehicle sales and repair,USD,USD
+825,CBRE Group,USA,US12504L1098,real estate,real estate services,USD,USD
+826,CF Industries,USA,US1252691001,chemicals,agricultural chemicals and fertilisers,USD,USD
+827,Chipotle Mex,USA,US1696561059,consumer,restaurants,USD,USD
+828,Cimarex,USA,US1717981013,primary production,oil and gas,USD,USD
+829,Cincinnati Fin,USA,US1720621010,services,insurance — general,USD,USD
+830,Cintas,USA,US1729081059,services,business services,USD,USD
+831,Citrix,USA,US1773761002,IT,search cloud and integrated IT services,USD,USD
+832,CNX Res,USA,US12653C1080,primary production,coal and coal products,USD,USD
+833,Constellation,USA,US21036P1084,consumer,beverage manufacturers,USD,USD
+834,D. R. Horton,USA,US23331A1097,real estate,residential real estate,USD,USD
+835,DaVita,USA,US23918K1088,healthcare,healthcare services,USD,USD
+836,Denbury Res,USA,US2479162081,primary production,oil and gas,USD,USD
+837,Dentsply,USA,US2490301072,healthcare,medical equipment,USD,USD
+838,Industria REIT,Australia,AU0000039711,real estate,office commercial and industrial real estate,AUD,AUD
+839,Dun+Bradstreet,USA,US26483E1001,media publishing,publishing and printing,USD,USD
+840,E,USA,US2692464017,services,financial services,USD,USD
+841,Eastman Chem,USA,US2774321002,chemicals,chemicals and petrochemicals,USD,USD
+842,Edwards Life,USA,US28176E1082,healthcare,healthcare products,USD,USD
+843,Electronic Arts,USA,US2855121099,consumer,entertainment and broadcasting,USD,USD
+844,EQT,USA,US26884L1098,primary production,oil and gas,USD,USD
+845,Champion Iron,Australia,AU000000CIA2,primary production,metals and minerals mining and exploration,AUD,AUD
+846,Essex Property,USA,US2971781057,real estate,residential real estate,USD,USD
+847,Expedia,USA,US30212P3038,consumer,hotels travel gambling and leisure,USD,USD
+848,Expeditors,USA,US3021301094,transport,transport logistics and distribution,USD,USD
+849,F5 Networks,USA,US3156161024,IT,search cloud and integrated IT services,USD,USD
+850,Class Ltd,Australia,AU000000CL11,IT,search cloud and integrated IT services,AUD,AUD
+851,First Solar,USA,US3364331070,electrical electronic,electronic finished products,USD,USD
+852,Fiserv old,Special Spare,dead ISIN 852,IT,software providers,USD,USD
+853,FLIR Systems,USA,US3024451011,technology,high precision and instrumentation products,USD,USD
+854,Flowserve,USA,US34354P1057,industrial,industrial components,USD,USD
+855,Fluor,USA,US3434121022,services,engineering and technical services,USD,USD
+856,FMC Corp,USA,US3024913036,chemicals,chemicals and petrochemicals,USD,USD
+857,TechnipFMC,USA,GB00BDSFG982,industrial,oil and gas equipment and services,USD,USD
+858,Frontier Comms,USA,US35906A1088,telecommunications,diversified telecommunications,USD,USD
+859,GameStop,USA,US36467W1099,consumer,entertainment and broadcasting,USD,USD
+860,Garmin,USA,CH0114405324,technology,high precision and instrumentation products,USD,USD
+861,Genworth,USA,US37247D1063,services,financial services,USD,USD
+862,Goodyear,USA,US3825501014,vehicles,tire manufacturers,USD,USD
+863,Harley,USA,US4128221086,vehicles,cycles and motorcycles,USD,USD
+864,Harman Intl old,Special Spare,dead ISIN 864,electrical electronic,electronic finished products,USD,USD
+865,Hartford Fin,USA,US4165151048,services,insurance — general,USD,USD
+866,Helmerich+Payne,USA,US4234521015,industrial,oil and gas drilling and exploration,USD,USD
+867,FAR Ltd,Australia,AU000000FAR6,industrial,oil and gas drilling and exploration,AUD,AUD
+868,Equity Trustees,Australia,AU000000EQT1,services,financial services,AUD,AUD
+869,Humana,USA,US4448591028,services,insurance — life and health,USD,USD
+870,Scottish Pac,Australia,AU000000SCO2,services,financial services,AUD,AUD
+871,Jabil Circuit,USA,US4663131039,industrial,industrial equipment and light machinery,USD,USD
+872,Jacobs,USA,US4698141078,services,engineering and technical services,USD,USD
+873,Rockwell C,USA,US7743411016,industrial,aerospace,USD,USD
+874,Juniper,USA,US48203R1041,electrical electronic,communication and networking equipment,USD,USD
+875,Kansas City,USA,US4851703029,transport,railroads and bus services,USD,USD
+876,Southern,USA,US8425871071,utilities,electricity distribution and generation,USD,USD
+877,Terramin,Australia,AU000000TZN3,primary production,metals and minerals mining and exploration,AUD,AUD
+878,Lam Research,USA,US5128071082,industrial,industrial equipment and light machinery,USD,USD
+879,Legg Mason,USA,US5249011058,services,financial services,USD,USD
+880,Leggett & Platt,USA,US5246601075,industrial,diversified industrial,USD,USD
+881,Lennar Corp,USA,US5260571048,real estate,residential real estate,USD,USD
+882,Jefferies Fin,USA,US47233W1099,conglomerates,diversified conglomerates,USD,USD
+883,Macerich,USA,US5543821012,real estate,retail and malls real estate,USD,USD
+884,Marriott old,Special Spare,dead ISIN 884,consumer,hotels travel gambling and leisure,USD,USD
+885,Masco,USA,US5745991068,industrial,building and construction materials,USD,USD
+886,Mohawk,USA,US6081901042,industrial,building and construction materials,USD,USD
+887,Monster Bev,USA,US6117401017,consumer,beverage manufacturers,USD,USD
+888,Moody,USA,US6153691059,services,financial services,USD,USD
+889,Nabors,USA,BMG6359F1032,industrial,oil and gas drilling and exploration,USD,USD
+890,Navient,USA,US63938C1080,services,financial services,USD,USD
+891,Newfield,USA,US6512901082,primary production,oil and gas,USD,USD
+892,News Corp,USA,US65249B1098,media publishing,advertising — marketing — media — e—commerce,USD,USD
+893,Noble Corp,USA,GB00BFG3KF26,industrial,oil and gas drilling and exploration,USD,USD
+894,NRG Energy,USA,US6293775085,utilities,diversified utilities,USD,USD
+895,O'Reilly Auto,USA,US67103H1077,vehicles,auto parts and components,USD,USD
+896,Owens,USA,US6907684038,industrial,glass and glass products,USD,USD
+897,Beacon Lighting,Australia,AU000000BLX0,consumer,diversified wholesale and retail,AUD,AUD
+898,Patterson,USA,US7033951036,healthcare,healthcare products,USD,USD
+899,Peabody Energy,USA,US7045511000,primary production,coal and coal products,USD,USD
+900,Pentair,USA,US7096311052,industrial,industrial equipment and light machinery,USD,USD
+901,Aboitiz Equity,Philippines,PHY0001Z1040,conglomerates,diversified conglomerates,PHP,PHP
+902,Aboitiz Power,Philippines,PHY0005M1090,utilities,electricity distribution and generation,PHP,PHP
+903,Alliance Global,Philippines,PHY003341054,conglomerates,diversified conglomerates,PHP,PHP
+904,Ayala,Philippines,PHY0486V1154,conglomerates,diversified conglomerates,PHP,PHP
+905,Ayala Land,Philippines,PHY0488F1004,real estate,diversified real estate,PHP,PHP
+906,Banco de Oro,Philippines,PHY0560W1046,services,banking,PHP,PHP
+907,BPI,Philippines,PHY0967S1694,services,banking,PHP,PHP
+908,Belle,Philippines,PHY0775S1043,consumer,hotels travel gambling and leisure,PHP,PHP
+909,DMCI Hldgs,Philippines,PHY2088F1004,construction,construction — industrial and diversified,PHP,PHP
+911,First Gen,Philippines,PHY2518H1143,utilities,electricity distribution and generation,PHP,PHP
+912,Globe Telecom,Philippines,PHY272571498,telecommunications,diversified telecommunications,PHP,PHP
+913,Intl Container,Philippines,PHY411571011,transport,transport logistics and distribution,PHP,PHP
+914,JG Summit,Philippines,PHY444251177,conglomerates,diversified conglomerates,PHP,PHP
+915,Jollibee Foods,Philippines,PHY4466S1007,consumer,restaurants,PHP,PHP
+916,Manila Electric,Philippines,PHY5764J1483,utilities,electricity distribution and generation,PHP,PHP
+917,Manila Water,Philippines,PHY569991086,utilities,gas and water utilities,PHP,PHP
+918,Megaworld,Philippines,PHY594811127,real estate,diversified real estate,PHP,PHP
+919,Metro Pacific,Philippines,PHY603051020,utilities,diversified utilities,PHP,PHP
+920,Metro Bank,Philippines,PHY6028G1361,services,banking,PHP,PHP
+921,Petron,Philippines,PHY6885F1067,industrial,petroleum refiners and distributors,PHP,PHP
+922,Philex Mining,Philippines,PHY689911352,primary production,metals and minerals mining and exploration,PHP,PHP
+923,PLDT,Philippines,PH7182521093,telecommunications,diversified telecommunications,PHP,PHP
+924,Robinsons Land,Philippines,PHY731961264,real estate,diversified real estate,PHP,PHP
+925,San Miguel A,Philippines,PH7990853035,conglomerates,diversified conglomerates,PHP,PHP
+926,Semirara Mining,Philippines,PHY7627Y1552,primary production,coal and coal products,PHP,PHP
+927,2GO Group,Philippines,PHY9017S1034,transport,transport logistics and distribution,PHP,PHP
+928,SM Investments,Philippines,PHY806761029,real estate,diversified real estate,PHP,PHP
+929,SM Prime,Philippines,PHY8076N1120,real estate,diversified real estate,PHP,PHP
+930,Univ Robina,Philippines,PHY9297P1004,primary production,agribusiness agriculture and fishing,PHP,PHP
+931,PetroV Gas,Vietnam,VN000000GAS3,utilities,gas and water utilities,VND,VND
+932,Vietnam Dairy,Vietnam,VN000000VNM8,consumer,food manufacturers,VND,VND
+933,Vietcombank,Vietnam,VN000000VCB4,services,banking,VND,VND
+934,VN Comm Bk IT,Vietnam,VN000000CTG7,services,banking,VND,VND
+935,Masan,Vietnam,VN000000MSN4,consumer,food manufacturers,VND,VND
+936,Vingroup,Vietnam,VN000000VIC9,real estate,diversified real estate,VND,VND
+937,Baoviet Hldgs,Vietnam,VN000000BVH3,services,insurance — life and health,VND,VND
+938,SaiGon Thuong,Vietnam,VN000000STB4,services,banking,VND,VND
+939,PV Fertilizer,Vietnam,VN000000DPM1,chemicals,agricultural chemicals and fertilisers,VND,VND
+940,HAGL,Vietnam,VN000000HAG6,primary production,forestry and timber,VND,VND
+941,Hoa Phat,Vietnam,VN000000HPG4,primary production,steel production and products,VND,VND
+942,FPT,Vietnam,VN000000FPT1,IT,software providers,VND,VND
+943,Kinh Do,Vietnam,VN000000KDC3,consumer,food manufacturers,VND,VND
+944,DHG Pharma,Vietnam,VN000000DHG0,healthcare,pharmaceuticals and biosciences,VND,VND
+945,PhaLai Thermal,Vietnam,VN000000PPC6,utilities,electricity distribution and generation,VND,VND
+946,Ocean,Vietnam,VN000000OGC8,services,financial services,VND,VND
+947,Hoa Sen,Vietnam,VN000000HSG8,primary production,steel production and products,VND,VND
+948,Tan Tao Inv,Vietnam,VN000000ITA7,real estate,diversified real estate,VND,VND
+949,Danang Rubber,Vietnam,VN000000DRC8,industrial,rubber and plastics,VND,VND
+950,Gemadept,Vietnam,VN000000GMD0,transport,transport logistics and distribution,VND,VND
+951,Vinh Son,Vietnam,VN000000VSH7,utilities,electricity distribution and generation,VND,VND
+952,Kinhbac City,Vietnam,VN000000KBC7,real estate,diversified real estate,VND,VND
+953,Southern Rubber,Vietnam,VN000000CSM7,industrial,rubber and plastics,VND,VND
+954,PV Transportn,Vietnam,VN000000PVT8,industrial,pipelines and energy storage,VND,VND
+955,Becamex Infra,Vietnam,VN000000IJC4,real estate,diversified real estate,VND,VND
+956,Thanh Thanh,Vietnam,VN000000SBT4,consumer,food manufacturers,VND,VND
+957,PV General Svcs,Vietnam,VN000000PET4,industrial,petroleum refiners and distributors,VND,VND
+958,Vietnam Dev Inv,Vietnam,VN000000DIG8,real estate,diversified real estate,VND,VND
+959,Advantest,Japan,JP3122400009,technology,high precision and instrumentation products,JPY,JPY
+960,Aeon,Japan,JP3388200002,consumer,diversified wholesale and retail,JPY,JPY
+961,Ajinomoto,Japan,JP3119600009,consumer,food manufacturers,JPY,JPY
+962,Alps Electric,Japan,JP3126400005,electrical electronic,electronic components,JPY,JPY
+963,Amada,Japan,JP3122800000,industrial,industrial equipment and light machinery,JPY,JPY
+964,ANA Hldgs,Japan,JP3429800000,transport,airlines,JPY,JPY
+965,Aozora Bank,Japan,JP3711200000,services,banking,JPY,JPY
+966,Asahi Glass,Japan,JP3112000009,industrial,glass and glass products,JPY,JPY
+967,Asahi Gp Hldgs,Japan,JP3116000005,consumer,beverage manufacturers,JPY,JPY
+968,Asahi Kasei,Japan,JP3111200006,chemicals,chemicals and petrochemicals,JPY,JPY
+969,Astellas Pharma,Japan,JP3942400007,healthcare,pharmaceuticals and biosciences,JPY,JPY
+970,Marudai Food,Japan,JP3876400007,consumer,food manufacturers,JPY,JPY
+971,Bridgestone,Japan,JP3830800003,vehicles,tire manufacturers,JPY,JPY
+972,Canon,Japan,JP3242800005,electrical electronic,electronic finished products,JPY,JPY
+973,Casio Computer,Japan,JP3209000003,electrical electronic,electronic finished products,JPY,JPY
+974,Cent Japan Ry,Japan,JP3566800003,transport,railroads and bus services,JPY,JPY
+975,Chiba Bank,Japan,JP3511800009,services,banking,JPY,JPY
+976,Chiyoda,Japan,JP3528600004,services,engineering and technical services,JPY,JPY
+977,Chubu Elec Pwr,Japan,JP3526600006,utilities,electricity distribution and generation,JPY,JPY
+978,Chugai Pharma,Japan,JP3519400000,healthcare,pharmaceuticals and biosciences,JPY,JPY
+979,Citizen Watch,Japan,JP3352400000,conglomerates,sector holding companies,JPY,JPY
+980,Comsys,Japan,JP3305530002,construction,infrastructure construction and services,JPY,JPY
+981,Credit Saison,Japan,JP3271400008,services,financial services,JPY,JPY
+982,Dai Nippon,Japan,JP3493800001,media publishing,publishing and printing,JPY,JPY
+983,Dai,Japan,JP3476480003,services,insurance — life and health,JPY,JPY
+984,Daiichi Sankyo,Japan,JP3475350009,healthcare,pharmaceuticals and biosciences,JPY,JPY
+985,Daikin Inds,Japan,JP3481800005,industrial,industrial equipment and light machinery,JPY,JPY
+986,Screen Hldgs,Japan,JP3494600004,industrial,industrial equipment and light machinery,JPY,JPY
+987,Sumitomo Dai,Japan,JP3495000006,healthcare,pharmaceuticals and biosciences,JPY,JPY
+988,Daiwa House,Japan,JP3505000004,real estate,residential real estate,JPY,JPY
+989,Daiwa Secs,Japan,JP3502200003,services,financial services,JPY,JPY
+990,Denka,Japan,JP3549600009,chemicals,chemicals and petrochemicals,JPY,JPY
+991,Denso,Japan,JP3551500006,vehicles,auto parts and components,JPY,JPY
+992,Dentsu,Japan,JP3551520004,media publishing,advertising — marketing — media — e—commerce,JPY,JPY
+993,DOWA Hldgs,Japan,JP3638600001,conglomerates,diversified conglomerates,JPY,JPY
+994,East Japan Ry,Japan,JP3783600004,transport,railroads and bus services,JPY,JPY
+995,Ebara,Japan,JP3166000004,industrial,power nuclear and heavy engineering,JPY,JPY
+996,Eisai,Japan,JP3160400002,healthcare,pharmaceuticals and biosciences,JPY,JPY
+997,Fanuc,Japan,JP3802400006,industrial,industrial equipment and light machinery,JPY,JPY
+998,Fast Retailing,Japan,JP3802300008,consumer,clothing wholesale and retail,JPY,JPY
+999,Fuji Electric,Japan,JP3820000002,industrial,power nuclear and heavy engineering,JPY,JPY
 1000,Subaru Corp,Japan,JP3814800003,vehicles,car truck and bus manufacturers,JPY,JPY
 1001,Fujifilm Hldgs,Japan,JP3814000000,technology,image processing,JPY,JPY
 1002,Fujikura,Japan,JP3811000003,electrical electronic,electrical equipment,JPY,JPY

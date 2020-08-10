@@ -44,47 +44,57 @@ Shareholder-friendly management:
  - Share Buybacks
 """
 
-def FinnHubFinancials(financials_df):
-    return {'net_income' : financials_df['netIncome'],
-            'total_assets' : financials_df['totalAssets'],
-            'total_debt' : financials_df['totalDebt'],
-            'shareholder_equity' : financials_df['totalAssets'] - financials_df['totalDebt'],
-            'operating_cash_flow' : financials_df['cashfromOperatingActivities'],
-            'ebitda' : financials_df['netIncomeBeforeTaxes']
-            }
-
-def EquityQuality(net_income,
-                  shareholder_equity,
-                  operating_cash_flow,
-                  total_assets,
-                  # accruals,
-                  ebitda,
-                  total_debt):
-    metrics = {'return_on_equity' : net_income / shareholder_equity,
-               'cash_flow_to_assets' : operating_cash_flow / total_assets,
-               #'accruals' : 
-               'debt_to_earnings' : total_debt / ebitda,
-               'asset_leverage' : total_debt / total_assets
-               # 'share_buybacks' : share_buybacks
+class Company():
+    def __init__(self,ticker,financials_df,share_price,data_source):
+        self.share_price = share_price
+        self.ticker = ticker
+        if data_source == 'fh':
+            self.net_income = self.ValidateInput('netIncome',financials_df)
+            self.total_assets = self.ValidateInput('totalAssets',financials_df)
+            self.total_debt = self.ValidateInput('totalDebt',financials_df)
+            self.shareholder_equity = self.total_assets - self.total_debt
+            self.operating_cash_flow = self.ValidateInput('cashfromOperatingActivities',financials_df)
+            self.ebitda = self.ValidateInput('netIncomeBeforeTaxes',financials_df)
+            self.shares_outstanding = self.ValidateInput('totalCommonSharesOutstanding',financials_df)
+            self.market_cap = self.shares_outstanding * self.share_price
+            self.cash_and_equivalents = self.ValidateInput('cash',financials_df) + self.ValidateInput('cashEquivalents',financials_df)
+            self.enterprise_value = self.market_cap + self.total_debt + self.cash_and_equivalents
+            self.book_value = self.shares_outstanding * self.ValidateInput('tangibleBookValueperShare',financials_df)
+        elif data_source == 'rb':
+            self.net_income = financials_df['Net Income exc. extra'],
+            self.total_assets = financials_df['Total Assets'],
+            self.total_debt = financials_df['Total Liabilities'],
+            self.shareholder_equity = self.total_assets - self.total_debt,
+            self.operating_cash_flow = financials_df['Cash from Operations'],
+            self.ebitda = financials_df['Operating Income']
+            self.shares_outstanding = financials_df['Diluted Shares OS']
+            self.market_cap = self.shares_outstanding * share_price
+            self.cash_and_equivalents = financials_df['End Cash']
+            self.enterprise_value = self.market_cap + self.total_debt + self.cash_and_equivalents
+            self.book_value = financials_df['Shareholder Equity']
+        else:
+            print("Data source not recognised")
+            
+    def ValidateInput(self,variable_name,input_df):
+        input_df = input_df.fillna(0)
+        return input_df[variable_name]
+    
+    def EquityQuality(self):
+        metrics = {'return_on_equity' : [self.net_income / self.shareholder_equity],
+               'cash_flow_to_assets' : [self.operating_cash_flow / self.total_assets],
+               'debt_to_earnings' : [self.total_debt / self.ebitda],
+               'asset_leverage' : [self.total_debt / self.total_assets]
                }
-    return pd.DataFrame(metrics)
-
-def EquitySize(cash_and_equivalents,
-               total_debt,
-               outstanding_shares,
-               total_assets,
-               share_price):
-    metrics = {'return_on_equity' : net_income / shareholder_equity,
-               'cash_flow_to_assets' : operating_cash_flow / total_assets,
-               #'accruals' : 
-               'debt_to_earnings' : total_debt / ebitda,
-               'asset_leverage' : total_debt / total_assets
-               # 'share_buybacks' : share_buybacks
+        return pd.DataFrame.from_dict(metrics)
+    
+    def EquitySize(self):
+        metrics = {'market_cap' : self.market_cap,
+               'enterprise_value' : self.enterprise_value,
+               'total_assets' : self.total_assets
                }
-    return pd.DataFrame(metrics)
+        return pd.DataFrame(metrics)
+    
+    # def EquityValue(self):
+    #     metrics = {'dividend_yield' : 
+    #         }
 
-# load sample data
-sample_price = pd.read_csv('checkpoint_CO_price_data.csv')
-sample_financial = pd.read_csv('checkpoint_CO_financial_data.csv')
-
-# calculate 

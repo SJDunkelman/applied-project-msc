@@ -118,10 +118,10 @@ for market, universe in markets.items():
     ticker_no_price_data = [] # Reconciliation
     ticker_no_financial_data = [] # Reconciliation
     
-    ## Debug
-    if market == 'HK'or market == 'L' or market == 'CO' or market == 'MI': #  
-        continue
-    ##
+    # ## Debug
+    # if market == 'HK'or market == 'L' or market == 'CO' or market == 'MI': #  
+    #     continue
+    # ##
     
     # Get list of stocks
     ticker_list = list(universe.finnhub)
@@ -149,7 +149,7 @@ for market, universe in markets.items():
         else:
             ticker_no_financial_data.append(ticker)
             
-        # Sleep every 4 tickers to avoid timeout
+        # Sleep every 10 tickers to avoid timeout
         if (ticker_list.index(ticker)+1) % 10 == 0:
             completion_percent = ((ticker_list.index(ticker)+1) / len(ticker_list))*100
             print("\n",str(completion_percent),"% complete\n")
