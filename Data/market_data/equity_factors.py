@@ -46,9 +46,11 @@ Shareholder-friendly management:
 
 class Company():
     def __init__(self,ticker,financials_df,share_price,data_source):
-        self.share_price = share_price
+        self.share_price = share_price # Need to get latest price for share price
         self.ticker = ticker
+        
         if data_source == 'fh':
+            self.revenue = self.ValidateInput('revenue',financials_df)
             self.net_income = self.ValidateInput('netIncome',financials_df)
             self.total_assets = self.ValidateInput('totalAssets',financials_df)
             self.total_debt = self.ValidateInput('totalDebt',financials_df)
@@ -56,6 +58,7 @@ class Company():
             self.operating_cash_flow = self.ValidateInput('cashfromOperatingActivities',financials_df)
             self.ebitda = self.ValidateInput('netIncomeBeforeTaxes',financials_df)
             self.shares_outstanding = self.ValidateInput('totalCommonSharesOutstanding',financials_df)
+            self.dividend_yield = self.ValidateInput('totalCashDividendsPaid',financials_df) / self.shares_outstanding
             self.market_cap = self.shares_outstanding * self.share_price
             self.cash_and_equivalents = self.ValidateInput('cash',financials_df) + self.ValidateInput('cashEquivalents',financials_df)
             self.enterprise_value = self.market_cap + self.total_debt + self.cash_and_equivalents
@@ -94,7 +97,15 @@ class Company():
                }
         return pd.DataFrame(metrics)
     
-    # def EquityValue(self):
-    #     metrics = {'dividend_yield' : 
-    #         }
+    def EquityValue(self):
+        metrics = {'dividend_yield' : self.dividend_yield,
+                   'earnings_to_price' : (self.net_income / self.shares_outstanding) / self.share_price,
+                   'book_to_price' : (self.book_value / self.shares_outstanding) / self.share_price,
+                   'sales_to_price' : (self.revenue / self.shares_outstanding) / self.share_price,
+                   'enterprise_to_ebitda' : self.enterprise_value / self.ebitda
+            }
+        return pd.DataFrame(metrics)
+
+    # def EquityMomentum(self):
+    #     metrics
 
