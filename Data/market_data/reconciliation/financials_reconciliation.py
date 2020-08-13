@@ -37,6 +37,13 @@ def GetRoburCompanyCode(isin):
         return None
 
 def GetQuandlCode(company_code,financial_statement):
+    if len(str(company_code)) < 4:
+        prefix = ""
+        for zero in range(4 - len(str(company_code))):
+            prefix += "0"
+        company_code = prefix + str(company_code)
+    else:
+        company_code = str(company_code)
     return "RB1/{company_code}_HY{financial_statement}".format(company_code=company_code,financial_statement=financial_statement)
 
 def MergeStatementDF(statement_df_list):
@@ -45,21 +52,44 @@ def MergeStatementDF(statement_df_list):
     output = output.set_index('period')
     return output
 
-def DownloadRoburFinancials(isin):
-    statement_df_list = []
-    for statement in robur_statements:
-        company_code = GetRoburCompanyCode(isin)
-        quandl_code = GetQuandlCode(company_code,statement)
-        statement_data = quandl.get(quandl_code,
+def DownloadRoburFinancials(ticker):
+    # statement_df_list = []
+    # output = pd.DataFrame()
+    isin = GetISIN(ticker)
+    company_code = GetRoburCompanyCode(isin)
+    quandl_code = GetQuandlCode(company_code,'BALANCE')
+    statement_data = quandl.get(quandl_code,
                                     start_date = backtest_start_date,
                                     end_date = backtest_end_date)
-        statement_df_list.append(statement_data)
-    return MergeStatementDF(statement_df_list)
+    print('assets:',statement_data['Total Assets']) # output['Total Assets'] = 
+    print('debt',statement_data['Total Liabilities']) # output['Total Liabilities'] = 
+    
+    quandl_code = GetQuandlCode(company_code,'CASHFLOW')
+    statement_data = quandl.get(quandl_code,
+                                    start_date = backtest_start_date,
+                                    end_date = backtest_end_date)
+    
+    print('operating cash',statement_data['Cash from Operations'])
+    print('cash_and_equiv',statement_data['End Cash'])
+    
+    quandl_code = GetQuandlCode(company_code,'INCOME')
+    statement_data = quandl.get(quandl_code,
+                                    start_date = backtest_start_date,
+                                    end_date = backtest_end_date)
+    
+    print('net income',statement_data['Net Income exc. extra'])
+    print('revenue',statement_data['Revenue'])
+    print('dividend',statement_data['Dividend'])    
+    
+    
+    # return statement_df_list
         
 def DownloadPriceData(ticker):
     return pdr.get_data_yahoo(ticker,
                               start = backtest_start_date,
                               end = backtest_end_date)
+
+
 
 # Get ISIN from Finnhub symbol
 # for index, row in tickers_df.iterrows():
