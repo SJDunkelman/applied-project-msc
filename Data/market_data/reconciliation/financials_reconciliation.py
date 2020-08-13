@@ -74,28 +74,28 @@ def DownloadPriceData(ticker):
 # Get RB1 financial data from RB1 company symbol
         
 # Check what % of companies are on Robur
-ticker_df = pd.concat(pd.read_excel('investment_universe.xlsx', sheet_name=None), ignore_index=True)
-def MapRoburCodes(ticker_df):
-    robur_code_mapping = pd.DataFrame(columns=['ticker','robur_code'])
-    ticker_count = 0
-    for ticker in ticker_df.finnhub:
-        row = {}
-        print("Checking",ticker)
-        row['ticker'] = ticker
-        isin = GetISIN(ticker)
-        ticker_count += 1
-        if (ticker_count+1) % 30 == 0:
-            time.sleep(60)
-        if isin is not None:
-            robur_company_code = GetRoburCompanyCode(isin)
-            if robur_company_code is not None:
-                row['robur_code'] = robur_company_code
-            else:
-                row['robur_code'] = 'N/A'
-        else:
-            row['robur_code'] = 'N/A'
-        robur_code_mapping = robur_code_mapping.append(row,ignore_index=True)
-    return robur_code_mapping
+# ticker_df = pd.concat(pd.read_excel('investment_universe.xlsx', sheet_name=None), ignore_index=True)
+# def MapRoburCodes(ticker_df):
+#     robur_code_mapping = pd.DataFrame(columns=['ticker','robur_code'])
+#     ticker_count = 0
+#     for ticker in ticker_df.finnhub:
+#         row = {}
+#         print("Checking",ticker)
+#         row['ticker'] = ticker
+#         isin = GetISIN(ticker)
+#         ticker_count += 1
+#         if (ticker_count+1) % 30 == 0:
+#             time.sleep(60)
+#         if isin is not None:
+#             robur_company_code = GetRoburCompanyCode(isin)
+#             if robur_company_code is not None:
+#                 row['robur_code'] = robur_company_code
+#             else:
+#                 row['robur_code'] = 'N/A'
+#         else:
+#             row['robur_code'] = 'N/A'
+#         robur_code_mapping = robur_code_mapping.append(row,ignore_index=True)
+#     return robur_code_mapping
         
     # print("Robur has ",str((counter / len(ticker_df.finnhub))*100),"% of company data needed")
-MapRoburCodes(ticker_df)
+# MapRoburCodes(ticker_df)
