@@ -10,10 +10,10 @@ import pandas as pd
 import numpy as np
 
 # Helper functions
-def RankComponents(**kwargs):
-    max_length = max(len(x) for x in kwargs.values())
+def RankComponents(*args):
+    max_length = max(len(t) for t in args)
     final_rank = np.zeros(max_length)
-    for column in kwargs.values():
+    for column in args:
         column_ranked = column.rank(numeric_only=True,na_option='keep',ascending=True)
         final_rank += column_ranked
     return final_rank / (max_length  + 1)
@@ -91,18 +91,18 @@ class Company():
         return pd.DataFrame.from_dict(metrics)
     
     def EquitySize(self):
-        metrics = {'market_cap' : self.market_cap,
-               'enterprise_value' : self.enterprise_value,
-               'total_assets' : self.total_assets
+        metrics = {'market_cap' : [self.market_cap],
+               'enterprise_value' : [self.enterprise_value],
+               'total_assets' : [self.total_assets]
                }
         return pd.DataFrame(metrics)
     
     def EquityValue(self):
-        metrics = {'dividend_yield' : self.dividend_yield,
-                   'earnings_to_price' : (self.net_income / self.shares_outstanding) / self.share_price,
-                   'book_to_price' : (self.book_value / self.shares_outstanding) / self.share_price,
-                   'sales_to_price' : (self.revenue / self.shares_outstanding) / self.share_price,
-                   'enterprise_to_ebitda' : self.enterprise_value / self.ebitda
+        metrics = {'dividend_yield' : [self.dividend_yield],
+                   'earnings_to_price' : [(self.net_income / self.shares_outstanding) / self.share_price],
+                   'book_to_price' : [(self.book_value / self.shares_outstanding) / self.share_price],
+                   'sales_to_price' : [(self.revenue / self.shares_outstanding) / self.share_price],
+                   'enterprise_to_ebitda' : [self.enterprise_value / self.ebitda]
             }
         return pd.DataFrame(metrics)
 
